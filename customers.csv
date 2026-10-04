@@ -1,0 +1,2501 @@
+customer_id,age,tenure_months,plan,region,acquisition_channel,monthly_revenue,support_tickets_90d,usage_score,churned,clv_12m
+C00001,22,42,Basic,South,Organic,28.96,2,40.8,0,340.44
+C00002,55,6,Pro,North,Social,71.32,0,75.4,0,846.07
+C00003,49,46,Enterprise,East,Organic,196.3,3,89.1,0,2350.27
+C00004,39,7,Pro,East,Paid Search,73.08,0,64.8,0,863.87
+C00005,38,4,Basic,South,Referral,28.36,4,77.7,0,333.47
+C00006,59,7,Basic,West,Referral,23.06,1,51.7,0,267.23
+C00007,22,28,Enterprise,East,Paid Search,181.04,4,66.3,0,2157.45
+C00008,51,38,Enterprise,North,Paid Search,222.31,0,25.7,0,2629.06
+C00009,27,25,Pro,West,Paid Search,84.25,3,45.8,0,992.86
+C00010,22,8,Pro,North,Social,87.34,2,63.9,0,1031.31
+C00011,43,12,Basic,East,Referral,32.22,2,57.8,0,376.34
+C00012,64,52,Basic,South,Social,30.56,1,43.9,0,361.53
+C00013,53,58,Basic,East,Social,27.95,2,55.5,0,332.33
+C00014,54,46,Basic,West,Partner,26.59,3,67.6,0,316.17
+C00015,52,7,Basic,East,Social,31.66,2,62.5,0,369.86
+C00016,55,50,Pro,East,Organic,79.41,1,67.0,0,948.14
+C00017,42,42,Basic,West,Social,34.79,2,76.4,0,414.3
+C00018,24,32,Basic,East,Referral,28.15,2,58.2,0,332.34
+C00019,58,9,Pro,West,Partner,91.47,5,81.1,0,1085.83
+C00020,39,60,Basic,South,Paid Search,28.64,3,45.2,0,339.56
+C00021,42,27,Basic,North,Organic,32.1,1,98.8,0,382.99
+C00022,35,3,Pro,North,Social,89.72,2,82.9,0,1065.11
+C00023,26,13,Basic,East,Referral,26.63,3,55.9,0,310.51
+C00024,62,25,Pro,East,Organic,75.93,1,61.1,0,901.16
+C00025,55,4,Enterprise,North,Partner,182.55,1,69.5,0,2167.94
+C00026,48,20,Basic,North,Organic,26.15,1,76.2,0,309.8
+C00027,37,29,Enterprise,West,Referral,209.62,1,84.6,0,2506.25
+C00028,57,57,Enterprise,East,Partner,195.87,1,43.2,0,2336.88
+C00029,44,6,Pro,West,Partner,79.33,2,71.4,0,938.95
+C00030,39,35,Pro,North,Referral,82.52,3,26.0,0,966.3
+C00031,39,55,Pro,North,Paid Search,67.26,3,59.0,0,802.33
+C00032,28,49,Pro,South,Social,87.13,0,92.7,0,1043.03
+C00033,22,56,Pro,West,Organic,76.79,2,39.9,0,912.73
+C00034,44,11,Basic,East,Organic,30.24,2,36.8,0,345.43
+C00035,60,49,Enterprise,West,Organic,208.88,0,71.8,0,2498.88
+C00036,21,59,Pro,South,Social,87.66,3,85.6,0,1049.23
+C00037,59,20,Pro,South,Referral,78.34,0,73.5,0,932.08
+C00038,57,30,Basic,East,Organic,24.07,1,33.6,0,279.56
+C00039,31,32,Basic,West,Organic,29.13,3,33.4,0,338.05
+C00040,48,30,Pro,South,Organic,80.27,1,67.7,0,955.46
+C00041,25,18,Pro,East,Social,72.46,2,44.0,0,850.72
+C00042,54,59,Basic,West,Referral,29.34,0,70.3,0,350.14
+C00043,51,58,Basic,South,Organic,28.16,4,63.3,0,335.25
+C00044,35,23,Basic,West,Paid Search,25.88,3,53.7,0,303.24
+C00045,21,49,Pro,East,Partner,83.24,2,94.9,0,996.44
+C00046,64,24,Basic,West,Referral,27.69,3,72.0,0,327.66
+C00047,39,48,Enterprise,South,Social,192.53,2,84.6,0,2304.92
+C00048,60,36,Basic,East,Organic,27.93,0,83.6,0,332.9
+C00049,50,29,Basic,South,Organic,31.87,0,65.4,0,377.35
+C00050,55,8,Basic,East,Organic,28.91,2,60.7,0,337.51
+C00051,54,40,Pro,South,Paid Search,79.5,2,58.9,0,946.05
+C00052,27,20,Pro,East,Partner,76.22,2,75.6,0,906.77
+C00053,35,14,Pro,West,Partner,81.93,1,54.9,0,966.36
+C00054,40,12,Enterprise,South,Paid Search,220.48,5,87.3,0,2630.03
+C00055,41,59,Basic,South,Partner,30.5,3,49.3,0,361.98
+C00056,20,7,Pro,South,Partner,83.34,1,69.6,0,986.54
+C00057,44,48,Basic,East,Organic,30.41,1,62.1,0,361.48
+C00058,25,52,Basic,East,Partner,25.8,1,58.3,0,306.66
+C00059,53,2,Basic,East,Referral,26.97,4,96.9,0,319.61
+C00060,50,36,Basic,North,Organic,28.52,0,60.5,0,337.85
+C00061,62,35,Pro,North,Paid Search,74.41,6,50.8,0,880.82
+C00062,53,22,Pro,North,Partner,72.27,1,54.7,0,855.0
+C00063,35,41,Pro,West,Partner,67.17,0,68.7,0,801.39
+C00064,64,25,Pro,West,Paid Search,70.49,3,60.3,0,835.71
+C00065,37,27,Pro,North,Partner,77.38,2,45.0,0,912.89
+C00066,33,26,Basic,North,Paid Search,28.84,2,56.8,0,339.35
+C00067,61,49,Basic,West,Referral,27.16,1,76.4,0,323.9
+C00068,35,38,Basic,East,Organic,29.18,0,85.5,0,348.03
+C00069,21,23,Pro,South,Social,76.26,1,66.4,0,906.01
+C00070,40,56,Enterprise,East,Social,216.36,2,65.0,0,2587.66
+C00071,56,49,Basic,North,Organic,28.63,1,59.9,0,340.2
+C00072,27,56,Pro,North,Referral,83.4,6,47.5,0,991.96
+C00073,40,44,Pro,South,Partner,80.28,4,44.4,0,951.71
+C00074,24,24,Pro,West,Referral,70.14,1,39.5,0,824.5
+C00075,50,47,Pro,West,Paid Search,78.43,1,54.1,0,933.88
+C00076,40,20,Pro,North,Social,71.19,2,79.4,0,847.67
+C00077,33,17,Pro,East,Paid Search,78.32,3,54.8,0,923.82
+C00078,28,28,Pro,West,Paid Search,74.29,2,58.1,0,881.26
+C00079,45,59,Basic,West,Paid Search,29.89,1,59.8,0,355.93
+C00080,50,35,Enterprise,West,Social,177.63,1,87.2,0,2125.33
+C00081,63,24,Basic,North,Referral,29.03,5,42.2,0,336.63
+C00082,38,28,Pro,North,Partner,82.62,3,66.7,0,982.17
+C00083,25,18,Basic,North,Social,31.11,1,64.8,0,366.47
+C00084,57,40,Basic,North,Social,27.23,3,63.2,0,322.85
+C00085,48,22,Basic,North,Social,29.04,3,66.2,0,342.5
+C00086,51,34,Basic,South,Social,29.43,3,63.0,0,348.24
+C00087,22,23,Basic,East,Social,32.59,4,73.5,0,385.54
+C00088,32,20,Basic,South,Social,25.56,1,65.5,0,301.46
+C00089,54,59,Basic,South,Partner,26.89,0,97.7,0,321.85
+C00090,57,21,Basic,North,Organic,35.51,5,58.8,0,416.29
+C00091,38,5,Pro,North,Organic,77.27,4,31.0,0,885.43
+C00092,56,23,Enterprise,West,Partner,168.9,2,74.9,0,2015.14
+C00093,58,32,Pro,East,Paid Search,75.32,0,74.7,0,898.32
+C00094,36,6,Basic,North,Social,22.58,1,66.6,0,264.61
+C00095,61,19,Basic,West,Social,29.56,3,57.6,0,346.43
+C00096,31,10,Enterprise,West,Partner,211.89,1,30.1,0,2475.56
+C00097,29,31,Basic,West,Partner,26.88,2,30.9,0,311.31
+C00098,50,44,Basic,North,Paid Search,27.91,5,86.0,0,332.86
+C00099,48,59,Enterprise,East,Referral,213.7,4,50.0,0,2551.47
+C00100,24,24,Enterprise,West,Social,171.14,2,80.4,0,2043.79
+C00101,57,52,Basic,West,Social,25.93,3,34.7,0,305.09
+C00102,27,13,Pro,North,Paid Search,77.56,4,42.2,0,905.15
+C00103,56,47,Basic,West,Social,27.25,2,75.5,0,324.74
+C00104,18,34,Pro,South,Referral,77.14,1,64.3,0,918.24
+C00105,56,46,Basic,South,Social,26.07,2,73.1,0,310.47
+C00106,55,46,Basic,East,Referral,29.5,2,63.8,0,350.53
+C00107,55,32,Pro,West,Partner,78.06,0,64.5,0,929.12
+C00108,49,16,Basic,North,Organic,30.27,0,56.4,0,354.72
+C00109,40,32,Pro,East,Paid Search,80.27,3,41.7,0,946.95
+C00110,51,50,Basic,West,Partner,29.48,2,87.8,0,352.15
+C00111,31,59,Enterprise,East,Social,175.97,2,90.6,0,2108.44
+C00112,55,56,Pro,South,Organic,82.11,3,44.3,0,976.75
+C00113,44,11,Pro,North,Organic,76.91,1,47.2,0,901.95
+C00114,40,36,Pro,East,Partner,77.95,3,56.1,0,925.77
+C00115,42,7,Basic,East,Referral,31.43,3,67.8,0,368.22
+C00116,45,41,Pro,East,Social,74.45,4,56.9,0,885.17
+C00117,19,60,Basic,West,Organic,32.13,2,72.5,0,383.47
+C00118,24,4,Enterprise,East,Paid Search,222.0,2,63.2,0,2630.04
+C00119,29,40,Pro,East,Organic,83.76,2,62.1,0,997.46
+C00120,23,57,Enterprise,North,Partner,183.39,0,100.0,0,2198.17
+C00121,39,51,Enterprise,East,Social,164.19,1,57.1,0,1961.32
+C00122,50,24,Enterprise,North,Organic,216.18,3,89.9,0,2584.24
+C00123,49,7,Basic,East,Paid Search,29.26,0,92.6,0,347.33
+C00124,40,56,Enterprise,North,Social,187.14,2,72.6,0,2239.62
+C00125,59,56,Pro,West,Organic,86.42,1,33.3,0,1025.62
+C00126,45,35,Basic,South,Social,27.0,2,64.5,0,319.92
+C00127,21,59,Pro,South,Social,76.32,3,53.3,0,910.08
+C00128,54,1,Basic,North,Organic,30.22,2,64.3,0,352.07
+C00129,45,37,Basic,North,Organic,26.42,2,45.9,0,310.69
+C00130,48,3,Basic,West,Partner,28.75,3,74.9,0,337.58
+C00131,45,57,Basic,South,Organic,31.53,4,76.7,0,376.25
+C00132,44,41,Pro,East,Referral,80.33,1,85.9,0,960.39
+C00133,22,55,Enterprise,West,Organic,218.86,0,61.5,0,2617.09
+C00134,44,34,Pro,East,Referral,86.16,2,46.0,0,1019.64
+C00135,56,5,Pro,North,Paid Search,79.05,2,70.0,0,934.79
+C00136,32,2,Basic,South,Partner,23.58,2,93.9,0,279.39
+C00137,46,21,Basic,South,Social,26.43,4,61.2,0,310.54
+C00138,19,45,Basic,South,Referral,30.77,3,69.7,0,365.98
+C00139,34,10,Pro,North,Partner,69.2,1,62.0,0,817.53
+C00140,38,52,Basic,East,Partner,28.24,1,57.4,0,335.58
+C00141,65,15,Pro,South,Social,81.14,4,71.2,0,962.2
+C00142,28,30,Pro,South,Paid Search,88.29,2,62.2,0,1049.16
+C00143,31,13,Pro,South,Paid Search,75.37,2,70.9,0,893.9
+C00144,37,28,Enterprise,South,Paid Search,188.76,3,70.6,0,2251.69
+C00145,65,28,Basic,North,Partner,28.88,1,71.9,0,342.47
+C00146,58,1,Enterprise,South,Social,204.59,3,71.5,0,2427.35
+C00147,19,35,Pro,West,Paid Search,78.03,4,45.5,1,922.65
+C00148,29,48,Pro,East,Organic,85.63,4,44.5,0,1016.34
+C00149,57,57,Pro,East,Partner,73.95,1,65.3,0,883.48
+C00150,20,20,Pro,West,Referral,79.76,3,61.7,0,944.59
+C00151,59,53,Enterprise,East,Paid Search,206.09,0,59.1,0,2463.31
+C00152,31,53,Basic,North,Organic,28.07,3,66.1,0,334.15
+C00153,62,60,Pro,South,Social,84.31,2,79.4,0,1008.82
+C00154,32,23,Pro,South,Social,79.94,0,88.2,0,954.25
+C00155,38,52,Basic,South,Partner,30.83,5,82.0,0,367.87
+C00156,49,34,Enterprise,North,Referral,202.09,4,37.6,0,2393.02
+C00157,24,4,Basic,North,Paid Search,29.87,0,48.2,0,344.4
+C00158,44,17,Pro,South,Referral,75.0,2,59.1,0,886.83
+C00159,42,41,Basic,West,Organic,27.54,2,65.4,0,326.98
+C00160,55,10,Basic,East,Paid Search,31.84,3,57.9,0,371.06
+C00161,65,27,Pro,West,Referral,83.02,3,52.6,0,982.13
+C00162,49,47,Basic,North,Referral,26.63,3,56.8,0,315.72
+C00163,37,9,Basic,South,Organic,29.42,2,72.2,1,346.22
+C00164,37,30,Basic,East,Social,23.49,3,39.4,0,273.6
+C00165,38,13,Pro,South,Paid Search,75.37,3,100.0,0,899.58
+C00166,57,33,Pro,South,Referral,85.07,3,62.4,0,1011.33
+C00167,33,15,Enterprise,South,Referral,197.01,2,81.9,0,2350.46
+C00168,26,58,Basic,North,Referral,29.27,1,56.1,0,348.18
+C00169,34,5,Pro,West,Social,59.94,4,69.8,0,708.0
+C00170,19,58,Basic,West,Partner,28.09,3,63.7,0,334.53
+C00171,23,48,Pro,North,Social,81.14,2,78.6,0,969.84
+C00172,22,52,Basic,South,Paid Search,30.08,0,64.6,0,358.18
+C00173,55,52,Basic,East,Paid Search,31.23,3,88.4,0,373.11
+C00174,52,12,Basic,West,Referral,28.51,4,34.6,0,323.92
+C00175,51,56,Pro,West,Referral,77.95,1,82.1,0,932.75
+C00176,40,36,Pro,South,Paid Search,70.58,4,62.0,0,839.3
+C00177,52,58,Basic,East,Referral,28.53,1,48.7,0,338.7
+C00178,25,53,Pro,West,Organic,71.03,0,100.0,0,850.84
+C00179,61,35,Pro,West,Referral,67.32,6,87.4,0,803.88
+C00180,42,23,Basic,South,Partner,26.48,4,24.7,0,300.82
+C00181,63,8,Pro,West,Referral,88.53,2,67.0,0,1046.76
+C00182,25,7,Pro,South,Social,77.29,2,76.0,0,916.59
+C00183,41,24,Basic,North,Social,29.51,4,67.5,0,348.35
+C00184,51,49,Pro,West,Social,75.75,4,85.8,0,905.93
+C00185,41,31,Basic,West,Organic,24.85,0,90.2,0,296.3
+C00186,39,29,Pro,South,Social,84.92,2,68.5,0,1010.5
+C00187,25,15,Basic,South,Paid Search,23.96,3,100.0,0,285.22
+C00188,36,34,Pro,South,Referral,75.49,0,83.9,0,901.8
+C00189,29,39,Basic,North,Referral,28.87,4,54.0,0,340.78
+C00190,32,59,Pro,West,Paid Search,80.46,5,48.6,0,958.1
+C00191,50,44,Enterprise,North,Social,187.43,2,85.1,0,2243.39
+C00192,48,37,Basic,East,Partner,24.74,3,48.5,0,291.15
+C00193,47,55,Enterprise,North,Social,186.25,1,59.0,0,2226.28
+C00194,35,26,Enterprise,East,Social,187.08,3,57.9,0,2225.05
+C00195,64,57,Enterprise,West,Referral,186.69,1,72.0,0,2234.49
+C00196,22,23,Basic,East,Partner,31.25,3,58.7,0,367.29
+C00197,34,8,Pro,East,Referral,71.33,1,43.6,0,832.88
+C00198,23,26,Basic,West,Referral,29.7,1,85.8,0,353.4
+C00199,34,8,Basic,West,Partner,29.37,2,57.1,0,341.89
+C00200,64,8,Enterprise,West,Partner,214.29,5,92.3,0,2556.79
+C00201,35,53,Pro,North,Social,78.16,5,63.2,0,932.35
+C00202,61,48,Pro,East,Partner,84.0,6,77.5,0,1003.28
+C00203,41,14,Basic,West,Partner,28.6,0,78.7,0,338.62
+C00204,51,51,Pro,South,Social,81.75,2,86.4,0,978.11
+C00205,39,5,Pro,East,Organic,69.5,5,67.7,0,819.66
+C00206,30,18,Basic,North,Partner,22.88,1,70.0,0,270.19
+C00207,54,43,Enterprise,West,Paid Search,205.01,1,84.6,0,2453.78
+C00208,64,19,Basic,East,Referral,30.0,5,100.0,0,357.2
+C00209,30,44,Basic,East,Partner,30.1,1,61.4,0,357.36
+C00210,55,53,Pro,West,Paid Search,75.68,2,77.5,0,904.9
+C00211,30,4,Enterprise,North,Social,222.72,1,65.9,0,2642.1
+C00212,52,2,Basic,South,Referral,27.93,1,74.6,0,328.2
+C00213,55,57,Basic,West,Paid Search,29.98,1,66.7,0,357.37
+C00214,39,32,Basic,North,Paid Search,30.38,3,25.3,0,349.63
+C00215,53,31,Enterprise,West,Referral,226.36,4,56.6,0,2693.47
+C00216,31,28,Basic,South,Social,28.26,3,79.0,0,335.6
+C00217,21,27,Pro,East,Organic,74.87,2,51.0,0,885.59
+C00218,22,42,Enterprise,East,Referral,175.15,3,77.7,0,2094.58
+C00219,39,35,Basic,East,Social,32.6,5,61.1,0,385.19
+C00220,61,10,Pro,West,Referral,81.66,1,62.7,0,965.02
+C00221,24,38,Pro,South,Referral,81.86,2,79.4,0,977.46
+C00222,39,41,Pro,North,Paid Search,98.7,3,73.6,0,1177.78
+C00223,51,7,Basic,South,Organic,29.75,3,69.1,0,348.84
+C00224,27,23,Basic,East,Partner,25.98,2,81.3,0,308.44
+C00225,52,48,Basic,West,Social,28.55,1,69.5,0,339.97
+C00226,32,38,Pro,West,Referral,72.84,3,34.0,0,858.31
+C00227,56,9,Pro,South,Referral,76.5,2,57.6,0,900.96
+C00228,45,3,Basic,West,Organic,28.07,1,35.3,0,317.13
+C00229,44,35,Basic,North,Social,27.64,4,71.2,0,327.96
+C00230,26,28,Enterprise,North,Social,176.82,2,79.2,0,2112.28
+C00231,40,58,Basic,North,Social,32.69,3,78.0,0,390.29
+C00232,59,32,Basic,West,Paid Search,29.69,0,76.3,0,353.03
+C00233,18,56,Pro,North,Partner,77.58,3,78.5,0,927.83
+C00234,54,13,Basic,East,Referral,30.76,2,37.2,0,352.38
+C00235,41,27,Basic,West,Paid Search,30.09,1,64.2,0,355.68
+C00236,52,9,Basic,West,Paid Search,29.64,2,39.9,0,339.16
+C00237,49,35,Basic,West,Paid Search,30.59,2,57.9,0,361.53
+C00238,38,12,Pro,North,Referral,79.85,2,91.5,1,951.74
+C00239,32,30,Pro,South,Organic,83.24,1,84.6,0,993.84
+C00240,48,21,Pro,East,Partner,83.76,3,73.3,0,995.81
+C00241,24,12,Basic,East,Referral,29.38,1,62.9,0,344.66
+C00242,46,6,Pro,East,Social,77.61,0,51.1,0,910.56
+C00243,22,31,Basic,East,Paid Search,32.55,3,65.2,0,385.08
+C00244,49,57,Pro,South,Organic,75.98,1,84.9,0,909.43
+C00245,48,12,Basic,North,Paid Search,29.91,1,73.0,0,352.83
+C00246,22,25,Pro,South,Social,81.62,3,35.0,0,955.81
+C00247,54,14,Basic,South,Paid Search,27.59,3,63.8,0,323.7
+C00248,37,49,Basic,East,Partner,27.13,2,31.5,0,318.35
+C00249,55,25,Pro,West,Social,76.76,0,81.7,0,915.61
+C00250,19,59,Basic,East,Paid Search,27.86,2,52.2,0,331.05
+C00251,26,15,Basic,East,Partner,25.62,3,41.2,0,295.09
+C00252,41,5,Pro,North,Paid Search,74.88,3,75.9,0,887.06
+C00253,27,35,Pro,East,Paid Search,80.68,0,77.5,0,963.08
+C00254,33,40,Basic,South,Paid Search,31.94,3,66.0,0,379.04
+C00255,49,60,Enterprise,North,Partner,207.83,3,99.3,0,2490.97
+C00256,24,53,Pro,North,Social,62.57,4,70.8,0,747.35
+C00257,50,54,Enterprise,West,Paid Search,209.21,2,53.0,0,2498.22
+C00258,22,39,Pro,West,Paid Search,75.47,2,72.8,0,900.38
+C00259,26,22,Pro,East,Social,81.86,0,63.1,0,971.71
+C00260,46,26,Pro,West,Referral,78.91,3,83.5,0,941.08
+C00261,56,9,Pro,North,Referral,77.78,3,66.8,0,919.44
+C00262,26,26,Enterprise,South,Partner,197.37,1,72.5,0,2355.38
+C00263,32,22,Basic,West,Organic,28.95,2,39.5,0,335.46
+C00264,62,3,Basic,North,Social,32.12,4,61.0,0,372.91
+C00265,65,13,Basic,East,Paid Search,28.95,3,61.0,0,338.84
+C00266,45,33,Enterprise,North,Partner,216.28,1,48.6,0,2571.99
+C00267,39,23,Basic,South,Referral,31.18,4,56.2,0,365.63
+C00268,34,60,Pro,South,Partner,83.22,1,73.4,0,995.38
+C00269,47,29,Pro,South,Partner,67.71,0,67.9,0,806.06
+C00270,46,58,Enterprise,West,Organic,216.78,1,42.0,0,2586.23
+C00271,32,40,Basic,West,Organic,27.94,2,59.4,0,330.98
+C00272,19,3,Pro,East,Social,83.52,0,60.0,0,983.4
+C00273,25,13,Enterprise,East,Referral,183.52,1,69.3,0,2183.91
+C00274,64,43,Basic,North,Paid Search,26.25,8,53.5,0,309.57
+C00275,38,33,Pro,North,Organic,91.49,2,57.0,0,1086.41
+C00276,41,19,Basic,North,Organic,26.78,3,54.3,0,313.14
+C00277,40,32,Pro,West,Social,86.24,1,67.1,0,1026.79
+C00278,55,55,Pro,North,Social,79.75,4,76.4,0,953.38
+C00279,21,24,Basic,South,Paid Search,28.03,3,66.7,0,330.94
+C00280,21,3,Basic,West,Paid Search,28.9,1,90.2,0,342.23
+C00281,31,19,Basic,East,Referral,25.98,5,77.3,0,307.22
+C00282,41,57,Basic,East,Organic,28.97,6,81.4,0,345.81
+C00283,50,46,Pro,North,Referral,72.16,3,85.3,0,862.83
+C00284,41,51,Basic,East,Partner,28.08,6,82.6,0,334.97
+C00285,39,55,Basic,East,Social,31.15,3,42.4,0,368.32
+C00286,63,8,Pro,South,Paid Search,80.61,1,77.0,0,956.91
+C00287,25,17,Pro,East,Organic,69.63,4,80.7,0,828.35
+C00288,45,4,Pro,West,Organic,84.38,3,85.8,0,1002.46
+C00289,44,1,Enterprise,South,Paid Search,198.89,1,52.9,0,2344.64
+C00290,40,51,Basic,South,Partner,27.74,2,75.2,0,330.78
+C00291,56,57,Pro,South,Organic,83.72,1,67.3,0,1000.45
+C00292,30,10,Basic,West,Partner,28.61,1,97.4,0,340.2
+C00293,63,44,Pro,North,Referral,71.63,1,42.4,0,849.66
+C00294,33,33,Enterprise,West,Partner,228.42,4,46.9,0,2712.33
+C00295,44,5,Pro,West,Referral,78.89,1,35.2,0,912.2
+C00296,42,55,Pro,South,Organic,78.49,4,62.5,0,936.63
+C00297,58,53,Pro,East,Organic,76.44,2,100.0,0,915.52
+C00298,39,35,Basic,West,Referral,31.74,3,61.2,0,375.44
+C00299,31,43,Pro,West,Referral,75.68,4,61.7,0,901.19
+C00300,19,24,Pro,South,Social,69.24,4,69.4,0,822.64
+C00301,35,48,Enterprise,North,Social,188.2,2,62.0,0,2248.41
+C00302,57,27,Pro,East,Organic,87.39,5,64.2,0,1037.13
+C00303,18,60,Basic,North,Paid Search,30.93,1,72.7,0,369.22
+C00304,61,4,Pro,North,Paid Search,77.39,4,45.6,0,899.74
+C00305,44,11,Basic,West,Organic,32.19,5,56.4,0,374.15
+C00306,24,59,Basic,South,Organic,30.74,4,72.6,0,366.68
+C00307,32,18,Basic,East,Organic,28.38,4,75.8,0,335.44
+C00308,44,19,Pro,North,Referral,77.95,1,88.1,0,929.77
+C00309,33,48,Basic,North,Organic,29.76,1,71.7,0,354.54
+C00310,23,12,Basic,North,Organic,27.07,2,70.0,0,318.64
+C00311,49,31,Basic,South,Organic,29.01,2,76.8,0,344.67
+C00312,50,18,Enterprise,North,Partner,203.91,1,55.9,0,2420.83
+C00313,23,12,Pro,South,Partner,68.34,2,53.2,0,804.12
+C00314,31,58,Basic,South,Social,28.56,1,63.9,0,340.32
+C00315,29,12,Basic,East,Organic,28.3,3,40.3,0,324.58
+C00316,49,6,Pro,East,Paid Search,85.5,2,70.9,0,1011.79
+C00317,53,41,Basic,South,Referral,24.72,3,79.8,0,294.46
+C00318,52,53,Pro,South,Partner,76.59,0,55.9,0,913.46
+C00319,63,8,Basic,North,Organic,27.88,1,73.4,0,328.36
+C00320,54,43,Enterprise,South,Paid Search,214.28,3,51.3,0,2553.39
+C00321,33,33,Basic,West,Referral,28.9,4,42.7,0,337.85
+C00322,23,50,Pro,West,Organic,90.35,3,96.9,0,1081.67
+C00323,47,8,Basic,South,Paid Search,30.54,2,47.0,0,352.07
+C00324,61,59,Enterprise,West,Partner,192.47,1,44.3,0,2297.35
+C00325,64,38,Enterprise,East,Referral,202.82,1,69.7,0,2423.08
+C00326,29,51,Pro,North,Referral,76.76,2,68.6,0,916.66
+C00327,29,22,Basic,West,Referral,30.99,3,73.3,0,366.64
+C00328,19,57,Basic,South,Social,25.91,3,96.0,0,309.94
+C00329,24,38,Pro,East,Referral,73.79,2,50.8,0,875.77
+C00330,44,8,Pro,East,Referral,81.88,3,52.2,0,960.13
+C00331,44,56,Basic,South,Social,31.84,2,91.3,0,380.72
+C00332,35,48,Basic,East,Organic,23.89,3,78.0,0,284.82
+C00333,32,19,Basic,East,Organic,32.19,2,77.6,0,381.25
+C00334,57,33,Pro,South,Referral,78.11,1,56.0,0,927.6
+C00335,40,24,Pro,South,Paid Search,67.09,2,83.1,0,799.99
+C00336,56,33,Pro,East,Paid Search,60.03,4,73.7,0,715.29
+C00337,64,58,Pro,North,Organic,69.33,2,67.2,0,828.44
+C00338,33,54,Basic,North,Social,28.95,1,56.1,0,344.06
+C00339,27,13,Basic,West,Partner,28.85,1,67.8,0,339.59
+C00340,63,59,Basic,South,Partner,30.47,1,94.0,0,364.56
+C00341,48,27,Pro,East,Organic,75.53,1,47.4,0,892.53
+C00342,31,43,Basic,East,Paid Search,26.43,0,54.4,0,313.11
+C00343,47,46,Basic,West,Partner,28.04,1,55.3,0,332.45
+C00344,42,29,Basic,East,Referral,29.08,1,59.0,0,343.23
+C00345,61,28,Basic,East,Partner,29.54,2,63.7,0,349.05
+C00346,30,28,Pro,West,Partner,74.01,3,78.3,0,882.1
+C00347,65,52,Basic,West,Referral,31.09,2,71.8,0,370.56
+C00348,62,24,Basic,North,Partner,27.56,3,63.0,0,324.82
+C00349,26,17,Pro,East,Paid Search,73.5,3,66.7,0,871.17
+C00350,25,22,Basic,North,Organic,27.74,5,68.6,0,327.16
+C00351,43,12,Basic,West,Social,31.49,3,33.4,0,357.8
+C00352,20,24,Basic,North,Organic,28.69,0,86.2,0,341.37
+C00353,32,7,Pro,North,Paid Search,74.61,2,50.0,0,873.82
+C00354,38,6,Basic,North,Organic,31.15,3,54.5,0,360.77
+C00355,64,44,Pro,East,Paid Search,92.54,2,69.8,0,1104.29
+C00356,65,5,Enterprise,North,Paid Search,202.34,4,58.7,0,2391.44
+C00357,25,35,Pro,North,Organic,86.8,1,74.3,0,1035.41
+C00358,60,47,Basic,East,Referral,31.4,0,70.4,0,374.0
+C00359,22,44,Pro,West,Social,75.17,1,61.1,0,895.86
+C00360,53,27,Basic,East,Organic,29.06,1,92.0,0,346.31
+C00361,58,12,Basic,South,Social,26.02,0,80.0,0,308.02
+C00362,60,56,Pro,East,Referral,77.7,1,71.1,0,928.81
+C00363,28,51,Basic,East,Referral,27.55,2,75.8,0,328.55
+C00364,60,37,Basic,South,Referral,28.07,3,50.0,0,330.6
+C00365,23,6,Basic,East,Paid Search,27.26,1,100.0,0,324.07
+C00366,42,3,Basic,North,Organic,28.33,4,41.5,0,321.32
+C00367,40,19,Basic,North,Referral,30.23,1,67.9,0,356.79
+C00368,33,10,Pro,East,Social,78.24,1,61.1,0,923.96
+C00369,19,52,Enterprise,South,Referral,169.32,1,60.5,0,2023.64
+C00370,55,13,Basic,North,Referral,27.27,3,54.3,0,317.56
+C00371,34,17,Pro,North,Partner,69.4,1,52.9,0,818.83
+C00372,49,59,Basic,West,Paid Search,29.57,4,80.2,0,353.13
+C00373,37,50,Basic,South,Organic,30.17,1,45.5,0,356.89
+C00374,35,14,Basic,North,Referral,29.6,1,82.7,0,350.81
+C00375,60,24,Basic,East,Social,27.17,4,71.0,0,321.21
+C00376,22,31,Basic,East,Paid Search,29.57,2,57.5,0,348.85
+C00377,53,40,Basic,South,Social,27.91,2,73.1,0,331.98
+C00378,53,57,Basic,West,Social,26.36,1,63.3,0,314.01
+C00379,36,53,Pro,South,Paid Search,83.69,0,49.3,0,996.9
+C00380,30,59,Basic,East,Referral,30.9,1,47.5,0,366.81
+C00381,18,3,Basic,East,Partner,31.2,2,75.1,0,366.66
+C00382,62,15,Basic,East,Referral,27.59,3,72.3,0,325.38
+C00383,63,34,Pro,North,Partner,86.45,1,70.1,0,1030.3
+C00384,29,3,Basic,East,Social,27.85,1,59.3,0,323.92
+C00385,19,22,Pro,East,Partner,83.13,1,62.8,0,986.31
+C00386,23,10,Basic,North,Social,27.81,2,58.5,0,324.56
+C00387,21,56,Basic,North,Social,28.48,0,38.3,0,336.82
+C00388,57,4,Enterprise,East,Social,160.45,1,67.0,0,1904.06
+C00389,60,9,Basic,North,Social,28.3,1,74.9,0,333.71
+C00390,25,12,Basic,West,Paid Search,29.21,1,67.1,0,343.52
+C00391,53,9,Basic,North,Organic,28.05,2,94.1,0,333.04
+C00392,26,35,Enterprise,West,Organic,226.96,4,42.9,0,2693.19
+C00393,35,22,Pro,East,Paid Search,71.65,2,52.8,0,846.57
+C00394,46,55,Pro,South,Partner,75.44,1,68.3,0,901.42
+C00395,52,16,Enterprise,South,Referral,184.59,6,60.1,0,2188.81
+C00396,59,33,Basic,South,Referral,27.69,5,25.7,0,318.22
+C00397,20,40,Enterprise,East,Organic,215.42,1,76.2,0,2575.97
+C00398,27,38,Basic,West,Partner,32.43,1,70.2,0,385.4
+C00399,31,48,Pro,North,Paid Search,74.57,2,28.0,0,880.45
+C00400,32,13,Basic,East,Partner,27.32,0,66.0,0,321.48
+C00401,65,31,Basic,West,Organic,26.32,1,52.3,0,309.9
+C00402,55,49,Enterprise,South,Paid Search,219.8,0,60.3,0,2626.47
+C00403,33,52,Basic,East,Organic,31.6,2,41.3,0,373.24
+C00404,64,38,Enterprise,North,Paid Search,197.31,3,69.1,0,2356.3
+C00405,41,40,Basic,West,Social,25.76,2,94.0,0,307.6
+C00406,42,52,Pro,North,Referral,70.74,5,62.5,0,843.61
+C00407,38,38,Enterprise,South,Referral,201.72,0,31.3,0,2390.59
+C00408,24,57,Basic,South,Paid Search,30.27,0,72.9,0,361.28
+C00409,62,8,Enterprise,South,Paid Search,166.11,1,62.7,0,1970.77
+C00410,18,21,Pro,North,Partner,76.97,1,47.3,0,907.26
+C00411,26,7,Pro,East,Social,89.23,1,72.0,0,1057.2
+C00412,29,6,Basic,North,Partner,28.5,1,81.0,0,336.6
+C00413,31,29,Pro,West,Partner,88.41,3,50.6,0,1045.8
+C00414,24,14,Pro,North,Referral,83.1,2,36.1,0,967.71
+C00415,18,25,Basic,South,Organic,26.48,1,31.8,0,305.67
+C00416,50,27,Basic,West,Partner,28.32,1,54.7,0,333.24
+C00417,64,38,Basic,North,Social,28.7,1,63.4,0,340.39
+C00418,23,57,Pro,North,Referral,72.98,2,55.2,0,870.46
+C00419,32,51,Basic,East,Organic,26.75,3,50.4,0,316.83
+C00420,42,23,Pro,North,Partner,88.52,2,73.7,0,1053.3
+C00421,62,20,Enterprise,West,Social,183.44,3,69.9,0,2185.04
+C00422,51,47,Basic,South,Paid Search,31.5,1,69.4,0,375.01
+C00423,54,8,Basic,West,Organic,27.99,1,79.9,0,330.68
+C00424,45,33,Pro,North,Partner,78.84,0,56.8,0,936.81
+C00425,38,26,Basic,North,Paid Search,30.3,3,43.4,0,353.05
+C00426,27,11,Pro,West,Partner,75.22,2,55.1,0,885.55
+C00427,59,37,Pro,West,Partner,82.59,2,53.9,0,980.86
+C00428,56,20,Pro,West,Paid Search,66.07,1,31.1,0,770.39
+C00429,19,12,Basic,South,Organic,30.02,1,56.7,0,350.68
+C00430,52,40,Pro,South,Referral,63.4,2,82.8,0,757.54
+C00431,22,11,Pro,East,Referral,77.57,5,71.6,0,918.44
+C00432,53,41,Basic,South,Social,30.98,3,70.9,0,368.26
+C00433,57,10,Pro,North,Paid Search,82.93,1,68.2,0,982.16
+C00434,24,27,Enterprise,South,Paid Search,178.33,2,88.6,0,2132.35
+C00435,38,49,Pro,East,Social,71.61,1,48.0,0,851.83
+C00436,23,14,Basic,North,Partner,27.4,1,49.6,0,318.72
+C00437,45,47,Basic,South,Partner,29.43,6,75.1,0,350.33
+C00438,62,44,Basic,South,Social,24.29,2,64.5,0,288.54
+C00439,21,55,Basic,North,Partner,28.97,1,54.6,0,344.24
+C00440,37,11,Basic,North,Social,29.72,0,77.4,0,351.33
+C00441,64,43,Enterprise,South,Partner,194.49,2,56.5,0,2320.25
+C00442,32,57,Basic,North,Referral,30.22,0,53.8,0,359.31
+C00443,24,46,Pro,South,Organic,80.41,1,51.3,0,956.65
+C00444,41,12,Basic,East,Partner,27.74,0,73.5,0,327.5
+C00445,42,50,Basic,West,Partner,24.51,4,63.5,0,291.3
+C00446,49,7,Basic,North,Social,29.31,3,87.8,0,346.91
+C00447,33,36,Basic,South,Partner,26.79,1,61.1,0,317.28
+C00448,63,30,Pro,North,Referral,75.34,0,62.8,0,896.0
+C00449,43,32,Enterprise,South,Referral,206.63,1,90.5,0,2472.43
+C00450,31,32,Enterprise,South,Organic,221.56,3,78.8,0,2647.36
+C00451,64,2,Basic,West,Organic,28.91,3,64.5,0,336.76
+C00452,62,31,Pro,South,Organic,82.5,1,39.5,0,972.98
+C00453,41,57,Basic,West,Social,25.65,1,52.2,0,304.74
+C00454,19,27,Enterprise,North,Partner,202.91,1,48.1,0,2409.12
+C00455,46,17,Pro,North,Paid Search,78.62,3,62.6,0,930.47
+C00456,44,60,Basic,North,Referral,31.85,3,53.4,0,378.54
+C00457,25,6,Basic,South,Referral,27.75,3,89.2,0,328.51
+C00458,48,30,Basic,North,Paid Search,28.44,0,41.3,0,332.69
+C00459,58,31,Basic,North,Referral,31.46,0,48.3,0,369.86
+C00460,23,29,Enterprise,North,Paid Search,197.53,0,72.2,0,2358.55
+C00461,52,56,Pro,West,Partner,71.99,0,76.9,0,861.15
+C00462,24,26,Enterprise,West,Partner,239.62,2,20.0,0,2805.38
+C00463,53,59,Basic,North,Organic,26.5,3,32.5,0,312.45
+C00464,38,5,Pro,West,Referral,78.59,2,59.5,0,924.75
+C00465,18,45,Basic,North,Social,29.8,4,83.1,0,355.35
+C00466,64,36,Pro,South,Social,80.69,0,100.0,0,965.63
+C00467,25,15,Basic,South,Partner,28.56,0,61.0,0,335.46
+C00468,46,14,Basic,South,Partner,28.57,1,63.1,0,335.57
+C00469,26,44,Pro,West,Organic,77.52,1,51.8,0,921.98
+C00470,62,39,Basic,East,Social,26.41,3,72.8,0,313.94
+C00471,53,37,Basic,East,Partner,33.99,4,86.0,0,404.99
+C00472,56,4,Pro,East,Social,77.61,1,87.4,0,923.03
+C00473,38,36,Basic,East,Social,30.38,2,63.5,0,359.95
+C00474,40,59,Enterprise,North,Paid Search,193.67,2,49.7,0,2313.02
+C00475,48,2,Pro,South,Organic,76.76,1,66.1,0,905.59
+C00476,55,29,Pro,North,Partner,76.12,2,87.5,0,908.93
+C00477,58,30,Pro,East,Referral,69.2,2,57.2,0,821.11
+C00478,18,54,Pro,South,Organic,77.98,1,35.1,0,925.46
+C00479,49,17,Pro,East,Paid Search,76.43,2,57.9,0,903.29
+C00480,23,29,Enterprise,East,Social,217.65,4,55.3,0,2587.87
+C00481,31,44,Pro,South,Paid Search,71.44,0,37.0,0,846.2
+C00482,57,4,Basic,North,Paid Search,27.66,1,69.9,0,324.46
+C00483,30,49,Basic,West,Partner,26.92,1,74.6,0,320.94
+C00484,56,50,Pro,South,Partner,88.12,2,95.6,0,1054.97
+C00485,40,44,Basic,North,Paid Search,26.98,1,43.3,0,318.09
+C00486,29,39,Basic,South,Social,30.3,3,74.4,0,360.33
+C00487,34,45,Basic,West,Referral,31.25,2,80.4,0,372.63
+C00488,43,47,Pro,South,Organic,78.08,1,74.8,0,932.89
+C00489,54,55,Basic,West,Paid Search,25.81,2,46.9,0,305.84
+C00490,47,26,Pro,South,Social,70.38,2,45.9,0,830.31
+C00491,62,28,Pro,West,Organic,84.43,5,59.7,0,1000.83
+C00492,59,39,Pro,East,Organic,71.03,1,67.5,0,846.82
+C00493,54,12,Basic,North,Partner,29.91,3,52.5,0,347.5
+C00494,46,52,Pro,East,Referral,79.72,5,80.0,0,952.99
+C00495,31,47,Pro,South,Paid Search,81.38,0,61.2,0,970.57
+C00496,37,38,Basic,North,Referral,30.09,1,33.8,0,351.58
+C00497,23,19,Pro,East,Organic,73.1,4,56.2,0,863.02
+C00498,35,21,Basic,North,Paid Search,26.74,4,68.2,0,315.36
+C00499,62,27,Enterprise,East,Paid Search,210.38,0,73.8,0,2511.91
+C00500,38,40,Basic,West,Referral,27.54,1,71.7,0,327.57
+C00501,23,47,Pro,North,Partner,61.62,3,87.4,0,737.02
+C00502,49,41,Pro,South,Social,83.1,1,47.0,0,986.31
+C00503,64,56,Basic,East,Organic,26.6,2,56.8,0,316.24
+C00504,59,58,Pro,North,Paid Search,81.95,1,92.3,0,981.41
+C00505,31,43,Basic,South,Paid Search,32.23,2,30.6,0,376.59
+C00506,39,23,Pro,South,Referral,79.11,0,67.1,0,940.36
+C00507,43,36,Pro,North,Referral,85.29,2,84.9,0,1018.91
+C00508,29,26,Basic,West,Social,29.36,0,88.6,0,349.67
+C00509,30,38,Basic,South,Social,32.68,0,79.2,0,389.31
+C00510,29,49,Pro,West,Partner,72.29,1,77.7,0,864.17
+C00511,65,23,Basic,East,Organic,28.98,2,46.3,0,338.06
+C00512,53,31,Enterprise,West,Organic,209.72,1,89.3,0,2508.97
+C00513,58,3,Pro,West,Social,77.8,1,45.6,0,906.68
+C00514,57,45,Pro,East,Social,86.28,3,42.6,0,1022.96
+C00515,64,30,Basic,South,Paid Search,28.0,2,70.6,0,331.95
+C00516,23,28,Pro,South,Organic,92.08,4,51.6,0,1088.71
+C00517,60,32,Enterprise,West,Partner,232.79,1,69.5,0,2779.06
+C00518,21,13,Basic,South,Referral,29.65,5,65.3,0,347.45
+C00519,40,36,Basic,East,Social,30.28,1,96.2,0,361.57
+C00520,46,45,Basic,North,Referral,31.76,3,69.4,0,377.73
+C00521,35,21,Basic,West,Partner,26.25,2,53.5,0,307.42
+C00522,25,8,Pro,East,Partner,70.71,3,73.5,0,837.74
+C00523,27,24,Basic,South,Organic,31.91,1,51.9,0,374.28
+C00524,57,12,Pro,East,Organic,80.73,3,77.5,0,958.78
+C00525,33,23,Basic,South,Partner,28.47,3,63.1,0,335.42
+C00526,32,38,Basic,North,Organic,29.03,4,66.8,0,344.26
+C00527,62,7,Basic,West,Paid Search,23.46,3,31.7,0,263.92
+C00528,24,45,Pro,West,Partner,77.8,2,25.7,0,916.38
+C00529,61,14,Pro,West,Paid Search,74.24,1,40.5,0,868.29
+C00530,62,54,Basic,South,Organic,31.13,3,91.7,0,372.13
+C00531,46,44,Pro,South,Organic,85.29,5,38.5,0,1008.4
+C00532,25,17,Basic,North,Referral,30.34,2,76.4,0,358.93
+C00533,25,34,Basic,East,Partner,29.92,2,53.1,0,352.69
+C00534,31,7,Basic,South,Partner,25.53,1,61.9,0,298.39
+C00535,45,6,Enterprise,West,Social,208.4,5,57.2,1,2461.08
+C00536,25,58,Pro,West,Partner,82.98,2,91.9,0,993.65
+C00537,39,49,Pro,North,Partner,86.87,0,77.9,0,1038.62
+C00538,23,10,Basic,West,Paid Search,33.91,2,70.5,0,398.88
+C00539,43,17,Basic,North,Paid Search,25.07,3,84.0,0,297.27
+C00540,19,12,Pro,South,Paid Search,76.54,0,57.2,0,903.53
+C00541,52,24,Basic,South,Organic,27.28,3,80.2,0,323.73
+C00542,20,18,Enterprise,West,Social,201.75,3,77.3,0,2405.73
+C00543,27,20,Pro,East,Paid Search,79.08,2,79.1,0,941.55
+C00544,26,32,Basic,West,Referral,28.46,0,65.4,0,337.3
+C00545,57,12,Pro,East,Paid Search,85.49,0,60.6,0,1010.68
+C00546,20,53,Enterprise,West,Organic,181.47,3,47.2,1,2164.33
+C00547,38,44,Basic,West,Social,26.58,3,48.3,0,313.75
+C00548,46,46,Pro,West,Paid Search,72.53,6,40.4,0,858.37
+C00549,42,11,Enterprise,South,Organic,193.26,2,70.2,0,2298.64
+C00550,50,43,Basic,South,Paid Search,26.15,2,60.1,0,310.13
+C00551,56,51,Enterprise,West,Organic,198.23,1,73.3,0,2371.88
+C00552,36,11,Basic,West,Social,28.62,2,72.3,0,337.14
+C00553,57,46,Pro,West,Organic,74.03,5,40.0,0,876.41
+C00554,33,22,Pro,East,Paid Search,84.52,2,45.5,0,995.16
+C00555,65,48,Pro,West,Paid Search,78.62,1,62.1,0,937.74
+C00556,42,29,Pro,East,Organic,85.72,2,50.8,0,1014.56
+C00557,53,49,Pro,East,Organic,77.77,2,49.0,1,925.05
+C00558,60,9,Basic,North,Referral,28.94,1,94.8,0,343.8
+C00559,56,24,Basic,East,Paid Search,27.69,2,37.9,0,320.92
+C00560,58,17,Basic,East,Organic,28.98,1,100.0,0,345.29
+C00561,43,15,Pro,West,Paid Search,83.5,0,72.9,0,992.19
+C00562,20,19,Basic,West,Paid Search,28.05,2,80.8,0,332.59
+C00563,41,23,Basic,South,Referral,30.2,0,82.8,0,358.95
+C00564,26,8,Enterprise,South,Social,186.06,4,70.5,0,2210.15
+C00565,60,43,Basic,West,Paid Search,30.76,3,90.3,0,367.19
+C00566,29,34,Basic,West,Partner,27.65,3,43.6,0,323.92
+C00567,28,50,Basic,North,Partner,30.98,3,59.3,0,367.89
+C00568,29,43,Basic,South,Organic,29.14,1,51.5,0,344.67
+C00569,48,9,Pro,West,Referral,88.61,4,31.2,0,1019.99
+C00570,45,5,Basic,North,Referral,26.32,3,50.8,0,303.38
+C00571,63,26,Basic,West,Referral,25.58,7,85.8,0,303.77
+C00572,37,29,Enterprise,North,Organic,189.19,1,63.1,0,2255.19
+C00573,31,15,Pro,North,Referral,70.25,2,97.7,0,838.56
+C00574,20,47,Pro,West,Organic,70.26,3,97.5,0,841.04
+C00575,18,35,Enterprise,East,Social,208.9,1,100.0,0,2501.67
+C00576,35,45,Enterprise,East,Referral,198.93,1,98.4,0,2383.18
+C00577,62,7,Basic,West,Organic,27.89,1,100.0,0,331.63
+C00578,43,49,Pro,South,Referral,76.55,2,69.5,0,914.04
+C00579,60,13,Pro,East,Social,75.23,4,63.9,0,889.08
+C00580,22,27,Basic,East,Partner,32.83,4,65.0,0,387.57
+C00581,22,27,Basic,East,Paid Search,27.29,3,62.0,0,321.91
+C00582,58,50,Basic,South,Social,25.93,0,70.5,0,309.02
+C00583,23,17,Pro,East,Organic,84.03,1,78.8,0,1000.1
+C00584,20,15,Pro,South,Paid Search,77.64,2,56.1,0,916.13
+C00585,37,21,Pro,East,Organic,91.89,1,42.6,0,1080.43
+C00586,62,22,Basic,West,Social,27.78,6,62.2,0,326.29
+C00587,51,11,Basic,South,Partner,30.96,2,52.2,0,359.71
+C00588,22,11,Basic,East,Referral,31.51,2,54.0,0,366.68
+C00589,58,14,Pro,West,Partner,75.71,0,65.6,0,897.36
+C00590,58,29,Enterprise,West,Paid Search,187.17,2,57.7,0,2228.08
+C00591,56,21,Enterprise,West,Organic,210.8,3,80.9,0,2516.2
+C00592,61,24,Enterprise,East,Social,208.15,0,65.2,0,2480.67
+C00593,29,44,Pro,South,Social,70.08,5,77.7,0,836.79
+C00594,65,15,Enterprise,West,Organic,181.04,2,67.5,0,2153.75
+C00595,33,55,Basic,East,Organic,23.12,1,64.5,0,275.38
+C00596,56,46,Basic,North,Referral,30.38,1,68.7,0,361.55
+C00597,45,11,Basic,South,Organic,28.39,2,42.0,0,326.42
+C00598,55,19,Basic,South,Partner,28.62,1,71.7,0,338.35
+C00599,48,12,Basic,West,Social,25.08,1,80.4,0,296.79
+C00600,48,17,Basic,North,Paid Search,26.45,1,82.8,0,313.77
+C00601,47,22,Enterprise,East,Paid Search,191.39,2,41.0,0,2262.01
+C00602,55,8,Basic,East,Social,27.44,3,36.2,0,311.42
+C00603,53,1,Enterprise,North,Paid Search,200.88,5,48.9,0,2356.2
+C00604,24,27,Pro,East,Paid Search,82.69,7,77.5,0,984.18
+C00605,57,43,Pro,West,Organic,93.34,2,67.8,0,1113.32
+C00606,43,19,Pro,East,Social,78.87,2,50.8,0,929.87
+C00607,33,52,Basic,East,Social,31.59,4,35.3,0,371.55
+C00608,42,23,Pro,South,Organic,73.75,5,46.4,0,867.43
+C00609,64,55,Basic,North,Social,25.11,3,49.2,0,297.66
+C00610,59,15,Enterprise,North,Organic,193.39,1,81.9,0,2307.73
+C00611,58,33,Basic,South,Organic,25.29,1,83.2,0,301.17
+C00612,40,46,Basic,East,Paid Search,29.03,2,46.2,0,342.81
+C00613,55,4,Pro,North,Referral,74.07,2,76.8,0,877.85
+C00614,36,56,Pro,West,Social,66.65,4,71.1,0,796.38
+C00615,50,22,Basic,East,Partner,33.03,2,43.9,0,384.27
+C00616,48,30,Pro,South,Organic,75.6,2,62.6,0,898.46
+C00617,29,38,Basic,West,Referral,25.2,1,71.8,0,299.61
+C00618,30,39,Pro,North,Social,84.68,2,66.8,0,1009.19
+C00619,20,2,Basic,West,Partner,27.31,2,34.9,0,307.22
+C00620,24,53,Basic,South,Paid Search,31.53,2,66.2,0,375.45
+C00621,38,38,Basic,South,Organic,27.3,1,76.8,0,324.97
+C00622,40,60,Basic,South,Referral,27.75,1,92.9,0,332.01
+C00623,25,29,Basic,West,Referral,29.8,2,52.6,0,350.35
+C00624,38,37,Basic,South,Paid Search,30.38,1,56.7,0,359.32
+C00625,47,27,Basic,West,Organic,30.78,1,62.4,0,363.55
+C00626,29,54,Basic,South,Organic,28.79,0,73.0,0,343.48
+C00627,34,50,Pro,South,Referral,82.34,2,65.6,0,982.75
+C00628,35,55,Basic,East,Social,30.73,3,72.3,0,366.4
+C00629,42,31,Pro,East,Referral,80.27,1,46.9,0,949.74
+C00630,35,48,Enterprise,South,Referral,196.73,0,74.7,0,2353.92
+C00631,53,22,Basic,North,Social,25.65,3,49.4,0,299.44
+C00632,33,28,Enterprise,South,Partner,208.54,1,63.6,0,2485.66
+C00633,38,46,Basic,East,Partner,29.1,2,93.0,0,347.68
+C00634,36,5,Basic,North,Referral,28.04,3,38.2,0,317.9
+C00635,26,43,Pro,North,Partner,87.08,1,61.2,0,1037.64
+C00636,50,1,Pro,West,Referral,69.98,1,44.3,0,813.43
+C00637,29,35,Pro,North,Partner,89.39,1,68.6,0,1065.22
+C00638,32,29,Basic,South,Partner,28.95,3,79.8,0,343.96
+C00639,56,29,Pro,West,Partner,81.01,2,66.9,0,963.6
+C00640,63,30,Basic,South,Social,28.08,0,66.0,0,332.66
+C00641,50,30,Basic,South,Paid Search,25.13,4,82.6,0,298.77
+C00642,61,25,Basic,North,Partner,28.68,1,71.6,0,339.75
+C00643,59,28,Enterprise,West,Organic,204.33,2,77.9,0,2440.5
+C00644,41,35,Basic,East,Referral,30.57,3,74.2,0,363.18
+C00645,54,46,Pro,West,Social,77.75,2,15.1,0,910.55
+C00646,33,34,Pro,West,Partner,65.14,2,62.7,0,774.88
+C00647,40,39,Pro,South,Paid Search,69.26,0,49.7,0,822.57
+C00648,43,51,Pro,North,Partner,91.97,3,47.9,0,1093.8
+C00649,64,60,Pro,South,Paid Search,72.1,2,89.1,0,863.31
+C00650,58,7,Basic,North,Referral,32.31,0,61.6,0,377.9
+C00651,41,43,Basic,East,Paid Search,26.83,3,94.2,0,320.45
+C00652,49,14,Pro,North,Partner,77.85,3,38.1,0,907.13
+C00653,27,12,Basic,West,Organic,30.45,4,41.6,0,349.26
+C00654,56,48,Basic,East,Referral,27.1,2,77.0,0,323.1
+C00655,44,5,Basic,South,Social,32.69,2,58.2,0,380.03
+C00656,43,51,Basic,West,Partner,29.18,1,71.2,0,347.78
+C00657,54,47,Basic,West,Referral,30.07,4,58.1,0,356.51
+C00658,48,60,Basic,South,Social,28.38,3,59.6,0,337.82
+C00659,21,41,Enterprise,North,Organic,209.49,4,54.8,0,2496.54
+C00660,31,53,Basic,South,Social,32.66,0,71.1,0,389.46
+C00661,26,8,Enterprise,East,Paid Search,196.91,2,74.9,0,2343.19
+C00662,53,54,Enterprise,West,Social,226.54,1,93.4,0,2714.32
+C00663,19,10,Basic,South,Social,27.58,2,60.6,0,322.38
+C00664,27,19,Pro,East,Partner,83.83,0,61.3,0,993.66
+C00665,46,8,Pro,South,Partner,82.09,2,55.1,0,965.01
+C00666,51,25,Pro,North,Partner,72.25,2,89.0,0,862.46
+C00667,42,45,Basic,South,Paid Search,29.5,3,73.7,0,351.21
+C00668,59,17,Basic,North,Organic,29.02,1,33.7,0,332.99
+C00669,62,50,Basic,South,Paid Search,27.02,3,29.0,0,316.47
+C00670,24,37,Pro,South,Referral,81.26,2,49.9,0,963.89
+C00671,63,38,Enterprise,South,Partner,201.33,1,69.9,0,2405.33
+C00672,47,57,Pro,West,Paid Search,78.54,2,63.4,0,937.94
+C00673,48,26,Pro,South,Referral,78.57,4,68.8,0,933.79
+C00674,22,21,Enterprise,East,Organic,197.57,1,63.0,0,2351.56
+C00675,47,60,Pro,East,Organic,76.68,2,87.8,0,918.08
+C00676,52,34,Basic,East,Social,29.32,3,75.1,0,348.33
+C00677,45,37,Enterprise,South,Social,188.75,4,61.3,0,2250.6
+C00678,22,18,Basic,West,Social,35.16,2,83.5,0,417.14
+C00679,43,13,Basic,North,Paid Search,25.73,1,38.0,0,295.5
+C00680,62,11,Pro,South,Referral,75.3,2,62.6,0,889.68
+C00681,52,14,Enterprise,West,Partner,190.95,1,68.3,0,2272.27
+C00682,24,12,Basic,South,Paid Search,33.73,4,70.2,0,396.54
+C00683,64,45,Pro,East,Partner,70.66,2,34.8,0,835.75
+C00684,64,4,Basic,North,Partner,29.99,1,61.6,0,349.73
+C00685,26,38,Basic,East,Referral,29.58,1,72.8,0,351.77
+C00686,56,57,Basic,West,Referral,29.77,1,74.1,0,355.31
+C00687,37,46,Pro,East,Paid Search,86.81,0,88.2,0,1038.64
+C00688,46,25,Enterprise,East,Social,218.36,3,74.9,0,2605.47
+C00689,39,4,Basic,West,Social,27.95,3,61.0,0,325.11
+C00690,55,51,Basic,South,Social,29.45,4,71.5,0,350.75
+C00691,65,1,Basic,South,Partner,24.68,1,62.6,0,287.42
+C00692,56,41,Basic,North,Paid Search,29.23,4,62.5,0,346.44
+C00693,62,41,Pro,East,Partner,73.98,0,81.5,0,884.17
+C00694,63,12,Pro,East,Paid Search,77.82,1,65.2,0,921.22
+C00695,22,45,Pro,West,Social,68.35,0,74.2,0,816.52
+C00696,30,11,Basic,East,Paid Search,29.94,1,82.3,0,354.44
+C00697,52,14,Pro,North,Referral,68.28,0,80.1,0,812.62
+C00698,46,49,Basic,East,Organic,29.34,1,87.0,0,350.46
+C00699,20,59,Basic,West,Organic,26.15,1,100.0,0,313.02
+C00700,22,16,Enterprise,North,Paid Search,185.47,2,75.9,0,2210.82
+C00701,42,56,Pro,South,Referral,86.3,5,50.2,0,1027.4
+C00702,47,55,Enterprise,West,Organic,208.36,2,72.7,0,2493.42
+C00703,26,47,Enterprise,South,Social,217.3,1,74.0,0,2599.43
+C00704,26,9,Pro,West,Organic,88.86,0,78.4,0,1055.92
+C00705,24,18,Enterprise,East,Social,186.7,3,87.4,0,2229.73
+C00706,45,41,Basic,East,Paid Search,32.48,3,33.4,0,379.45
+C00707,18,60,Basic,East,Paid Search,25.6,4,85.7,0,305.96
+C00708,45,49,Basic,East,Organic,30.73,1,97.5,0,367.49
+C00709,40,26,Basic,West,Social,27.86,5,67.7,0,328.98
+C00710,40,15,Basic,West,Partner,26.84,0,78.1,0,317.82
+C00711,50,58,Basic,South,Organic,30.43,5,53.9,0,361.28
+C00712,43,17,Pro,West,Organic,84.97,2,64.1,0,1006.64
+C00713,52,21,Pro,East,Partner,84.78,5,69.9,0,1006.26
+C00714,54,58,Pro,East,Social,80.36,1,76.8,0,961.31
+C00715,62,34,Basic,South,Organic,29.31,1,78.3,0,348.73
+C00716,56,16,Pro,South,Paid Search,82.33,0,78.7,0,979.92
+C00717,42,1,Basic,East,Referral,29.7,0,83.3,0,350.63
+C00718,41,26,Basic,South,Organic,30.26,2,77.4,0,359.12
+C00719,29,60,Basic,South,Paid Search,29.47,2,46.6,0,349.7
+C00720,46,26,Basic,West,Organic,30.96,2,78.1,0,367.51
+C00721,24,42,Basic,South,Referral,25.22,1,97.6,0,301.41
+C00722,62,16,Pro,East,Partner,78.17,1,65.5,0,926.65
+C00723,58,47,Pro,North,Referral,70.25,0,93.5,0,840.9
+C00724,23,47,Pro,North,Paid Search,80.75,2,48.4,0,959.91
+C00725,55,37,Basic,West,Referral,32.81,1,65.5,0,389.28
+C00726,23,47,Pro,North,Referral,76.0,4,49.1,0,903.01
+C00727,52,35,Pro,West,Organic,79.8,1,89.4,0,953.87
+C00728,22,23,Basic,West,Organic,30.76,4,87.9,0,365.61
+C00729,41,45,Pro,South,Organic,65.93,4,58.3,0,784.81
+C00730,49,51,Pro,West,Social,75.7,2,83.9,0,905.53
+C00731,52,51,Basic,South,Partner,29.85,3,90.1,0,356.66
+C00732,38,13,Basic,West,Organic,22.28,1,65.4,0,261.9
+C00733,62,41,Pro,North,Paid Search,72.83,1,68.2,0,868.66
+C00734,55,1,Basic,South,Referral,31.55,3,74.5,0,369.95
+C00735,27,35,Basic,South,Organic,31.33,3,47.7,0,368.17
+C00736,50,35,Basic,West,Social,29.87,2,65.9,0,354.09
+C00737,53,22,Enterprise,North,Social,213.04,2,100.0,0,2548.99
+C00738,34,60,Basic,West,Paid Search,29.5,4,51.5,0,350.31
+C00739,53,53,Basic,North,Organic,30.29,1,80.5,0,361.66
+C00740,61,3,Basic,South,Paid Search,28.27,2,72.9,0,331.79
+C00741,57,13,Enterprise,East,Referral,200.84,1,63.2,0,2386.32
+C00742,54,13,Pro,North,Social,75.0,2,67.8,0,888.57
+C00743,48,54,Enterprise,South,Paid Search,219.11,3,91.8,0,2624.81
+C00744,30,32,Basic,West,Paid Search,32.53,1,75.4,0,386.57
+C00745,56,44,Basic,West,Paid Search,32.2,3,74.1,0,383.31
+C00746,35,49,Pro,North,Organic,76.42,1,93.2,0,914.77
+C00747,43,47,Basic,East,Organic,26.79,3,57.1,0,317.65
+C00748,33,6,Pro,East,Referral,87.07,2,46.2,0,1016.33
+C00749,33,9,Enterprise,North,Partner,207.66,4,90.1,0,2477.66
+C00750,25,24,Basic,East,Organic,29.76,2,66.3,0,351.5
+C00751,64,21,Enterprise,East,Paid Search,188.91,2,79.2,0,2254.76
+C00752,25,45,Pro,East,Social,81.69,1,53.0,0,972.07
+C00753,22,10,Basic,South,Social,26.48,4,66.6,0,310.28
+C00754,62,23,Pro,South,Partner,83.01,2,45.4,0,977.78
+C00755,44,15,Basic,East,Referral,32.2,1,67.1,0,379.23
+C00756,39,12,Pro,East,Referral,89.31,0,57.0,1,1054.18
+C00757,53,11,Basic,North,Paid Search,30.64,1,51.1,0,356.04
+C00758,36,12,Basic,North,Paid Search,25.79,0,62.8,0,302.76
+C00759,24,34,Pro,East,Paid Search,80.25,4,21.0,0,934.72
+C00760,53,25,Basic,West,Partner,33.96,3,42.3,0,395.03
+C00761,26,27,Basic,North,Partner,26.98,1,79.3,0,320.57
+C00762,44,29,Pro,North,Partner,78.63,3,67.9,0,935.23
+C00763,63,45,Basic,West,Partner,32.28,1,47.7,0,381.5
+C00764,62,52,Basic,East,Organic,30.43,0,77.3,0,363.19
+C00765,35,32,Basic,West,Partner,34.75,1,51.1,0,409.09
+C00766,55,39,Basic,West,Social,27.3,1,78.3,0,325.14
+C00767,47,45,Basic,West,Partner,26.7,4,58.0,0,316.35
+C00768,41,42,Pro,North,Referral,86.74,3,56.5,0,1031.75
+C00769,24,9,Enterprise,South,Paid Search,179.96,6,54.5,0,2124.0
+C00770,36,59,Basic,North,Partner,28.54,2,100.0,0,341.59
+C00771,49,10,Enterprise,North,Referral,197.95,1,53.1,0,2342.05
+C00772,65,25,Pro,West,Paid Search,85.55,1,69.9,0,1017.77
+C00773,18,40,Pro,East,Referral,82.88,1,79.3,0,990.02
+C00774,52,25,Pro,North,Organic,81.89,1,49.6,0,967.86
+C00775,58,15,Pro,North,Social,76.46,4,32.9,0,886.61
+C00776,63,56,Pro,North,Partner,86.68,1,55.8,0,1034.03
+C00777,38,5,Pro,South,Paid Search,104.44,3,74.9,0,1236.78
+C00778,23,15,Pro,South,Partner,83.37,0,62.2,0,987.26
+C00779,31,60,Basic,South,Organic,29.23,3,58.1,0,347.82
+C00780,58,44,Basic,West,Paid Search,25.99,1,81.5,0,309.98
+C00781,60,6,Pro,North,Partner,74.97,1,52.3,0,879.55
+C00782,48,46,Basic,East,Organic,28.5,4,58.5,0,337.84
+C00783,23,59,Basic,South,Partner,27.76,5,32.3,0,326.85
+C00784,23,6,Basic,South,Social,28.96,2,69.5,0,339.74
+C00785,40,25,Basic,West,Referral,33.12,2,67.9,1,391.6
+C00786,46,29,Pro,West,Paid Search,86.88,0,81.5,0,1036.88
+C00787,19,8,Pro,North,Partner,78.0,3,42.5,0,908.16
+C00788,50,13,Basic,South,Paid Search,26.2,1,62.7,0,307.49
+C00789,44,11,Basic,North,Partner,32.1,2,42.3,0,369.21
+C00790,18,12,Basic,South,Partner,28.89,0,63.8,0,339.36
+C00791,22,25,Basic,East,Organic,24.99,5,83.2,0,296.68
+C00792,39,28,Pro,South,Organic,83.5,2,58.5,0,990.64
+C00793,52,15,Pro,South,Organic,85.48,3,38.8,0,997.3
+C00794,57,18,Pro,South,Organic,63.67,2,52.4,0,750.92
+C00795,38,12,Pro,South,Paid Search,73.79,0,40.6,0,862.76
+C00796,32,48,Enterprise,South,Organic,197.24,2,42.0,0,2348.6
+C00797,64,13,Pro,South,Social,83.64,3,73.4,0,992.38
+C00798,40,55,Pro,East,Social,75.74,1,41.4,0,900.68
+C00799,33,33,Basic,North,Organic,27.07,1,71.3,0,321.4
+C00800,39,49,Basic,North,Paid Search,30.69,3,62.4,0,364.68
+C00801,18,39,Enterprise,East,Partner,191.54,4,51.0,0,2279.96
+C00802,32,16,Basic,East,Partner,30.26,1,69.9,0,357.04
+C00803,42,37,Basic,South,Referral,26.42,4,44.1,0,309.89
+C00804,62,17,Enterprise,North,Social,177.47,0,82.3,0,2118.84
+C00805,53,8,Pro,East,Partner,83.77,1,54.1,0,984.9
+C00806,55,16,Basic,South,Partner,29.59,3,55.4,0,345.6
+C00807,44,17,Basic,East,Referral,31.14,1,57.4,0,365.07
+C00808,23,9,Basic,North,Referral,27.76,0,79.7,0,328.23
+C00809,36,2,Pro,North,Paid Search,73.97,1,75.3,0,876.03
+C00810,65,57,Basic,East,Referral,32.16,1,21.4,0,376.96
+C00811,20,31,Enterprise,South,Social,174.75,2,68.3,0,2085.12
+C00812,60,25,Enterprise,East,Paid Search,218.92,4,30.3,0,2574.06
+C00813,50,56,Pro,East,Organic,87.35,2,58.2,0,1042.21
+C00814,31,14,Pro,South,Referral,84.44,4,58.2,0,995.75
+C00815,55,25,Basic,North,Partner,27.4,0,62.0,0,323.5
+C00816,58,51,Basic,North,Social,27.11,2,72.5,0,323.11
+C00817,20,38,Pro,West,Referral,77.67,3,74.2,0,926.52
+C00818,23,24,Basic,North,Partner,26.0,0,54.9,0,305.73
+C00819,49,16,Basic,East,Paid Search,26.77,2,50.2,0,311.69
+C00820,65,3,Basic,West,Referral,30.5,1,65.4,0,356.46
+C00821,19,6,Basic,West,Referral,30.51,3,35.8,0,345.08
+C00822,49,10,Basic,South,Paid Search,26.56,3,53.9,0,308.47
+C00823,24,48,Pro,North,Partner,83.27,3,84.9,0,995.81
+C00824,49,39,Pro,West,Social,81.87,2,38.4,0,967.64
+C00825,47,27,Pro,East,Paid Search,88.54,3,56.2,0,1048.86
+C00826,22,47,Pro,South,Organic,82.6,1,55.9,0,983.91
+C00827,50,10,Basic,East,Social,31.46,3,96.1,0,373.71
+C00828,61,13,Pro,North,Social,82.02,3,52.9,0,964.74
+C00829,59,24,Pro,East,Social,85.19,4,51.8,0,1005.78
+C00830,19,56,Basic,East,Paid Search,26.01,3,44.5,0,307.9
+C00831,29,37,Enterprise,South,Partner,197.06,3,62.2,0,2350.55
+C00832,29,52,Basic,South,Partner,28.91,2,68.6,0,344.36
+C00833,39,15,Basic,South,Partner,28.43,4,44.9,0,328.33
+C00834,24,51,Basic,North,Social,30.03,1,82.8,0,358.59
+C00835,59,5,Basic,North,Social,30.47,2,68.6,0,357.04
+C00836,55,14,Basic,West,Referral,29.91,3,76.5,0,353.28
+C00837,56,32,Pro,South,Organic,77.88,5,52.4,1,921.95
+C00838,27,4,Enterprise,North,Organic,187.29,1,70.1,0,2224.62
+C00839,18,52,Basic,North,Social,31.55,4,56.4,0,374.4
+C00840,61,53,Pro,South,Social,81.21,0,92.8,0,972.39
+C00841,31,33,Basic,West,Organic,26.64,1,68.0,0,315.97
+C00842,49,19,Pro,South,Paid Search,77.78,3,62.1,0,920.97
+C00843,61,6,Basic,West,Paid Search,24.96,2,56.2,0,289.88
+C00844,19,38,Basic,South,Paid Search,29.08,2,55.2,0,343.68
+C00845,18,33,Pro,West,Partner,77.75,1,70.0,0,926.44
+C00846,18,46,Pro,West,Referral,75.37,1,79.9,0,900.95
+C00847,25,37,Pro,North,Referral,89.01,1,54.4,0,1057.63
+C00848,20,8,Pro,North,Referral,71.69,2,66.2,0,847.36
+C00849,57,8,Pro,West,Partner,83.46,3,65.1,0,985.48
+C00850,47,47,Basic,West,Partner,34.07,3,68.1,0,405.25
+C00851,65,10,Basic,North,Organic,31.5,1,37.0,0,360.09
+C00852,56,57,Basic,East,Organic,28.93,0,52.3,0,343.84
+C00853,64,7,Basic,West,Paid Search,26.37,3,38.8,0,300.04
+C00854,29,44,Basic,West,Referral,25.84,2,64.6,0,306.96
+C00855,31,59,Pro,South,Social,76.4,1,50.7,0,911.02
+C00856,58,27,Basic,West,Social,27.41,0,59.6,0,323.52
+C00857,29,4,Pro,East,Partner,74.45,2,43.7,0,866.01
+C00858,20,53,Pro,West,Organic,76.94,2,57.1,0,917.42
+C00859,50,12,Pro,North,Organic,78.35,1,46.9,0,919.18
+C00860,56,32,Pro,East,Referral,82.07,2,76.9,0,978.77
+C00861,64,60,Basic,North,Referral,26.13,1,74.1,0,311.99
+C00862,62,45,Basic,South,Partner,27.42,3,64.6,0,325.7
+C00863,23,3,Pro,North,Organic,77.99,5,52.9,0,910.53
+C00864,55,50,Pro,South,Social,77.76,4,25.4,0,916.68
+C00865,58,10,Basic,West,Referral,33.26,2,56.2,0,387.46
+C00866,51,45,Basic,East,Referral,29.54,1,53.1,0,349.86
+C00867,57,38,Pro,South,Organic,68.8,2,68.2,0,820.02
+C00868,58,18,Pro,South,Social,81.64,1,76.5,0,971.33
+C00869,39,26,Basic,South,Referral,30.27,2,69.5,0,358.26
+C00870,19,8,Basic,East,Paid Search,28.71,1,87.5,0,340.19
+C00871,39,60,Enterprise,South,Paid Search,179.68,1,56.3,0,2148.15
+C00872,27,15,Basic,North,Paid Search,33.08,0,57.6,0,387.73
+C00873,23,19,Pro,East,Organic,72.24,1,83.6,0,860.97
+C00874,23,31,Basic,West,Social,30.53,1,68.8,0,361.99
+C00875,51,41,Pro,South,Social,80.26,4,55.8,0,953.97
+C00876,42,31,Basic,North,Social,30.39,4,91.4,0,362.1
+C00877,43,31,Basic,North,Paid Search,32.96,4,69.8,0,390.43
+C00878,53,35,Enterprise,West,Referral,207.94,1,62.8,0,2480.87
+C00879,44,52,Basic,West,Referral,27.7,1,54.3,0,328.87
+C00880,48,24,Enterprise,North,Referral,216.61,2,86.6,0,2588.79
+C00881,22,50,Basic,North,Referral,27.54,2,67.5,0,327.84
+C00882,58,48,Enterprise,North,Referral,201.6,1,66.4,0,2410.06
+C00883,39,58,Enterprise,South,Partner,178.41,3,73.5,0,2135.37
+C00884,25,55,Pro,West,Organic,72.47,3,77.0,0,866.52
+C00885,57,48,Basic,North,Organic,29.12,3,71.3,0,346.7
+C00886,53,15,Pro,West,Social,81.33,0,83.0,0,968.74
+C00887,20,47,Pro,North,Social,68.24,2,71.7,0,814.86
+C00888,27,45,Enterprise,East,Social,206.92,2,73.4,0,2474.42
+C00889,18,18,Basic,South,Paid Search,27.1,0,55.6,0,317.78
+C00890,30,41,Basic,West,Referral,31.97,1,96.8,0,382.0
+C00891,22,16,Basic,South,Organic,28.18,1,45.0,0,326.97
+C00892,52,32,Pro,South,Paid Search,71.9,2,69.3,0,856.23
+C00893,43,48,Enterprise,North,Partner,200.21,4,37.3,0,2379.86
+C00894,65,12,Basic,West,Paid Search,26.87,3,60.3,0,314.14
+C00895,53,21,Pro,South,Referral,87.02,1,56.3,0,1029.79
+C00896,47,48,Enterprise,South,Organic,199.01,1,68.3,0,2379.56
+C00897,42,28,Basic,East,Referral,28.65,1,71.8,0,339.73
+C00898,20,58,Basic,East,Partner,30.37,1,49.7,0,360.65
+C00899,21,1,Pro,East,Referral,72.65,4,59.5,0,851.79
+C00900,47,44,Pro,South,Referral,70.85,1,89.7,0,847.57
+C00901,18,49,Basic,North,Social,29.95,4,37.7,0,352.2
+C00902,20,56,Pro,North,Paid Search,72.05,2,49.5,0,858.31
+C00903,28,10,Pro,North,Paid Search,72.05,1,80.6,0,856.59
+C00904,60,60,Enterprise,East,Partner,212.32,3,63.3,0,2539.49
+C00905,40,24,Enterprise,East,Referral,207.36,1,68.6,0,2472.25
+C00906,52,22,Pro,East,Social,71.08,1,83.4,0,847.53
+C00907,37,22,Pro,West,Organic,75.09,4,46.5,0,883.41
+C00908,26,39,Basic,North,Organic,26.9,1,57.2,0,318.44
+C00909,35,40,Pro,West,Paid Search,90.23,2,53.1,0,1072.16
+C00910,22,29,Basic,West,Referral,31.1,1,60.1,0,367.25
+C00911,54,5,Pro,East,Social,76.34,1,88.8,0,908.43
+C00912,26,60,Basic,East,Referral,30.34,3,33.1,0,357.98
+C00913,36,14,Pro,North,Referral,70.43,2,43.7,0,824.84
+C00914,65,6,Basic,North,Organic,27.44,1,42.8,0,314.58
+C00915,46,36,Basic,North,Referral,29.24,2,87.8,0,348.62
+C00916,40,25,Basic,East,Referral,30.05,3,51.6,0,352.02
+C00917,44,37,Pro,South,Referral,78.38,3,56.4,0,931.19
+C00918,55,53,Pro,North,Partner,80.57,0,40.6,0,957.79
+C00919,30,6,Basic,North,Referral,29.18,4,55.5,0,337.87
+C00920,48,18,Pro,North,Organic,77.97,1,80.7,0,928.55
+C00921,59,31,Enterprise,East,Organic,194.29,3,66.3,0,2317.02
+C00922,45,48,Basic,East,Organic,28.01,2,62.2,0,332.85
+C00923,39,37,Pro,East,Partner,80.47,0,41.4,0,952.51
+C00924,24,23,Basic,North,Social,29.95,2,58.4,0,352.2
+C00925,29,37,Basic,North,Social,29.46,2,66.5,0,349.51
+C00926,63,59,Pro,North,Paid Search,71.55,1,49.1,0,852.94
+C00927,43,29,Basic,West,Organic,26.68,5,69.1,0,315.59
+C00928,32,54,Enterprise,East,Partner,205.35,2,79.0,0,2458.36
+C00929,38,47,Enterprise,South,Organic,222.43,3,53.0,0,2653.05
+C00930,45,19,Pro,North,Partner,79.96,2,76.3,0,951.22
+C00931,43,15,Pro,South,Paid Search,76.4,3,60.1,0,902.61
+C00932,51,47,Pro,West,Social,80.42,3,81.5,0,961.31
+C00933,30,13,Enterprise,North,Partner,180.9,4,94.6,0,2160.88
+C00934,49,21,Basic,West,Partner,32.04,2,45.4,0,372.95
+C00935,39,15,Basic,South,Referral,29.43,3,75.1,0,347.53
+C00936,63,37,Pro,North,Social,74.77,3,84.2,0,893.11
+C00937,25,18,Basic,West,Referral,28.61,2,47.5,0,332.86
+C00938,25,40,Basic,East,Partner,27.78,1,56.2,0,328.85
+C00939,40,57,Basic,East,Paid Search,32.04,1,56.0,0,381.04
+C00940,42,50,Pro,North,Referral,77.72,0,65.7,0,927.96
+C00941,51,57,Basic,South,Social,29.36,3,55.9,0,348.93
+C00942,37,2,Basic,East,Paid Search,30.33,3,58.6,0,351.45
+C00943,61,28,Basic,East,Organic,27.28,2,78.2,0,324.0
+C00944,40,14,Basic,North,Paid Search,29.45,4,27.8,0,331.93
+C00945,24,56,Enterprise,East,Paid Search,203.37,2,47.4,0,2427.15
+C00946,23,43,Basic,West,Referral,25.39,2,75.4,0,302.35
+C00947,64,20,Pro,West,Organic,80.6,1,75.4,0,959.12
+C00948,24,34,Pro,North,Organic,78.71,3,44.0,0,930.25
+C00949,63,37,Basic,West,Paid Search,29.3,3,71.5,0,348.0
+C00950,31,30,Pro,East,Referral,79.23,5,80.6,0,944.59
+C00951,22,29,Pro,North,Organic,80.64,1,65.2,0,959.09
+C00952,32,4,Pro,North,Paid Search,87.45,1,48.9,0,1022.4
+C00953,47,28,Basic,West,Paid Search,26.26,3,76.9,0,311.65
+C00954,38,21,Basic,North,Organic,28.21,0,97.3,0,336.25
+C00955,55,50,Enterprise,North,Paid Search,209.61,2,48.9,0,2500.07
+C00956,47,52,Pro,South,Paid Search,82.04,2,64.7,0,979.3
+C00957,37,46,Enterprise,East,Organic,206.31,4,78.5,0,2467.93
+C00958,48,2,Enterprise,East,Partner,242.84,0,70.0,0,2883.91
+C00959,64,51,Basic,East,Organic,30.42,2,34.3,0,357.91
+C00960,37,24,Pro,West,Referral,86.15,2,71.5,0,1024.77
+C00961,25,25,Basic,West,Partner,28.29,3,45.4,0,329.92
+C00962,37,57,Pro,North,Social,72.72,4,38.4,0,863.61
+C00963,58,53,Basic,North,Referral,28.27,2,34.6,0,332.98
+C00964,28,4,Basic,North,Referral,30.65,3,82.2,0,361.48
+C00965,63,22,Pro,South,Partner,81.57,3,47.8,0,960.95
+C00966,46,45,Pro,South,Social,81.55,1,71.7,0,973.73
+C00967,46,33,Pro,West,Paid Search,77.65,2,73.8,0,925.69
+C00968,33,16,Basic,South,Partner,28.13,2,66.8,0,331.19
+C00969,62,32,Basic,North,Referral,28.58,1,71.0,0,339.2
+C00970,19,52,Enterprise,West,Organic,210.53,0,74.5,0,2519.7
+C00971,32,14,Basic,South,Partner,30.95,0,70.3,0,365.15
+C00972,38,45,Basic,West,Social,26.67,2,51.1,0,315.48
+C00973,40,45,Pro,West,Organic,83.82,1,51.6,0,997.08
+C00974,40,54,Basic,West,Organic,27.49,1,64.2,0,327.35
+C00975,25,18,Pro,West,Social,81.96,1,63.9,0,971.64
+C00976,28,13,Basic,North,Referral,28.55,3,69.3,0,335.87
+C00977,22,33,Pro,East,Paid Search,88.9,3,80.7,0,1060.83
+C00978,45,32,Enterprise,South,Partner,192.34,6,61.8,0,2290.51
+C00979,34,25,Enterprise,East,Paid Search,201.84,2,50.2,0,2395.75
+C00980,45,47,Pro,East,Paid Search,82.83,1,28.9,0,978.52
+C00981,46,48,Basic,East,Paid Search,26.97,1,52.9,0,319.7
+C00982,51,15,Pro,South,Referral,78.54,3,39.1,0,916.54
+C00983,44,48,Pro,West,Organic,77.32,4,47.6,0,918.54
+C00984,49,14,Pro,East,Paid Search,75.75,2,68.1,0,897.83
+C00985,46,25,Pro,West,Paid Search,76.22,2,65.4,0,905.41
+C00986,49,2,Pro,North,Organic,86.03,2,95.6,0,1024.39
+C00987,47,21,Pro,West,Partner,75.22,5,66.2,0,891.73
+C00988,33,58,Pro,South,Organic,82.58,1,98.5,0,989.27
+C00989,29,27,Basic,South,Social,29.73,3,74.2,0,352.42
+C00990,55,43,Pro,West,Organic,70.17,1,84.5,0,838.96
+C00991,34,7,Pro,South,Paid Search,82.28,3,55.9,0,966.49
+C00992,44,39,Basic,South,Organic,25.72,3,43.7,0,302.17
+C00993,27,23,Pro,West,Paid Search,82.97,2,56.4,0,982.1
+C00994,38,45,Pro,West,Partner,75.79,0,67.8,0,904.61
+C00995,43,56,Basic,South,Organic,29.02,1,55.3,0,344.99
+C00996,48,32,Pro,South,Referral,70.82,4,43.0,0,835.49
+C00997,43,7,Pro,North,Partner,79.77,1,73.1,0,945.48
+C00998,35,29,Pro,North,Referral,84.86,1,48.9,0,1004.13
+C00999,64,8,Basic,East,Organic,27.13,0,41.9,0,311.83
+C01000,42,27,Pro,South,Partner,75.16,0,48.9,0,889.16
+C01001,56,4,Basic,West,Organic,30.05,0,64.0,0,351.39
+C01002,53,39,Pro,North,Organic,82.03,5,41.2,0,969.14
+C01003,44,19,Basic,East,Referral,23.35,4,56.1,0,273.14
+C01004,60,13,Pro,East,Paid Search,91.74,3,72.2,0,1088.07
+C01005,24,2,Pro,East,Organic,82.34,3,71.8,0,972.83
+C01006,62,54,Pro,North,Partner,83.4,0,56.8,0,994.97
+C01007,58,51,Pro,South,Referral,78.09,1,43.8,0,928.35
+C01008,42,49,Pro,East,Social,67.27,1,56.2,0,801.64
+C01009,53,4,Pro,South,Referral,83.26,2,75.1,0,986.17
+C01010,42,21,Basic,West,Referral,27.69,2,79.1,0,328.33
+C01011,30,59,Enterprise,East,Social,207.66,0,74.0,0,2486.33
+C01012,56,35,Pro,South,Organic,77.62,2,84.4,0,927.12
+C01013,29,8,Enterprise,North,Paid Search,202.79,3,91.4,0,2420.18
+C01014,33,9,Enterprise,North,Partner,186.66,4,51.8,0,2202.88
+C01015,42,16,Enterprise,South,Paid Search,212.76,1,91.3,0,2542.43
+C01016,58,59,Pro,South,Social,71.49,0,63.6,0,854.23
+C01017,36,11,Pro,West,Paid Search,93.19,2,81.3,0,1108.01
+C01018,41,55,Basic,West,Referral,34.19,2,76.0,0,407.99
+C01019,19,41,Pro,North,Social,89.32,2,30.4,0,1052.68
+C01020,23,56,Pro,East,Paid Search,87.06,3,45.6,0,1035.95
+C01021,20,50,Pro,South,Social,78.47,1,45.2,0,932.99
+C01022,21,20,Enterprise,North,Organic,217.57,2,33.7,0,2560.22
+C01023,59,50,Basic,East,Paid Search,28.78,3,76.9,0,343.16
+C01024,58,11,Basic,East,Referral,25.4,1,100.0,0,302.29
+C01025,57,18,Pro,North,Referral,88.5,1,61.6,0,1048.33
+C01026,20,13,Basic,South,Social,31.62,0,82.5,0,374.77
+C01027,21,8,Basic,East,Social,28.93,0,93.2,0,343.56
+C01028,31,6,Basic,South,Partner,26.16,3,65.5,0,305.8
+C01029,45,12,Pro,South,Partner,75.3,2,63.6,0,890.39
+C01030,34,8,Pro,North,Paid Search,67.49,2,59.8,0,795.38
+C01031,41,23,Basic,North,Social,31.19,2,73.1,0,369.28
+C01032,26,5,Basic,West,Partner,25.28,2,78.9,0,297.98
+C01033,53,4,Basic,East,Organic,29.67,3,69.9,0,347.47
+C01034,33,60,Basic,North,Social,27.04,3,69.3,0,322.48
+C01035,21,6,Pro,South,Paid Search,69.98,2,63.1,0,825.33
+C01036,53,5,Pro,North,Referral,80.51,4,32.9,0,924.72
+C01037,61,2,Basic,South,Referral,28.23,2,79.3,0,332.36
+C01038,18,8,Pro,North,Social,84.3,3,40.2,0,979.57
+C01039,38,32,Basic,East,Paid Search,26.06,2,74.5,0,309.5
+C01040,57,50,Basic,East,Paid Search,27.24,4,72.8,0,324.46
+C01041,51,45,Enterprise,East,Organic,160.99,0,48.6,0,1919.4
+C01042,59,35,Pro,South,Paid Search,65.19,2,53.7,0,773.76
+C01043,37,6,Enterprise,South,Organic,227.63,1,100.0,0,2720.05
+C01044,35,47,Basic,North,Referral,33.83,2,62.6,0,401.95
+C01045,52,3,Basic,North,Social,29.22,4,39.3,0,330.26
+C01046,25,38,Basic,South,Referral,27.09,1,79.6,0,322.66
+C01047,29,25,Pro,South,Social,77.11,1,52.9,0,912.58
+C01048,46,53,Enterprise,East,Social,212.91,1,33.4,0,2533.55
+C01049,50,19,Basic,North,Organic,27.81,2,72.8,0,328.76
+C01050,23,39,Pro,South,Referral,80.5,2,48.4,0,954.96
+C01051,42,27,Enterprise,West,Referral,198.8,1,71.5,0,2372.41
+C01052,35,32,Pro,West,Paid Search,75.41,1,52.2,0,894.23
+C01053,42,57,Basic,West,Social,27.78,2,76.0,0,331.59
+C01054,64,43,Pro,South,Paid Search,80.85,4,63.1,0,963.04
+C01055,21,25,Basic,North,Organic,26.73,4,16.0,0,300.24
+C01056,65,27,Pro,North,Referral,81.85,2,70.5,0,974.01
+C01057,39,43,Pro,North,Paid Search,76.02,6,51.1,0,902.18
+C01058,55,21,Enterprise,West,Paid Search,201.03,4,84.1,0,2400.26
+C01059,38,11,Pro,West,Referral,87.75,0,74.7,0,1042.17
+C01060,32,29,Pro,West,Partner,77.94,1,78.9,0,929.61
+C01061,54,5,Pro,East,Paid Search,84.81,1,53.9,0,995.43
+C01062,51,11,Pro,South,Paid Search,67.67,6,42.6,0,787.24
+C01063,24,26,Enterprise,South,Organic,191.51,2,63.6,0,2281.31
+C01064,51,48,Basic,West,Paid Search,29.06,3,55.9,0,344.53
+C01065,54,47,Enterprise,West,Referral,229.62,2,86.7,0,2749.17
+C01066,36,16,Pro,East,Partner,66.61,1,63.4,0,789.04
+C01067,62,26,Enterprise,West,Paid Search,197.47,1,45.2,0,2341.76
+C01068,48,10,Pro,South,Organic,88.21,1,51.9,0,1036.85
+C01069,34,46,Pro,South,Referral,74.04,5,74.4,0,883.88
+C01070,18,15,Basic,West,Partner,28.51,0,65.2,0,335.66
+C01071,50,48,Pro,South,Organic,81.1,2,60.2,0,966.79
+C01072,28,51,Basic,West,Referral,29.43,2,82.0,0,351.32
+C01073,54,42,Basic,South,Organic,32.63,1,50.4,0,385.64
+C01074,43,20,Basic,South,Referral,30.04,2,26.0,0,341.82
+C01075,40,58,Basic,North,Partner,32.08,0,53.5,0,381.48
+C01076,25,42,Basic,East,Partner,28.16,0,72.1,0,335.21
+C01077,52,39,Pro,South,Partner,74.32,0,63.8,0,885.64
+C01078,25,52,Basic,South,Partner,28.48,0,41.5,0,336.77
+C01079,38,53,Pro,East,Paid Search,71.67,2,81.3,0,857.26
+C01080,58,5,Basic,North,Social,30.12,7,56.8,0,347.56
+C01081,62,53,Pro,North,Paid Search,76.56,1,72.6,0,915.06
+C01082,65,46,Pro,West,Paid Search,74.75,0,75.1,0,893.17
+C01083,63,13,Basic,East,Partner,30.16,1,43.9,0,348.66
+C01084,44,19,Pro,East,Paid Search,71.77,1,71.1,0,852.93
+C01085,27,46,Enterprise,North,Organic,211.27,2,79.4,0,2527.98
+C01086,58,13,Pro,East,Partner,75.98,1,85.4,0,904.89
+C01087,56,28,Basic,South,Partner,31.69,3,74.3,0,375.78
+C01088,65,42,Pro,East,Referral,76.52,1,74.7,0,913.71
+C01089,49,40,Pro,North,Organic,82.99,3,32.5,0,978.06
+C01090,24,55,Basic,East,Partner,29.42,4,59.7,0,349.72
+C01091,42,7,Pro,East,Organic,83.7,1,49.7,0,980.9
+C01092,39,18,Basic,South,Referral,29.26,2,85.8,0,347.38
+C01093,58,60,Pro,North,Referral,68.49,6,75.2,0,818.84
+C01094,36,35,Basic,West,Partner,31.34,0,51.8,0,369.8
+C01095,33,15,Basic,East,Social,28.8,2,63.2,0,338.22
+C01096,21,18,Enterprise,East,Organic,211.57,2,68.2,0,2518.91
+C01097,58,21,Enterprise,West,Organic,209.99,2,79.3,0,2506.4
+C01098,54,34,Enterprise,East,Referral,186.69,0,39.5,0,2215.81
+C01099,19,18,Enterprise,North,Social,184.44,1,28.4,0,2162.93
+C01100,38,38,Basic,South,Organic,30.52,1,66.6,0,362.33
+C01101,41,27,Basic,West,Referral,28.3,2,21.0,0,322.6
+C01102,40,37,Basic,South,Referral,31.17,2,66.7,0,369.82
+C01103,62,10,Pro,West,Paid Search,77.87,2,74.1,0,923.7
+C01104,25,38,Basic,North,Partner,31.37,2,85.0,0,373.95
+C01105,32,56,Enterprise,South,Paid Search,205.74,4,49.4,0,2455.24
+C01106,26,9,Basic,South,Referral,29.67,2,66.7,0,348.04
+C01107,29,20,Basic,East,Social,28.13,4,71.1,0,332.06
+C01108,61,42,Basic,North,Paid Search,29.54,3,42.0,0,347.24
+C01109,63,38,Basic,North,Organic,31.77,1,81.6,0,378.56
+C01110,20,41,Basic,East,Social,28.87,1,70.7,0,343.38
+C01111,48,34,Pro,South,Paid Search,82.36,3,51.7,0,976.25
+C01112,29,41,Basic,West,Partner,29.11,1,68.4,0,346.03
+C01113,27,37,Pro,West,Partner,79.79,1,63.6,0,950.19
+C01114,32,5,Enterprise,South,Referral,226.44,2,77.3,0,2694.42
+C01115,27,46,Pro,East,Organic,86.59,1,59.9,0,1032.07
+C01116,41,27,Pro,South,Social,79.5,1,69.9,0,946.19
+C01117,65,4,Basic,South,Partner,29.5,3,51.4,0,339.92
+C01118,46,25,Basic,East,Referral,27.37,2,48.1,0,320.13
+C01119,52,27,Basic,South,Social,28.6,1,68.9,0,338.69
+C01120,41,6,Enterprise,North,Partner,203.93,2,48.8,0,2402.99
+C01121,18,60,Pro,South,Partner,84.38,2,77.6,0,1009.51
+C01122,22,14,Basic,West,Organic,30.74,0,78.1,0,363.88
+C01123,30,20,Basic,South,Partner,26.43,1,53.0,0,309.5
+C01124,29,27,Pro,South,Paid Search,85.17,5,61.6,0,1009.94
+C01125,58,50,Pro,East,Organic,78.44,1,52.9,0,934.3
+C01126,58,45,Pro,North,Paid Search,72.76,1,38.7,0,862.25
+C01127,58,47,Enterprise,South,Organic,220.28,2,53.8,0,2628.29
+C01128,48,15,Pro,North,Organic,88.25,2,63.1,0,1044.42
+C01129,44,51,Pro,West,Partner,80.67,4,68.9,0,963.06
+C01130,49,50,Basic,West,Referral,30.64,1,68.5,0,364.92
+C01131,37,28,Basic,West,Paid Search,30.78,0,83.4,0,366.3
+C01132,50,33,Enterprise,North,Organic,221.22,3,45.3,0,2626.56
+C01133,56,3,Pro,East,Partner,83.6,1,59.6,0,983.47
+C01134,54,46,Basic,East,Partner,25.92,1,94.0,0,309.77
+C01135,47,58,Pro,West,Referral,91.7,3,29.2,0,1086.55
+C01136,20,29,Basic,North,Organic,31.47,3,54.3,0,370.08
+C01137,52,33,Pro,East,Organic,75.78,2,45.8,0,896.41
+C01138,35,30,Basic,North,Organic,26.61,3,58.7,0,313.79
+C01139,53,5,Pro,East,Organic,82.19,1,58.6,0,967.29
+C01140,43,38,Pro,West,Social,77.24,1,76.2,0,922.03
+C01141,60,44,Basic,North,Paid Search,29.77,1,70.3,0,354.28
+C01142,34,56,Basic,North,Partner,30.72,3,39.8,0,362.97
+C01143,62,56,Pro,West,Social,75.42,2,54.0,0,899.23
+C01144,58,30,Basic,North,Social,26.41,3,62.0,0,311.91
+C01145,33,58,Basic,East,Paid Search,29.9,1,78.6,0,357.13
+C01146,41,32,Pro,East,Referral,75.63,2,100.0,0,904.62
+C01147,43,39,Basic,South,Referral,29.34,0,79.9,0,349.63
+C01148,54,37,Basic,West,Organic,25.88,3,44.8,0,303.92
+C01149,51,60,Basic,West,Partner,28.41,1,64.4,0,338.68
+C01150,58,45,Pro,South,Referral,83.52,1,69.1,0,996.88
+C01151,35,8,Basic,North,Paid Search,30.41,2,55.2,0,353.42
+C01152,42,5,Basic,North,Referral,27.17,4,68.0,0,317.69
+C01153,38,25,Basic,North,Partner,26.29,0,29.4,0,303.1
+C01154,61,31,Basic,West,Organic,29.04,4,69.4,0,343.94
+C01155,32,41,Basic,East,Partner,30.3,1,57.9,0,359.02
+C01156,46,29,Basic,East,Social,29.94,2,62.1,0,353.67
+C01157,23,31,Basic,North,Partner,27.81,4,84.9,0,330.89
+C01158,58,56,Basic,West,Partner,29.69,3,40.6,0,350.92
+C01159,36,21,Enterprise,East,Organic,222.92,2,68.6,0,2655.77
+C01160,34,30,Basic,West,Partner,29.48,5,71.5,0,349.15
+C01161,45,34,Basic,South,Partner,25.21,0,70.9,0,299.46
+C01162,41,29,Enterprise,East,Referral,202.23,2,36.6,0,2391.94
+C01163,58,59,Enterprise,East,Referral,231.54,2,87.0,0,2773.83
+C01164,43,58,Pro,South,Partner,70.86,3,58.4,0,845.56
+C01165,42,31,Basic,East,Organic,29.07,0,59.0,0,343.57
+C01166,23,28,Basic,South,Paid Search,28.47,1,60.7,0,336.15
+C01167,19,36,Basic,West,Partner,29.22,2,57.5,0,345.41
+C01168,37,11,Basic,East,Social,29.45,2,43.8,0,339.31
+C01169,65,26,Basic,East,Paid Search,31.64,5,60.8,0,372.35
+C01170,62,14,Pro,East,Referral,79.54,0,57.8,0,939.93
+C01171,48,9,Basic,South,Social,31.96,1,77.4,0,377.31
+C01172,48,6,Pro,West,Organic,78.26,5,66.8,0,922.97
+C01173,36,36,Basic,North,Paid Search,28.19,3,89.6,0,336.13
+C01174,26,1,Basic,East,Organic,27.45,1,62.4,0,319.62
+C01175,18,39,Pro,North,Paid Search,67.52,2,50.3,0,801.46
+C01176,34,26,Enterprise,South,Partner,203.39,2,39.0,0,2405.39
+C01177,33,22,Basic,East,Paid Search,33.77,2,100.0,0,402.61
+C01178,27,47,Pro,South,Social,81.9,1,77.3,0,978.82
+C01179,30,33,Basic,West,Social,30.59,1,54.2,0,360.84
+C01180,19,45,Basic,East,Social,28.04,2,92.8,0,334.97
+C01181,47,43,Pro,South,Partner,77.46,1,89.1,0,926.53
+C01182,62,2,Basic,South,Partner,31.28,2,41.0,0,355.37
+C01183,51,13,Basic,East,Referral,33.66,1,53.2,0,392.42
+C01184,39,35,Pro,West,Social,88.4,1,63.8,0,1052.36
+C01185,38,59,Basic,South,Organic,30.87,3,43.8,0,365.7
+C01186,32,10,Basic,East,Partner,29.08,4,58.4,0,338.68
+C01187,24,7,Basic,East,Organic,29.49,3,74.1,0,346.82
+C01188,46,57,Enterprise,North,Paid Search,187.0,3,38.7,0,2228.27
+C01189,45,59,Pro,West,Paid Search,69.85,1,71.0,0,835.2
+C01190,18,11,Basic,East,Partner,26.39,3,81.9,0,312.06
+C01191,37,25,Basic,North,Partner,29.12,0,74.8,0,345.48
+C01192,31,38,Pro,East,Organic,77.15,1,64.7,0,919.14
+C01193,26,12,Basic,East,Partner,25.59,0,56.6,0,299.18
+C01194,51,20,Pro,West,Paid Search,78.76,2,78.1,0,937.53
+C01195,43,24,Pro,North,Organic,76.99,2,44.0,0,906.63
+C01196,48,39,Basic,South,Referral,26.28,1,70.1,0,312.38
+C01197,52,19,Basic,North,Referral,28.14,1,66.4,0,331.89
+C01198,65,25,Basic,East,Paid Search,28.26,1,85.1,0,336.13
+C01199,56,18,Basic,East,Paid Search,27.57,1,56.1,0,323.13
+C01200,47,46,Basic,South,Social,31.15,1,57.5,0,369.59
+C01201,60,10,Enterprise,West,Paid Search,168.71,0,46.9,0,1991.94
+C01202,40,14,Basic,East,Social,24.39,2,71.4,0,287.56
+C01203,65,15,Pro,South,Social,79.02,1,58.8,0,934.04
+C01204,54,55,Pro,North,Paid Search,79.61,1,51.3,0,948.77
+C01205,49,57,Basic,South,Referral,29.94,2,51.0,0,355.46
+C01206,61,31,Basic,West,Partner,27.75,1,75.1,0,329.66
+C01207,42,10,Basic,South,Referral,26.87,3,43.2,0,308.6
+C01208,52,46,Pro,West,Referral,78.95,2,46.8,0,937.88
+C01209,31,30,Basic,East,Paid Search,27.98,0,83.2,0,333.1
+C01210,64,51,Pro,East,Organic,88.8,2,61.2,0,1059.26
+C01211,47,22,Enterprise,South,Organic,193.84,5,74.2,0,2310.55
+C01212,55,60,Pro,East,Paid Search,78.66,3,55.9,0,938.53
+C01213,40,49,Enterprise,North,Partner,238.41,4,60.0,0,2846.92
+C01214,59,14,Pro,North,Paid Search,77.77,5,60.7,0,917.64
+C01215,21,44,Pro,South,Organic,82.51,4,83.6,0,986.09
+C01216,23,18,Pro,East,Paid Search,83.08,4,82.2,0,988.92
+C01217,42,21,Pro,East,Referral,83.62,3,81.6,0,996.06
+C01218,53,16,Pro,South,Paid Search,80.83,1,55.3,0,954.35
+C01219,56,41,Enterprise,South,Paid Search,202.09,2,47.2,0,2405.8
+C01220,39,16,Basic,East,Organic,29.23,3,74.9,0,345.27
+C01221,49,39,Pro,East,Paid Search,75.36,2,87.4,0,900.83
+C01222,44,35,Pro,North,Paid Search,81.06,3,81.8,0,967.69
+C01223,64,46,Pro,South,Social,91.82,3,62.2,0,1094.37
+C01224,49,60,Basic,East,Social,31.81,1,78.4,0,380.02
+C01225,38,1,Pro,West,Paid Search,80.92,3,74.7,0,956.86
+C01226,64,60,Pro,South,Organic,84.41,3,64.5,0,1008.37
+C01227,23,7,Enterprise,West,Organic,185.16,1,69.3,0,2200.46
+C01228,65,32,Basic,East,Paid Search,28.4,2,65.7,0,336.33
+C01229,25,21,Pro,South,Referral,84.99,2,50.6,0,1002.79
+C01230,31,39,Pro,East,Referral,88.4,0,56.3,0,1051.71
+C01231,57,44,Enterprise,West,Paid Search,186.73,1,54.1,0,2227.58
+C01232,53,52,Enterprise,North,Paid Search,191.3,3,34.8,0,2275.3
+C01233,64,25,Pro,North,Paid Search,92.79,2,66.4,0,1102.55
+C01234,53,56,Pro,South,Referral,79.61,0,67.3,0,951.37
+C01235,48,20,Basic,North,Partner,33.23,3,75.0,0,393.12
+C01236,34,13,Enterprise,West,Organic,202.29,5,79.4,0,2409.95
+C01237,18,23,Basic,West,Referral,29.57,5,80.5,0,350.55
+C01238,23,32,Pro,East,Partner,77.07,1,90.1,0,921.03
+C01239,32,41,Pro,West,Partner,84.96,3,49.1,0,1008.26
+C01240,19,50,Basic,North,Referral,32.15,0,43.7,0,380.23
+C01241,42,14,Basic,East,Referral,26.6,1,81.8,0,315.15
+C01242,55,19,Basic,South,Partner,28.18,5,81.5,0,333.77
+C01243,64,57,Pro,South,Paid Search,84.78,2,90.5,0,1015.06
+C01244,41,27,Pro,South,Referral,78.18,4,68.2,0,929.23
+C01245,60,15,Basic,East,Paid Search,27.86,3,28.1,0,315.28
+C01246,65,60,Pro,East,Referral,85.38,2,70.2,0,1020.77
+C01247,59,27,Basic,North,Organic,31.56,1,75.4,0,374.56
+C01248,40,60,Enterprise,East,Paid Search,191.84,3,83.3,0,2297.76
+C01249,33,56,Basic,West,Organic,29.49,4,84.3,0,352.24
+C01250,64,55,Basic,North,Paid Search,26.2,1,81.5,0,312.95
+C01251,29,35,Basic,West,Referral,26.92,2,54.0,0,317.6
+C01252,37,48,Pro,East,Referral,79.78,4,42.5,0,946.31
+C01253,21,58,Basic,South,Social,29.07,2,73.1,0,346.88
+C01254,56,17,Pro,East,Organic,72.89,2,50.5,0,858.46
+C01255,49,3,Basic,East,Social,27.34,2,89.1,0,323.47
+C01256,22,20,Basic,West,Paid Search,26.53,2,35.0,0,305.4
+C01257,28,39,Basic,North,Partner,30.06,3,71.6,0,357.22
+C01258,44,33,Basic,North,Partner,24.44,4,65.4,0,289.22
+C01259,43,5,Enterprise,East,Social,182.9,2,60.5,0,2165.39
+C01260,56,34,Basic,South,Organic,24.68,2,48.3,0,290.18
+C01261,30,11,Enterprise,North,Social,205.67,3,26.9,0,2393.79
+C01262,62,31,Basic,South,Organic,24.82,3,53.0,0,291.95
+C01263,39,35,Basic,East,Social,29.07,2,55.3,0,343.17
+C01264,57,39,Basic,North,Partner,32.8,1,84.9,0,391.14
+C01265,29,25,Basic,West,Referral,32.88,2,50.7,0,385.27
+C01266,19,25,Pro,South,Paid Search,67.59,4,67.7,0,802.85
+C01267,20,41,Pro,North,Organic,80.89,4,38.0,0,955.6
+C01268,35,45,Basic,North,Social,26.71,3,70.2,0,317.73
+C01269,63,49,Pro,West,Partner,71.46,3,24.0,0,841.97
+C01270,20,21,Pro,North,Social,78.28,2,99.6,0,935.32
+C01271,35,26,Enterprise,South,Partner,218.55,4,57.6,0,2598.32
+C01272,23,20,Enterprise,East,Social,208.55,1,18.5,0,2431.56
+C01273,62,32,Pro,East,Social,74.48,2,51.8,0,882.71
+C01274,50,8,Pro,South,Referral,83.46,8,37.1,0,960.71
+C01275,54,26,Pro,North,Partner,64.82,2,52.9,0,767.02
+C01276,52,12,Pro,East,Paid Search,74.24,3,55.8,0,874.17
+C01277,49,32,Pro,South,Partner,73.79,4,48.7,0,872.7
+C01278,55,52,Basic,North,Partner,29.18,3,48.1,0,345.43
+C01279,18,60,Pro,North,Referral,77.72,1,46.3,0,926.15
+C01280,59,27,Enterprise,East,Partner,196.75,5,72.0,0,2346.2
+C01281,53,4,Basic,North,Paid Search,28.59,4,80.4,0,336.67
+C01282,53,14,Pro,South,Partner,79.14,0,63.7,0,937.38
+C01283,36,7,Enterprise,North,Referral,207.6,4,59.7,0,2456.39
+C01284,56,46,Basic,West,Paid Search,29.35,2,44.9,0,346.39
+C01285,36,60,Pro,East,Social,77.2,1,67.2,0,922.8
+C01286,20,34,Enterprise,West,Organic,205.4,1,69.9,0,2452.83
+C01287,61,11,Enterprise,North,Partner,212.15,4,56.3,0,2510.4
+C01288,29,2,Basic,South,Paid Search,27.71,0,74.7,0,325.87
+C01289,22,59,Basic,South,Paid Search,28.86,9,55.2,0,342.34
+C01290,47,19,Pro,East,Organic,86.34,2,46.1,0,1015.44
+C01291,29,7,Basic,West,Organic,26.44,3,82.3,0,312.23
+C01292,59,11,Basic,North,Organic,33.19,3,58.5,0,387.25
+C01293,39,16,Basic,West,Social,25.89,4,88.5,0,307.23
+C01294,18,40,Basic,East,Social,28.2,2,71.1,0,335.26
+C01295,63,54,Pro,West,Referral,72.99,3,95.5,0,873.96
+C01296,42,17,Pro,North,Organic,92.83,3,82.0,0,1105.01
+C01297,30,42,Pro,West,Social,75.82,6,59.9,0,901.78
+C01298,50,4,Pro,South,Partner,75.83,0,55.7,0,891.18
+C01299,43,1,Basic,South,Referral,28.14,4,48.1,0,321.39
+C01300,19,4,Basic,North,Social,29.22,0,77.1,0,344.39
+C01301,54,56,Basic,West,Referral,28.24,2,66.4,0,336.47
+C01302,37,35,Basic,West,Paid Search,28.69,0,58.0,0,339.43
+C01303,51,49,Basic,North,Partner,20.81,1,80.2,0,248.33
+C01304,60,2,Basic,South,Referral,29.13,3,62.7,0,338.81
+C01305,47,2,Basic,East,Partner,29.04,6,70.3,0,338.83
+C01306,50,51,Basic,East,Partner,31.41,2,47.4,0,371.78
+C01307,30,7,Pro,North,Social,87.27,1,83.0,0,1037.46
+C01308,29,10,Pro,South,Paid Search,77.81,3,70.5,0,921.45
+C01309,37,32,Enterprise,South,Organic,211.99,2,84.4,0,2534.9
+C01310,58,37,Pro,South,Referral,72.04,1,82.6,0,860.6
+C01311,43,14,Pro,West,Partner,83.85,0,66.6,0,994.17
+C01312,34,27,Basic,North,Social,27.67,1,63.2,0,326.94
+C01313,55,41,Pro,East,Paid Search,71.51,4,90.3,0,855.0
+C01314,58,27,Basic,West,Partner,28.57,2,59.1,0,336.73
+C01315,61,23,Basic,West,Social,32.25,2,76.7,0,382.32
+C01316,32,5,Basic,West,Social,29.42,4,53.5,0,339.64
+C01317,52,28,Basic,North,Social,32.47,2,32.3,0,375.57
+C01318,46,49,Basic,North,Social,27.26,4,39.1,0,320.82
+C01319,39,38,Pro,West,Partner,85.62,1,72.9,0,1021.55
+C01320,37,54,Pro,East,Paid Search,74.88,1,77.9,0,895.55
+C01321,23,8,Pro,East,Referral,80.42,2,71.0,0,952.35
+C01322,31,1,Pro,South,Partner,80.37,1,85.5,0,954.69
+C01323,44,33,Pro,East,Paid Search,83.18,3,68.7,0,990.36
+C01324,60,11,Basic,North,Partner,29.58,5,44.8,0,339.72
+C01325,59,36,Pro,South,Referral,74.33,3,72.1,0,886.07
+C01326,27,55,Pro,East,Partner,84.56,3,64.9,0,1009.62
+C01327,50,21,Basic,North,Referral,33.02,1,56.2,0,387.68
+C01328,22,33,Basic,North,Partner,27.65,5,66.0,0,327.12
+C01329,50,41,Enterprise,North,Organic,169.78,2,65.3,0,2027.57
+C01330,34,10,Pro,North,Partner,82.16,1,55.7,0,967.74
+C01331,39,54,Basic,West,Social,28.23,6,53.0,0,334.54
+C01332,52,13,Pro,East,Social,78.17,3,86.0,0,930.59
+C01333,38,49,Basic,West,Social,30.29,3,85.5,0,361.61
+C01334,56,40,Basic,South,Paid Search,27.94,3,65.2,0,331.49
+C01335,43,9,Basic,East,Organic,28.38,2,65.0,0,332.54
+C01336,65,44,Basic,West,Partner,28.77,3,37.6,0,337.67
+C01337,48,12,Pro,South,Organic,88.29,3,91.2,0,1052.02
+C01338,32,36,Basic,East,Paid Search,29.07,2,81.6,0,346.17
+C01339,55,58,Pro,East,Partner,71.19,3,74.8,0,851.25
+C01340,37,58,Basic,West,Referral,26.23,5,19.3,0,306.1
+C01341,43,53,Pro,West,Partner,79.88,3,62.7,0,953.17
+C01342,24,30,Pro,East,Partner,71.86,4,57.8,0,852.15
+C01343,23,34,Pro,East,Organic,69.13,2,75.6,0,824.52
+C01344,45,19,Pro,West,Partner,83.02,2,56.3,0,981.25
+C01345,26,56,Enterprise,East,Referral,209.9,0,64.1,0,2510.77
+C01346,65,29,Pro,South,Referral,76.67,1,76.5,0,914.07
+C01347,59,47,Pro,East,Referral,80.86,4,46.8,0,960.13
+C01348,51,22,Pro,East,Referral,80.19,2,54.2,0,948.03
+C01349,53,45,Basic,North,Referral,30.4,3,65.3,0,361.16
+C01350,46,14,Basic,East,Paid Search,30.4,2,86.8,0,360.63
+C01351,20,45,Basic,East,Paid Search,22.95,3,75.7,0,273.34
+C01352,36,3,Basic,West,Organic,28.44,1,84.3,0,335.99
+C01353,41,7,Basic,East,Paid Search,30.2,3,63.1,0,352.64
+C01354,61,22,Basic,North,Paid Search,28.05,0,93.4,0,334.15
+C01355,28,29,Pro,West,Referral,79.23,0,38.4,0,933.66
+C01356,41,43,Basic,East,Social,30.74,2,98.4,0,367.39
+C01357,34,22,Pro,South,Organic,79.51,3,98.6,0,949.85
+C01358,24,2,Basic,West,Paid Search,32.5,2,71.8,0,380.95
+C01359,22,20,Pro,South,Organic,86.12,1,80.1,0,1025.86
+C01360,35,27,Basic,South,Social,28.72,2,63.4,0,339.19
+C01361,21,33,Basic,West,Partner,28.54,3,58.4,1,336.93
+C01362,21,39,Basic,West,Paid Search,22.39,2,53.6,0,264.53
+C01363,34,15,Pro,East,Referral,76.94,5,57.2,0,906.7
+C01364,27,37,Basic,South,Partner,25.86,7,63.5,0,305.77
+C01365,44,38,Enterprise,West,Social,202.52,3,69.1,0,2418.52
+C01366,18,47,Basic,North,Referral,29.35,3,95.8,0,350.77
+C01367,32,32,Pro,East,Paid Search,83.4,1,67.7,0,993.11
+C01368,39,49,Basic,East,Partner,32.24,2,38.7,0,379.84
+C01369,64,14,Pro,West,Partner,78.83,3,90.0,0,939.4
+C01370,48,43,Basic,South,Partner,34.29,1,45.2,0,404.47
+C01371,60,3,Basic,West,Organic,29.54,1,56.5,0,342.72
+C01372,34,7,Basic,North,Partner,25.96,4,64.6,0,303.18
+C01373,39,52,Basic,West,Organic,27.7,2,71.1,0,330.11
+C01374,38,29,Basic,North,Social,28.14,3,37.4,0,326.95
+C01375,60,38,Enterprise,East,Social,208.43,2,51.3,0,2482.05
+C01376,64,37,Basic,North,Referral,26.8,1,40.8,0,314.44
+C01377,64,42,Basic,West,Partner,28.31,4,70.6,0,336.46
+C01378,54,15,Enterprise,West,Organic,196.44,3,82.1,1,2343.26
+C01379,42,11,Basic,North,Social,27.96,2,43.2,0,321.92
+C01380,43,3,Basic,West,Paid Search,30.88,2,80.9,0,364.03
+C01381,65,52,Pro,South,Paid Search,83.05,1,81.8,0,993.46
+C01382,31,14,Enterprise,East,Partner,217.57,0,56.8,0,2581.88
+C01383,34,35,Pro,North,Social,76.91,0,34.3,0,906.89
+C01384,61,28,Basic,North,Referral,31.79,1,47.8,0,372.74
+C01385,36,10,Enterprise,North,Referral,177.29,2,53.9,0,2097.24
+C01386,29,25,Basic,East,Referral,25.78,2,90.2,0,306.91
+C01387,44,5,Enterprise,East,Paid Search,179.68,2,62.0,0,2128.44
+C01388,33,11,Pro,West,Referral,79.06,0,50.9,0,929.9
+C01389,60,9,Enterprise,North,Social,218.14,3,64.5,0,2588.23
+C01390,61,50,Basic,East,Paid Search,27.6,2,42.0,0,325.83
+C01391,32,35,Basic,North,Partner,27.89,2,72.7,0,331.32
+C01392,43,56,Pro,South,Partner,77.63,1,49.4,0,925.0
+C01393,65,27,Pro,North,Social,82.62,1,51.8,0,978.04
+C01394,53,13,Pro,North,Partner,75.98,2,70.4,0,900.98
+C01395,28,37,Enterprise,East,Social,190.51,6,85.8,0,2278.24
+C01396,46,56,Pro,West,Partner,70.5,2,100.0,0,844.5
+C01397,47,32,Basic,East,Social,27.67,1,48.3,0,325.24
+C01398,49,2,Basic,West,Partner,31.73,3,51.9,0,365.09
+C01399,19,19,Basic,East,Social,29.21,3,70.8,0,344.82
+C01400,32,56,Basic,North,Social,27.28,0,87.9,0,326.17
+C01401,59,32,Basic,South,Social,31.87,3,25.2,0,366.73
+C01402,29,58,Pro,West,Referral,75.3,0,69.5,0,900.26
+C01403,32,31,Pro,North,Partner,87.97,3,53.7,0,1042.5
+C01404,33,1,Pro,North,Social,87.87,2,31.3,0,1005.91
+C01405,26,53,Basic,West,Paid Search,29.13,1,43.3,0,344.66
+C01406,25,46,Pro,North,Organic,69.53,1,56.3,0,828.14
+C01407,34,43,Pro,West,Social,93.47,5,59.0,0,1112.04
+C01408,59,59,Enterprise,West,Partner,205.17,3,79.1,0,2456.72
+C01409,18,12,Pro,East,Referral,76.95,0,74.0,0,913.95
+C01410,31,55,Pro,East,Partner,85.04,0,84.1,0,1017.77
+C01411,20,14,Pro,North,Organic,83.44,1,66.5,0,988.86
+C01412,44,59,Basic,South,Referral,32.04,4,48.0,1,379.95
+C01413,30,12,Enterprise,West,Paid Search,188.46,4,56.9,0,2231.34
+C01414,56,34,Basic,West,Paid Search,29.74,1,77.8,0,353.8
+C01415,46,48,Basic,South,Social,26.25,1,83.6,0,313.37
+C01416,55,5,Basic,West,Referral,30.55,4,57.5,0,354.11
+C01417,48,5,Pro,West,Organic,78.85,0,52.2,0,925.22
+C01418,39,51,Pro,North,Paid Search,80.78,1,71.7,0,965.2
+C01419,59,4,Pro,East,Paid Search,78.08,3,70.1,0,922.53
+C01420,40,37,Basic,East,Social,28.42,1,87.0,0,338.92
+C01421,63,57,Basic,East,Paid Search,26.99,1,54.5,0,320.86
+C01422,65,37,Enterprise,West,Paid Search,211.58,3,50.6,0,2517.96
+C01423,46,29,Basic,West,Paid Search,32.46,3,74.9,0,385.1
+C01424,50,26,Enterprise,East,Organic,190.14,2,57.1,0,2261.69
+C01425,30,39,Basic,South,Partner,30.28,1,58.4,0,358.62
+C01426,57,35,Pro,West,Referral,81.73,3,83.3,0,975.9
+C01427,50,31,Pro,West,Referral,79.05,3,38.7,0,930.74
+C01428,61,10,Pro,East,Paid Search,69.35,1,100.0,0,827.7
+C01429,30,40,Basic,East,Partner,25.98,2,53.6,0,307.07
+C01430,55,45,Enterprise,North,Organic,186.57,0,82.7,0,2233.25
+C01431,40,43,Pro,South,Social,65.48,1,64.2,0,780.69
+C01432,26,5,Pro,North,Referral,87.9,3,66.6,0,1037.35
+C01433,26,43,Pro,East,Paid Search,81.32,0,63.5,0,969.64
+C01434,44,44,Basic,West,Referral,28.93,4,74.6,0,344.32
+C01435,33,12,Pro,North,Social,65.16,2,58.1,0,768.62
+C01436,22,51,Basic,West,Organic,24.77,2,54.3,0,293.89
+C01437,38,32,Basic,North,Referral,28.99,4,90.8,0,345.44
+C01438,49,29,Pro,North,Referral,91.45,3,62.5,0,1086.15
+C01439,33,44,Pro,West,Social,74.58,1,54.5,0,887.59
+C01440,63,31,Basic,North,Referral,31.0,6,30.7,0,357.07
+C01441,55,33,Basic,East,Partner,27.89,6,87.7,0,332.0
+C01442,42,19,Basic,West,Partner,29.13,2,54.6,0,340.99
+C01443,62,56,Basic,South,Social,31.82,0,100.0,0,380.85
+C01444,38,59,Pro,North,Paid Search,76.81,2,70.8,0,918.28
+C01445,24,8,Basic,South,Partner,27.4,3,64.4,0,320.46
+C01446,19,44,Enterprise,North,Paid Search,221.58,3,64.9,0,2646.55
+C01447,63,2,Basic,East,Social,29.11,1,100.0,0,345.72
+C01448,64,23,Basic,West,Social,31.53,3,24.7,0,358.84
+C01449,53,59,Enterprise,West,Paid Search,188.09,6,59.6,0,2247.74
+C01450,22,11,Basic,West,Referral,32.26,1,61.5,0,377.89
+C01451,32,23,Basic,West,Social,29.63,2,60.4,0,348.82
+C01452,19,14,Enterprise,West,Organic,205.92,0,70.5,0,2452.3
+C01453,20,44,Enterprise,West,Partner,201.1,0,63.5,0,2402.65
+C01454,29,28,Pro,East,Social,75.81,1,69.2,0,902.31
+C01455,45,36,Basic,West,Social,29.0,4,59.6,0,342.75
+C01456,21,57,Pro,South,Organic,76.2,2,41.7,0,906.34
+C01457,65,32,Enterprise,South,Partner,214.28,6,62.5,0,2552.16
+C01458,39,45,Enterprise,West,Partner,195.77,1,78.2,0,2342.36
+C01459,30,6,Basic,South,Organic,25.53,3,52.8,0,295.18
+C01460,42,13,Basic,South,Partner,25.1,1,97.8,0,298.69
+C01461,55,57,Basic,North,Partner,24.99,2,86.7,0,298.7
+C01462,33,52,Basic,South,Social,30.43,0,82.3,0,363.44
+C01463,20,40,Pro,East,Organic,71.72,2,78.1,0,856.44
+C01464,20,23,Basic,West,Social,29.7,3,62.5,0,349.8
+C01465,58,12,Basic,North,Referral,29.32,3,81.4,0,346.76
+C01466,23,52,Basic,East,Paid Search,28.85,4,86.7,0,344.54
+C01467,48,48,Pro,West,Paid Search,81.77,2,77.7,0,977.27
+C01468,36,15,Basic,West,Partner,29.37,6,46.3,0,338.79
+C01469,55,36,Basic,West,Social,22.71,2,63.3,0,269.06
+C01470,20,38,Basic,North,Paid Search,28.25,2,73.8,0,335.93
+C01471,61,29,Enterprise,South,Social,205.77,1,80.2,0,2459.04
+C01472,51,56,Basic,West,Partner,32.81,2,62.7,0,390.62
+C01473,39,8,Pro,West,Organic,89.66,2,54.4,0,1053.57
+C01474,27,16,Basic,East,Referral,25.84,1,92.9,0,307.33
+C01475,64,6,Basic,West,Social,28.19,4,41.8,0,321.14
+C01476,32,42,Basic,East,Organic,25.37,4,44.0,0,298.35
+C01477,41,39,Basic,North,Organic,32.53,0,45.4,0,383.31
+C01478,36,60,Basic,West,Organic,31.35,2,48.0,0,372.16
+C01479,29,33,Pro,North,Referral,81.22,3,83.2,0,969.55
+C01480,37,10,Pro,South,Organic,80.05,5,79.8,0,950.14
+C01481,25,28,Basic,North,Social,32.2,5,56.7,0,378.45
+C01482,18,6,Basic,East,Organic,31.81,0,76.4,0,375.11
+C01483,31,41,Pro,North,Organic,86.32,2,63.8,0,1028.49
+C01484,23,41,Basic,East,Paid Search,30.06,0,47.7,0,354.9
+C01485,37,52,Basic,West,Partner,28.19,2,100.0,0,337.24
+C01486,59,21,Basic,West,Social,30.78,2,87.4,0,365.87
+C01487,25,19,Basic,South,Paid Search,30.89,2,70.0,0,364.73
+C01488,18,5,Basic,West,Referral,28.56,1,51.4,0,330.28
+C01489,23,25,Enterprise,South,Partner,193.41,1,62.2,0,2303.45
+C01490,42,29,Enterprise,East,Partner,217.04,1,54.2,0,2582.31
+C01491,31,46,Enterprise,East,Organic,225.49,1,67.7,0,2695.51
+C01492,41,46,Basic,North,Social,27.26,2,69.3,0,324.37
+C01493,19,9,Basic,North,Social,28.39,2,58.2,0,331.02
+C01494,33,18,Basic,North,Partner,29.81,5,33.3,0,340.05
+C01495,37,31,Basic,West,Referral,30.13,2,100.0,0,359.68
+C01496,38,21,Basic,West,Paid Search,27.79,3,66.0,0,327.59
+C01497,44,2,Basic,South,Social,33.37,2,71.8,0,391.15
+C01498,55,51,Basic,West,Social,29.98,2,56.8,0,355.98
+C01499,40,44,Basic,North,Referral,30.23,4,33.4,0,353.53
+C01500,58,32,Basic,West,Partner,33.08,0,66.6,0,392.22
+C01501,43,20,Pro,North,Paid Search,76.16,1,60.5,0,902.38
+C01502,30,51,Basic,North,Partner,28.79,1,78.1,0,343.54
+C01503,28,3,Pro,West,Organic,71.08,2,79.4,0,842.9
+C01504,33,27,Basic,South,Social,28.6,2,77.0,0,339.47
+C01505,46,49,Pro,South,Referral,69.59,1,82.8,0,832.32
+C01506,29,58,Basic,West,Referral,30.74,2,94.7,0,367.75
+C01507,61,16,Pro,South,Organic,81.65,2,70.6,0,969.11
+C01508,41,40,Basic,West,Referral,28.36,2,82.7,0,338.03
+C01509,59,12,Basic,North,Organic,28.77,2,72.4,0,339.07
+C01510,50,7,Pro,North,Social,83.81,3,29.7,0,962.43
+C01511,34,22,Basic,South,Partner,26.36,1,63.4,0,310.85
+C01512,28,54,Basic,East,Referral,29.47,3,47.2,0,348.98
+C01513,53,42,Enterprise,North,Social,210.14,3,65.9,0,2509.65
+C01514,33,30,Basic,North,Social,24.87,4,46.6,0,290.99
+C01515,29,17,Pro,East,Organic,83.33,3,72.3,0,989.45
+C01516,62,9,Pro,South,Organic,68.42,1,82.7,0,813.68
+C01517,41,17,Basic,South,Paid Search,28.73,5,78.5,0,339.66
+C01518,20,10,Basic,North,Organic,26.3,2,91.5,0,312.1
+C01519,41,12,Basic,North,Referral,32.32,2,35.5,0,368.99
+C01520,40,42,Pro,North,Referral,71.69,1,45.6,0,850.75
+C01521,59,8,Basic,East,Referral,25.17,1,100.0,0,299.36
+C01522,52,3,Basic,North,Organic,29.31,1,83.2,0,346.1
+C01523,27,33,Basic,North,Social,28.04,2,67.8,0,332.41
+C01524,25,18,Enterprise,West,Social,175.05,1,66.5,0,2083.91
+C01525,46,28,Pro,South,Referral,82.32,3,61.0,0,977.02
+C01526,20,9,Enterprise,East,Organic,167.3,4,27.1,0,1942.37
+C01527,33,13,Pro,South,Paid Search,72.45,4,46.9,0,848.39
+C01528,24,27,Pro,West,Partner,75.36,5,56.1,0,891.86
+C01529,18,42,Pro,West,Partner,84.07,1,53.8,0,999.94
+C01530,62,25,Enterprise,South,Paid Search,219.62,2,54.1,0,2609.72
+C01531,22,33,Pro,East,Social,85.97,2,100.0,0,1028.38
+C01532,18,32,Basic,South,Social,28.64,3,57.7,0,337.86
+C01533,62,17,Pro,West,Referral,63.66,1,70.7,0,756.09
+C01534,27,17,Pro,South,Paid Search,81.47,3,66.1,0,965.44
+C01535,57,26,Basic,West,Referral,32.41,0,78.0,0,384.99
+C01536,19,2,Basic,East,Organic,31.86,4,51.9,0,366.05
+C01537,25,42,Basic,East,Referral,30.07,0,89.2,0,359.04
+C01538,23,37,Pro,South,Organic,71.48,3,69.5,0,851.82
+C01539,51,19,Basic,West,Organic,27.78,2,42.1,0,321.88
+C01540,47,23,Pro,East,Referral,91.22,3,60.2,0,1080.77
+C01541,40,20,Basic,West,Referral,25.71,3,59.1,0,301.77
+C01542,29,40,Pro,West,Social,71.75,2,60.3,0,854.1
+C01543,22,46,Basic,North,Referral,31.19,0,76.7,0,371.89
+C01544,45,7,Enterprise,West,Social,192.14,0,78.8,0,2289.16
+C01545,29,25,Pro,West,Social,71.53,2,72.8,0,851.31
+C01546,46,1,Basic,North,Paid Search,32.54,0,73.8,0,382.28
+C01547,50,28,Basic,West,Social,30.07,1,67.5,0,356.03
+C01548,58,15,Basic,East,Referral,28.11,1,29.4,0,319.95
+C01549,41,21,Basic,South,Referral,26.34,1,79.2,0,312.46
+C01550,18,28,Pro,North,Organic,91.94,3,70.3,0,1093.94
+C01551,31,20,Enterprise,South,Paid Search,198.61,2,47.3,0,2351.55
+C01552,58,24,Pro,North,Referral,87.83,1,70.8,0,1044.9
+C01553,43,46,Pro,East,Paid Search,84.65,2,75.0,0,1011.14
+C01554,47,49,Basic,East,Referral,27.79,1,85.9,0,331.9
+C01555,39,1,Pro,East,Organic,75.76,1,74.7,0,896.73
+C01556,25,23,Pro,East,Paid Search,88.14,0,73.5,0,1049.32
+C01557,61,51,Basic,South,Partner,32.39,2,80.1,0,386.54
+C01558,55,32,Enterprise,East,Partner,169.12,6,50.8,0,2008.48
+C01559,65,13,Basic,West,Social,30.28,0,75.0,0,357.86
+C01560,59,36,Pro,North,Social,78.23,1,55.4,0,929.57
+C01561,31,9,Enterprise,South,Social,182.55,1,84.9,0,2177.55
+C01562,30,2,Pro,West,Organic,80.65,0,40.6,0,936.14
+C01563,29,38,Basic,West,Partner,25.87,5,71.9,0,307.16
+C01564,62,31,Pro,West,Paid Search,76.05,2,64.3,0,904.42
+C01565,44,46,Basic,North,Paid Search,27.15,3,78.4,0,323.6
+C01566,39,21,Pro,South,Paid Search,75.84,0,54.7,0,897.36
+C01567,64,52,Basic,North,Referral,28.83,0,69.5,0,343.64
+C01568,46,26,Pro,West,Organic,72.58,3,63.0,0,861.48
+C01569,61,45,Enterprise,East,Referral,224.05,2,71.4,0,2678.74
+C01570,65,7,Basic,North,Organic,30.14,1,48.2,0,348.04
+C01571,21,6,Basic,North,Referral,33.16,2,74.8,0,390.21
+C01572,35,47,Pro,East,Partner,77.99,2,32.6,0,922.29
+C01573,53,51,Basic,West,Organic,27.73,0,56.6,0,329.48
+C01574,57,57,Basic,West,Organic,33.08,2,37.4,1,390.81
+C01575,25,20,Basic,West,Social,27.66,4,74.1,0,326.94
+C01576,33,2,Basic,West,Partner,28.59,1,72.8,0,335.6
+C01577,44,59,Pro,West,Paid Search,83.55,3,69.8,0,998.62
+C01578,56,37,Pro,West,Social,71.18,2,89.0,0,850.84
+C01579,23,15,Basic,West,Paid Search,30.65,1,60.6,0,359.65
+C01580,46,46,Basic,South,Social,30.35,1,76.4,0,361.77
+C01581,32,55,Basic,West,Organic,31.94,1,67.1,0,380.63
+C01582,28,18,Basic,West,Partner,31.06,2,62.5,0,365.18
+C01583,42,47,Pro,North,Organic,87.22,2,86.2,0,1043.21
+C01584,37,48,Basic,East,Organic,28.74,2,99.4,0,343.69
+C01585,48,31,Pro,South,Referral,73.55,4,52.7,0,870.91
+C01586,33,38,Enterprise,North,Organic,232.59,2,78.2,0,2781.0
+C01587,57,17,Pro,North,Referral,69.35,1,71.4,0,823.83
+C01588,21,56,Pro,North,Paid Search,69.98,2,69.6,0,836.27
+C01589,59,59,Basic,West,Organic,30.31,1,70.2,0,361.63
+C01590,19,59,Basic,West,Social,32.77,0,62.3,0,390.53
+C01591,53,45,Basic,North,Social,29.44,4,5.0,0,334.41
+C01592,34,3,Pro,East,Social,85.32,6,82.1,0,1010.97
+C01593,36,22,Pro,East,Organic,66.39,4,48.2,0,781.77
+C01594,18,27,Basic,East,Paid Search,27.84,0,63.9,0,329.21
+C01595,51,58,Basic,East,Paid Search,24.65,6,52.3,0,292.4
+C01596,25,33,Basic,West,Paid Search,30.81,3,48.7,0,361.89
+C01597,49,33,Pro,East,Referral,69.22,1,70.1,0,824.81
+C01598,52,9,Pro,East,Referral,70.92,3,61.2,0,836.23
+C01599,58,48,Pro,East,Referral,82.25,2,51.8,0,978.79
+C01600,51,21,Enterprise,South,Paid Search,215.9,0,70.5,0,2574.28
+C01601,32,6,Basic,West,Social,28.63,2,63.4,0,334.47
+C01602,53,60,Pro,South,Social,82.6,1,81.8,0,988.64
+C01603,57,12,Pro,West,Paid Search,82.4,3,39.2,0,959.61
+C01604,33,1,Basic,East,Paid Search,28.5,3,48.3,0,326.12
+C01605,23,5,Enterprise,East,Referral,181.57,3,74.3,0,2158.21
+C01606,60,28,Basic,West,Paid Search,30.31,5,47.1,0,353.99
+C01607,25,7,Pro,East,Social,82.87,2,48.6,0,969.63
+C01608,46,51,Pro,East,Referral,84.65,4,50.0,0,1006.96
+C01609,29,31,Enterprise,East,Organic,203.97,2,62.3,0,2431.25
+C01610,24,20,Pro,East,Organic,71.62,1,64.3,0,849.67
+C01611,55,1,Basic,South,Organic,30.6,3,58.4,0,354.2
+C01612,24,29,Pro,East,Paid Search,78.99,0,50.5,0,935.67
+C01613,50,10,Pro,West,Paid Search,75.95,3,75.1,0,900.86
+C01614,51,59,Pro,East,Social,77.14,5,80.5,0,922.75
+C01615,20,18,Pro,West,Social,74.64,6,23.5,0,857.0
+C01616,26,29,Basic,West,Organic,31.06,3,35.6,0,360.29
+C01617,56,2,Pro,South,Social,70.04,4,77.0,0,828.84
+C01618,42,8,Enterprise,North,Referral,183.18,1,92.7,0,2187.36
+C01619,23,13,Basic,South,Paid Search,28.24,2,27.8,0,319.15
+C01620,65,4,Pro,West,Referral,89.2,4,73.9,0,1055.03
+C01621,30,44,Enterprise,West,Referral,215.78,0,95.8,0,2584.76
+C01622,18,57,Pro,East,Organic,68.63,2,49.3,0,817.68
+C01623,62,60,Enterprise,West,Social,220.51,3,88.9,0,2641.88
+C01624,18,16,Basic,North,Organic,32.13,2,61.0,0,377.02
+C01625,44,48,Enterprise,East,Organic,180.31,2,69.3,0,2155.91
+C01626,65,31,Basic,East,Paid Search,23.15,6,43.8,0,269.98
+C01627,45,3,Pro,East,Organic,78.54,3,79.0,0,930.84
+C01628,46,6,Basic,East,Organic,31.6,3,76.2,0,371.88
+C01629,36,33,Pro,South,Paid Search,89.06,2,93.3,0,1064.65
+C01630,24,26,Enterprise,East,Paid Search,185.14,3,86.5,0,2212.79
+C01631,45,1,Pro,East,Organic,90.07,1,65.8,0,1062.01
+C01632,61,56,Pro,West,Social,64.92,3,100.0,0,777.6
+C01633,22,44,Basic,North,Social,28.15,1,89.0,0,336.13
+C01634,60,31,Pro,South,Partner,76.36,4,69.2,0,908.63
+C01635,37,60,Pro,South,Referral,86.28,1,49.0,0,1028.68
+C01636,43,59,Basic,North,Social,32.01,1,40.0,0,379.03
+C01637,25,59,Pro,South,Paid Search,85.03,4,35.4,0,1009.44
+C01638,47,16,Pro,South,Referral,70.46,2,48.1,0,828.36
+C01639,26,53,Pro,South,Organic,84.45,2,87.4,0,1010.64
+C01640,31,31,Pro,South,Partner,82.22,2,72.3,0,979.56
+C01641,52,44,Basic,East,Organic,25.12,4,49.6,0,296.52
+C01642,20,52,Pro,East,Partner,65.94,3,59.7,0,786.32
+C01643,39,10,Basic,South,Partner,31.41,2,59.6,0,366.88
+C01644,46,27,Basic,West,Paid Search,28.58,1,79.6,0,339.61
+C01645,24,8,Basic,South,Partner,26.02,0,53.1,0,302.51
+C01646,32,17,Basic,East,Paid Search,28.52,2,69.9,0,336.45
+C01647,34,25,Basic,North,Paid Search,29.84,1,71.1,0,353.43
+C01648,49,52,Pro,North,Referral,78.48,2,49.6,0,934.21
+C01649,64,52,Basic,South,Paid Search,25.4,3,89.0,0,303.48
+C01650,58,24,Basic,South,Partner,33.37,1,61.0,0,393.4
+C01651,27,20,Basic,South,Paid Search,31.33,2,47.1,0,364.93
+C01652,18,32,Pro,North,Referral,76.88,2,78.5,0,917.12
+C01653,20,55,Basic,South,Social,28.32,5,58.9,0,336.46
+C01654,46,59,Basic,East,Paid Search,29.83,2,70.9,0,355.88
+C01655,25,14,Pro,East,Referral,71.86,0,47.9,0,845.06
+C01656,29,12,Basic,North,Social,29.75,1,79.8,0,351.98
+C01657,58,43,Enterprise,South,Paid Search,177.81,4,96.9,0,2129.39
+C01658,59,19,Basic,East,Organic,28.84,1,44.5,0,335.29
+C01659,58,12,Basic,East,Paid Search,26.29,0,74.0,0,310.45
+C01660,30,2,Basic,West,Social,26.41,3,48.6,0,302.67
+C01661,47,25,Pro,South,Partner,89.4,3,100.0,0,1068.52
+C01662,47,24,Basic,East,Social,29.14,3,83.1,0,346.1
+C01663,26,34,Enterprise,West,Paid Search,202.3,2,68.8,0,2415.01
+C01664,44,13,Basic,South,Social,24.33,2,43.1,0,280.65
+C01665,43,43,Pro,West,Paid Search,75.23,1,49.2,0,893.93
+C01666,37,41,Basic,South,Partner,30.07,3,74.7,0,357.78
+C01667,54,28,Basic,South,Social,29.45,1,42.8,0,344.12
+C01668,50,11,Basic,East,Paid Search,24.0,1,43.4,0,276.78
+C01669,43,31,Pro,East,Social,80.31,3,62.2,0,954.24
+C01670,52,41,Basic,East,Partner,29.85,1,68.3,0,354.82
+C01671,54,23,Enterprise,North,Partner,219.44,4,66.5,0,2612.76
+C01672,45,16,Pro,North,Partner,74.86,2,56.5,0,883.85
+C01673,30,31,Enterprise,West,Organic,163.31,5,73.6,0,1949.08
+C01674,54,22,Basic,West,Partner,26.69,0,53.3,0,313.22
+C01675,52,25,Pro,West,Paid Search,72.07,1,76.7,0,858.68
+C01676,65,21,Pro,East,Paid Search,83.66,2,67.6,0,993.4
+C01677,25,19,Pro,West,Organic,61.83,0,78.2,0,736.28
+C01678,38,44,Enterprise,South,Organic,191.86,2,84.1,0,2296.24
+C01679,62,28,Pro,North,Social,88.01,1,58.3,0,1044.49
+C01680,42,28,Enterprise,North,Paid Search,199.11,2,52.8,0,2366.88
+C01681,63,40,Pro,South,Paid Search,84.66,1,37.3,0,1001.05
+C01682,18,22,Basic,South,Referral,25.19,1,31.7,0,289.89
+C01683,19,7,Pro,West,Partner,68.88,0,65.0,0,814.29
+C01684,56,52,Pro,South,Referral,88.08,0,66.2,0,1051.98
+C01685,35,4,Enterprise,East,Referral,200.61,2,45.5,0,2357.36
+C01686,42,35,Pro,South,Social,79.65,3,47.2,0,942.9
+C01687,38,16,Basic,East,Referral,26.41,4,85.9,0,313.13
+C01688,37,13,Basic,East,Partner,29.23,3,76.9,0,345.17
+C01689,63,3,Basic,North,Social,26.34,2,42.6,0,300.33
+C01690,22,55,Pro,South,Partner,86.5,2,56.5,0,1031.63
+C01691,55,26,Basic,North,Organic,35.33,3,68.9,0,417.84
+C01692,60,21,Pro,West,Paid Search,82.06,0,57.4,0,971.95
+C01693,49,45,Pro,East,Partner,74.99,1,52.3,0,892.19
+C01694,36,3,Pro,West,Referral,62.99,1,60.2,0,741.25
+C01695,25,34,Basic,West,Paid Search,25.09,2,82.5,0,298.72
+C01696,50,30,Pro,North,Paid Search,88.83,2,84.1,0,1060.31
+C01697,40,34,Basic,East,Organic,26.61,3,49.5,0,312.87
+C01698,25,8,Enterprise,North,Paid Search,193.1,3,69.8,0,2294.13
+C01699,35,58,Basic,West,Partner,30.52,2,63.9,0,363.58
+C01700,64,15,Basic,West,Organic,32.44,1,48.9,0,377.41
+C01701,30,41,Basic,East,Social,28.54,3,56.9,0,337.73
+C01702,26,45,Pro,West,Paid Search,76.44,2,42.5,0,906.64
+C01703,50,21,Basic,West,Social,29.17,0,87.8,0,346.99
+C01704,27,8,Pro,West,Paid Search,75.03,3,88.4,0,892.79
+C01705,62,18,Pro,North,Social,75.37,0,61.0,0,893.01
+C01706,59,49,Pro,North,Referral,81.6,2,53.0,0,971.51
+C01707,65,55,Basic,West,Social,29.43,2,81.9,0,351.49
+C01708,61,57,Basic,South,Organic,33.95,1,86.7,0,405.85
+C01709,29,14,Basic,South,Partner,30.02,2,45.1,0,347.34
+C01710,28,37,Basic,North,Paid Search,31.67,3,59.5,0,374.62
+C01711,34,10,Pro,East,Paid Search,72.23,2,63.0,0,853.23
+C01712,40,43,Basic,West,Organic,30.22,3,48.9,0,356.66
+C01713,60,25,Basic,West,Social,27.32,1,72.6,0,323.76
+C01714,53,43,Basic,East,Partner,29.92,2,52.1,0,353.81
+C01715,48,42,Pro,East,Social,83.35,6,46.8,0,987.46
+C01716,60,60,Basic,East,Referral,29.12,2,62.3,0,346.92
+C01717,49,30,Pro,South,Organic,94.21,1,40.7,0,1111.25
+C01718,36,21,Basic,East,Paid Search,32.31,3,27.0,0,367.99
+C01719,37,32,Enterprise,West,Referral,217.74,1,81.6,0,2603.25
+C01720,42,10,Pro,South,Organic,83.83,2,51.4,0,984.36
+C01721,22,7,Basic,South,Social,33.09,3,98.3,0,393.02
+C01722,53,32,Basic,East,Social,25.67,2,97.5,0,306.37
+C01723,49,50,Basic,East,Referral,32.18,1,57.4,0,382.21
+C01724,53,32,Basic,North,Referral,26.7,1,100.0,0,318.83
+C01725,43,47,Basic,South,Partner,27.69,2,79.9,0,330.25
+C01726,55,11,Enterprise,East,Partner,207.94,4,49.0,0,2452.84
+C01727,63,27,Pro,East,Organic,86.79,1,22.1,0,1009.71
+C01728,45,37,Basic,East,Referral,26.32,1,77.7,0,313.3
+C01729,39,21,Pro,West,Partner,75.76,2,64.5,0,898.74
+C01730,23,1,Basic,East,Social,29.23,1,73.3,0,343.03
+C01731,55,5,Enterprise,East,Referral,196.03,2,60.1,0,2320.49
+C01732,61,56,Basic,South,Social,30.98,3,42.6,0,366.47
+C01733,51,37,Pro,South,Referral,100.72,2,56.7,0,1197.11
+C01734,59,16,Pro,West,Paid Search,81.65,0,80.0,0,972.11
+C01735,59,16,Basic,South,Referral,27.29,2,58.0,0,319.61
+C01736,56,3,Basic,East,Partner,25.99,0,61.9,0,303.24
+C01737,42,57,Basic,North,Social,28.25,4,34.2,0,332.86
+C01738,22,7,Enterprise,North,Paid Search,184.03,5,59.6,0,2176.33
+C01739,18,46,Pro,North,Paid Search,81.95,2,45.1,0,973.04
+C01740,27,15,Pro,North,Partner,81.86,4,75.6,0,972.07
+C01741,38,21,Pro,East,Partner,76.07,2,51.5,0,897.91
+C01742,53,17,Pro,East,Paid Search,91.54,3,57.0,0,1080.85
+C01743,39,50,Basic,East,Partner,27.29,3,98.8,0,326.35
+C01744,19,2,Pro,South,Organic,78.25,3,56.8,0,917.11
+C01745,28,22,Pro,East,Paid Search,83.04,2,56.5,0,982.63
+C01746,65,17,Basic,North,Social,31.07,2,74.0,0,367.21
+C01747,65,17,Pro,South,Referral,87.07,1,35.7,0,1016.77
+C01748,36,12,Basic,North,Social,29.99,1,87.3,0,355.76
+C01749,56,55,Basic,North,Paid Search,31.44,1,82.9,0,375.6
+C01750,52,23,Pro,North,Paid Search,74.8,1,74.9,0,890.54
+C01751,62,26,Basic,North,Social,31.13,4,5.0,0,342.49
+C01752,60,24,Basic,South,Social,31.1,1,61.6,0,366.74
+C01753,48,59,Basic,East,Social,32.51,1,44.4,0,385.54
+C01754,36,21,Pro,East,Paid Search,68.46,2,83.1,0,815.92
+C01755,48,21,Pro,South,Social,73.27,0,85.9,0,874.07
+C01756,33,20,Basic,North,Referral,30.91,1,72.6,0,365.69
+C01757,34,20,Basic,North,Social,22.85,4,39.5,0,263.62
+C01758,47,6,Basic,East,Social,30.14,2,89.4,0,356.99
+C01759,45,37,Enterprise,West,Referral,215.87,3,57.5,0,2572.75
+C01760,45,2,Basic,South,Paid Search,27.66,1,96.7,0,328.17
+C01761,36,14,Enterprise,North,Social,192.15,3,66.5,0,2284.11
+C01762,37,13,Enterprise,South,Referral,181.9,3,70.6,0,2164.02
+C01763,18,18,Basic,North,Referral,27.79,1,58.2,0,326.14
+C01764,46,46,Pro,North,Partner,75.89,3,85.9,0,907.49
+C01765,45,36,Pro,South,Social,74.68,2,74.3,0,890.79
+C01766,62,60,Pro,West,Organic,74.34,2,88.5,0,890.1
+C01767,42,22,Basic,East,Social,28.37,2,67.0,0,334.92
+C01768,40,56,Pro,West,Referral,77.21,4,59.2,0,921.0
+C01769,21,3,Pro,South,Organic,90.84,3,72.1,0,1073.8
+C01770,27,31,Pro,South,Paid Search,76.51,2,88.5,0,913.92
+C01771,34,48,Enterprise,South,Referral,204.48,1,83.3,0,2447.97
+C01772,36,32,Basic,North,Partner,27.66,3,64.3,0,327.23
+C01773,35,56,Pro,South,Referral,75.27,2,32.4,0,892.68
+C01774,36,19,Enterprise,South,Organic,171.87,1,79.8,0,2051.4
+C01775,54,2,Basic,South,Referral,25.35,4,35.5,0,284.2
+C01776,24,47,Basic,North,Paid Search,26.2,5,58.6,0,310.55
+C01777,33,5,Basic,East,Paid Search,29.43,0,66.0,0,344.83
+C01778,25,46,Pro,West,Partner,85.8,1,41.9,0,1018.16
+C01779,32,45,Basic,West,Social,24.85,6,62.3,0,294.62
+C01780,50,51,Pro,North,Organic,75.53,1,100.0,0,904.6
+C01781,20,29,Basic,North,Partner,25.83,2,58.7,0,304.64
+C01782,34,54,Basic,West,Referral,28.39,2,77.0,0,338.78
+C01783,19,11,Pro,West,Paid Search,85.8,1,100.0,0,1024.17
+C01784,63,27,Basic,East,Partner,27.96,2,78.7,0,332.04
+C01785,52,8,Enterprise,South,Paid Search,198.24,2,53.0,0,2342.47
+C01786,29,47,Basic,East,Partner,32.38,2,68.0,0,385.26
+C01787,27,43,Enterprise,East,Referral,206.29,1,74.2,0,2466.95
+C01788,22,49,Basic,West,Organic,27.24,2,88.4,0,325.38
+C01789,40,46,Enterprise,East,Partner,201.53,3,82.6,0,2411.8
+C01790,54,19,Pro,North,Social,73.77,0,20.9,0,852.52
+C01791,46,5,Basic,East,Referral,29.98,3,47.4,0,344.21
+C01792,60,56,Basic,West,Partner,30.2,2,62.8,1,359.55
+C01793,34,30,Basic,South,Organic,25.83,2,46.7,0,302.75
+C01794,31,6,Pro,North,Paid Search,80.11,1,5.0,0,885.3
+C01795,40,56,Pro,North,Paid Search,78.26,1,53.7,0,933.25
+C01796,27,60,Basic,West,Partner,30.26,2,63.9,0,360.61
+C01797,64,27,Basic,South,Paid Search,30.93,3,53.1,0,363.09
+C01798,26,47,Pro,East,Partner,82.02,1,49.1,0,975.5
+C01799,40,3,Pro,West,Paid Search,77.08,2,64.7,0,908.59
+C01800,43,6,Pro,North,Partner,84.9,1,71.8,0,1005.5
+C01801,20,17,Basic,North,Paid Search,26.97,3,54.0,0,314.88
+C01802,40,40,Pro,West,Referral,70.65,2,87.3,0,844.6
+C01803,39,9,Enterprise,East,Organic,148.13,1,67.0,0,1760.15
+C01804,30,3,Basic,North,Partner,28.84,4,45.2,0,328.88
+C01805,24,41,Basic,East,Organic,27.09,1,46.9,0,319.53
+C01806,20,47,Basic,North,Social,29.92,2,60.4,0,355.27
+C01807,18,45,Pro,West,Social,66.54,1,84.9,0,795.73
+C01808,41,48,Basic,West,Referral,27.5,3,48.0,0,325.07
+C01809,22,49,Enterprise,West,Social,206.49,4,70.1,0,2468.73
+C01810,64,37,Pro,South,Social,72.49,2,65.6,0,863.4
+C01811,29,32,Pro,South,Organic,81.59,6,89.9,0,974.25
+C01812,49,52,Pro,West,Partner,75.48,4,66.6,0,900.91
+C01813,50,21,Basic,East,Paid Search,28.92,1,54.1,0,339.1
+C01814,41,6,Pro,East,Social,82.76,2,76.5,0,981.33
+C01815,60,46,Basic,North,Social,31.21,2,77.1,0,371.99
+C01816,23,17,Pro,East,Social,79.58,4,53.3,0,937.4
+C01817,29,59,Enterprise,East,Referral,186.04,1,46.2,0,2221.21
+C01818,30,25,Pro,South,Organic,76.11,2,73.1,0,905.88
+C01819,24,52,Pro,West,Organic,83.03,2,65.1,0,991.17
+C01820,32,3,Basic,North,Organic,26.63,1,40.2,0,303.14
+C01821,33,40,Pro,East,Social,77.87,4,64.3,0,927.26
+C01822,54,27,Pro,West,Referral,76.56,1,55.2,0,907.42
+C01823,32,28,Pro,East,Paid Search,78.35,5,32.2,0,915.83
+C01824,60,16,Basic,North,Referral,26.66,3,56.0,0,311.52
+C01825,55,59,Basic,East,Organic,24.7,4,81.8,0,295.03
+C01826,61,24,Pro,East,Referral,82.29,1,86.5,0,981.99
+C01827,23,52,Basic,East,Referral,31.24,4,76.1,0,372.47
+C01828,65,26,Pro,South,Partner,67.67,4,64.6,1,803.28
+C01829,47,3,Pro,East,Organic,81.33,5,68.1,0,958.52
+C01830,65,53,Enterprise,South,Social,216.24,5,59.7,1,2582.88
+C01831,35,12,Basic,East,Organic,30.38,3,43.2,0,349.65
+C01832,63,17,Enterprise,East,Referral,192.37,1,50.6,0,2279.22
+C01833,46,52,Basic,East,Paid Search,26.81,1,55.7,0,318.44
+C01834,21,54,Basic,West,Partner,29.19,3,85.8,0,348.7
+C01835,37,56,Pro,West,Partner,80.57,3,80.3,0,963.75
+C01836,24,26,Basic,West,Organic,29.22,1,47.6,0,342.16
+C01837,63,46,Basic,West,Referral,28.58,0,68.9,0,340.24
+C01838,32,20,Basic,West,Referral,26.49,2,57.2,0,310.8
+C01839,28,45,Pro,North,Referral,81.67,3,59.4,0,972.67
+C01840,44,31,Pro,South,Organic,81.98,1,56.9,0,973.3
+C01841,38,4,Basic,East,Organic,29.47,4,83.9,0,347.64
+C01842,22,26,Basic,South,Referral,29.26,1,65.7,0,345.96
+C01843,57,29,Pro,East,Paid Search,89.61,2,67.7,0,1066.1
+C01844,58,16,Basic,North,Referral,27.55,3,65.8,0,323.96
+C01845,53,23,Pro,North,Organic,87.1,2,46.5,0,1026.53
+C01846,47,31,Enterprise,East,Partner,187.31,1,67.8,0,2235.25
+C01847,37,3,Pro,West,Organic,86.01,4,78.1,0,1018.6
+C01848,44,10,Enterprise,South,Partner,218.64,3,87.0,0,2608.26
+C01849,43,47,Pro,South,Social,77.15,1,46.5,0,916.96
+C01850,25,22,Pro,East,Paid Search,89.5,1,40.2,0,1051.41
+C01851,21,37,Basic,South,Organic,30.09,5,59.1,0,355.5
+C01852,30,34,Basic,North,Organic,26.96,2,82.9,0,321.01
+C01853,39,34,Pro,East,Paid Search,76.64,0,74.1,0,914.24
+C01854,25,25,Basic,West,Organic,31.63,2,75.6,0,375.05
+C01855,23,29,Enterprise,East,Social,213.7,2,40.9,0,2531.73
+C01856,58,50,Pro,West,Social,72.31,3,52.3,0,860.7
+C01857,35,58,Enterprise,East,Social,196.78,3,24.7,0,2337.55
+C01858,46,16,Basic,West,Social,29.47,3,59.6,0,345.22
+C01859,43,41,Pro,North,Referral,75.79,2,27.2,0,891.73
+C01860,53,59,Pro,North,Paid Search,93.9,4,82.7,0,1123.57
+C01861,53,1,Basic,North,Referral,29.54,1,92.4,0,349.86
+C01862,32,48,Pro,West,Paid Search,78.61,5,60.4,0,936.46
+C01863,58,30,Pro,East,Social,86.53,0,42.3,0,1022.0
+C01864,35,59,Enterprise,North,Referral,193.19,2,70.4,0,2312.11
+C01865,58,35,Pro,West,Paid Search,85.37,3,93.6,0,1020.63
+C01866,37,51,Basic,South,Partner,25.13,2,72.1,0,299.49
+C01867,23,10,Basic,East,Paid Search,27.95,3,82.1,0,330.41
+C01868,54,9,Pro,North,Paid Search,85.63,4,51.8,0,1003.61
+C01869,19,56,Basic,North,Paid Search,32.64,2,49.2,0,387.19
+C01870,55,32,Basic,South,Organic,27.21,1,64.8,0,322.27
+C01871,20,34,Basic,North,Organic,26.94,2,31.2,0,312.88
+C01872,27,11,Basic,East,Referral,30.32,1,100.0,0,360.84
+C01873,46,14,Pro,North,Social,75.06,7,56.4,0,882.57
+C01874,63,50,Basic,North,Paid Search,28.38,2,78.7,0,338.56
+C01875,37,19,Pro,East,Partner,84.54,3,54.2,0,997.74
+C01876,23,36,Basic,South,Paid Search,27.74,1,39.8,0,325.08
+C01877,29,19,Pro,East,Paid Search,66.58,2,88.2,0,793.99
+C01878,61,16,Basic,East,Organic,25.98,3,42.9,0,300.08
+C01879,52,10,Enterprise,West,Referral,199.16,1,71.9,0,2369.99
+C01880,22,56,Basic,West,Partner,24.68,1,73.5,0,294.49
+C01881,36,57,Pro,North,Paid Search,77.12,4,61.3,0,920.37
+C01882,30,7,Basic,East,Referral,25.77,1,52.7,0,298.92
+C01883,26,22,Basic,East,Referral,32.8,3,59.5,0,385.49
+C01884,58,34,Basic,East,Paid Search,34.02,3,45.8,0,399.11
+C01885,47,23,Pro,West,Partner,72.31,2,77.8,0,861.2
+C01886,26,44,Enterprise,North,Referral,203.09,1,75.7,0,2429.23
+C01887,49,16,Basic,South,Organic,26.77,1,65.6,0,315.18
+C01888,37,4,Basic,West,Referral,28.28,5,48.3,0,323.68
+C01889,20,21,Pro,West,Paid Search,90.4,1,100.0,0,1080.34
+C01890,39,36,Pro,North,Partner,76.05,1,43.9,0,900.31
+C01891,26,11,Basic,South,Paid Search,28.34,2,37.7,0,324.11
+C01892,29,49,Pro,South,Social,73.04,3,60.6,0,870.71
+C01893,60,1,Pro,North,Partner,86.24,2,59.6,0,1012.76
+C01894,52,5,Pro,North,Organic,58.38,2,82.7,0,693.38
+C01895,24,31,Basic,East,Referral,27.97,0,79.0,0,332.72
+C01896,58,31,Basic,East,Social,28.89,1,66.5,0,342.27
+C01897,45,18,Basic,East,Paid Search,27.47,2,72.5,0,324.57
+C01898,59,16,Pro,South,Partner,84.46,2,72.2,0,1002.94
+C01899,53,5,Basic,West,Partner,31.79,3,97.8,0,377.32
+C01900,34,40,Pro,East,Partner,70.08,1,70.3,0,836.03
+C01901,43,23,Pro,West,Organic,92.23,3,50.4,0,1088.38
+C01902,43,8,Pro,South,Paid Search,70.01,2,67.4,0,827.92
+C01903,52,24,Basic,North,Paid Search,31.99,0,23.5,0,365.81
+C01904,29,57,Basic,South,Paid Search,29.35,3,61.4,0,349.29
+C01905,33,16,Basic,East,Social,27.83,3,80.6,0,329.5
+C01906,29,54,Pro,South,Organic,76.41,1,76.2,0,913.7
+C01907,32,16,Enterprise,West,Referral,198.47,1,71.1,0,2364.14
+C01908,25,12,Basic,North,Social,29.48,2,75.0,0,347.88
+C01909,19,16,Enterprise,East,Social,184.35,1,84.8,0,2201.1
+C01910,63,20,Basic,South,Partner,28.46,2,88.2,0,338.28
+C01911,21,8,Basic,North,Social,27.21,1,73.6,0,320.51
+C01912,60,36,Basic,East,Referral,26.18,1,60.6,0,310.0
+C01913,18,21,Pro,West,Partner,73.83,4,20.7,0,850.06
+C01914,55,44,Basic,East,Referral,26.33,3,78.6,0,313.73
+C01915,33,30,Basic,North,Organic,28.03,1,74.8,0,332.88
+C01916,42,27,Pro,North,Organic,81.73,0,70.6,0,973.16
+C01917,31,29,Pro,South,Social,79.76,3,50.3,0,943.37
+C01918,41,10,Basic,East,Organic,33.58,2,80.4,0,396.9
+C01919,39,43,Basic,South,Paid Search,23.87,2,59.6,0,283.05
+C01920,43,7,Pro,South,Partner,81.97,1,65.4,0,968.69
+C01921,36,44,Basic,West,Referral,29.01,3,61.0,0,344.11
+C01922,43,60,Basic,North,Referral,30.89,8,59.6,0,367.13
+C01923,57,46,Pro,North,Social,83.53,2,44.5,0,991.63
+C01924,38,28,Basic,North,Partner,28.62,1,75.6,0,339.78
+C01925,35,19,Pro,West,Social,80.09,2,51.7,0,944.66
+C01926,24,53,Basic,South,Partner,27.27,1,54.3,0,323.85
+C01927,35,16,Basic,North,Social,30.42,2,79.0,0,360.11
+C01928,24,29,Basic,South,Partner,24.64,3,45.1,0,288.06
+C01929,26,47,Basic,West,Referral,30.8,4,75.0,0,366.83
+C01930,63,56,Basic,East,Social,28.95,7,55.7,0,343.45
+C01931,22,56,Basic,North,Social,27.87,1,38.0,0,329.4
+C01932,41,6,Enterprise,North,Organic,195.3,2,87.2,0,2328.99
+C01933,58,54,Pro,North,Social,77.99,3,67.3,0,931.37
+C01934,63,7,Basic,West,Partner,32.01,0,74.7,0,377.32
+C01935,25,36,Pro,North,Social,99.44,0,85.1,0,1188.34
+C01936,25,56,Pro,South,Partner,86.71,2,89.5,0,1038.04
+C01937,35,40,Pro,South,Social,75.43,2,67.4,0,899.2
+C01938,44,57,Basic,East,Paid Search,30.46,1,76.5,0,363.67
+C01939,64,21,Basic,East,Organic,30.56,0,74.3,0,362.07
+C01940,27,19,Basic,West,Organic,26.85,2,58.2,0,315.04
+C01941,25,20,Basic,South,Paid Search,26.07,3,35.1,0,299.71
+C01942,30,22,Basic,South,Paid Search,28.85,0,71.7,0,341.6
+C01943,59,41,Enterprise,South,Referral,211.86,2,87.4,0,2535.73
+C01944,19,28,Enterprise,North,Organic,173.34,2,73.9,0,2069.21
+C01945,36,45,Basic,East,Organic,27.33,2,45.9,0,322.56
+C01946,23,25,Basic,East,Referral,30.33,0,86.7,0,361.0
+C01947,25,19,Basic,South,Partner,29.1,4,54.7,0,340.06
+C01948,62,12,Pro,West,Organic,87.95,2,28.4,0,1015.05
+C01949,18,34,Pro,North,Referral,70.08,1,83.3,0,836.98
+C01950,33,54,Basic,West,Partner,34.46,6,39.9,0,406.13
+C01951,61,52,Pro,East,Partner,69.28,1,96.3,0,829.61
+C01952,47,16,Enterprise,North,Organic,166.7,5,77.5,0,1986.26
+C01953,21,29,Pro,East,Partner,78.63,1,62.1,0,934.43
+C01954,40,43,Pro,West,Organic,71.83,3,69.8,0,856.86
+C01955,64,37,Pro,South,Paid Search,78.76,1,100.0,0,942.51
+C01956,37,5,Basic,South,Paid Search,28.83,2,81.0,0,340.17
+C01957,43,36,Basic,West,Social,28.55,3,66.0,0,338.42
+C01958,43,3,Pro,North,Organic,73.68,2,100.0,0,878.27
+C01959,49,7,Basic,North,Partner,30.0,1,68.0,0,352.08
+C01960,26,40,Pro,East,Social,76.99,3,71.9,0,918.33
+C01961,58,7,Basic,West,Social,31.56,1,50.1,0,365.15
+C01962,65,21,Basic,East,Paid Search,28.58,0,39.5,0,331.68
+C01963,24,36,Basic,North,Organic,26.76,1,61.1,0,316.93
+C01964,57,40,Enterprise,East,Paid Search,172.13,2,64.7,0,2055.21
+C01965,57,27,Basic,South,Partner,28.6,5,63.6,0,337.21
+C01966,53,6,Basic,West,Organic,26.06,2,39.9,0,297.12
+C01967,35,48,Basic,East,Partner,25.87,0,79.2,0,308.68
+C01968,40,57,Pro,South,Paid Search,82.33,0,53.9,0,982.17
+C01969,58,54,Enterprise,East,Partner,170.7,3,72.3,0,2042.34
+C01970,25,45,Basic,East,Partner,32.28,1,81.9,0,385.09
+C01971,57,25,Enterprise,East,Referral,201.54,1,59.3,0,2398.75
+C01972,62,53,Basic,South,Partner,28.9,4,43.6,0,341.45
+C01973,50,30,Pro,East,Social,72.46,4,86.2,0,864.86
+C01974,34,9,Basic,North,Paid Search,30.77,0,82.8,0,364.26
+C01975,44,52,Pro,South,Referral,78.98,1,68.6,0,943.44
+C01976,20,20,Pro,South,Partner,74.66,3,87.0,0,890.11
+C01977,62,57,Pro,East,Social,80.26,0,69.4,0,959.46
+C01978,34,23,Basic,West,Referral,25.1,4,49.5,0,292.96
+C01979,20,53,Pro,West,Paid Search,68.66,1,49.0,0,817.6
+C01980,56,33,Enterprise,South,Social,181.17,1,64.2,0,2161.35
+C01981,49,29,Basic,East,Social,29.81,3,75.1,0,353.68
+C01982,47,18,Pro,North,Referral,78.98,3,85.6,0,941.04
+C01983,20,51,Pro,South,Organic,85.63,0,68.4,0,1022.89
+C01984,54,4,Basic,East,Paid Search,26.87,2,84.6,0,317.43
+C01985,48,29,Enterprise,East,Referral,208.15,0,64.4,0,2482.33
+C01986,56,23,Basic,West,Partner,28.74,4,46.7,0,334.7
+C01987,57,33,Pro,South,Partner,73.04,2,41.8,0,862.54
+C01988,28,16,Basic,West,Social,29.89,3,53.4,0,348.57
+C01989,28,40,Basic,West,Organic,28.85,4,38.4,0,337.73
+C01990,62,24,Pro,East,Referral,75.02,2,98.2,0,896.5
+C01991,43,12,Pro,North,Partner,79.27,1,73.5,0,941.02
+C01992,39,12,Pro,South,Social,78.18,2,62.4,0,923.98
+C01993,31,42,Enterprise,West,Organic,196.55,4,89.3,0,2352.53
+C01994,48,16,Basic,East,Social,28.04,1,43.9,0,325.01
+C01995,54,19,Basic,West,Organic,25.97,1,63.7,0,305.89
+C01996,18,38,Basic,West,Organic,29.17,2,98.0,0,348.42
+C01997,44,20,Basic,North,Social,27.14,2,61.6,0,319.25
+C01998,65,24,Pro,West,Partner,72.55,1,100.0,0,867.28
+C01999,31,15,Pro,South,Social,77.48,1,79.4,0,921.89
+C02000,31,21,Pro,West,Partner,83.64,2,86.2,0,997.41
+C02001,60,42,Basic,East,Partner,29.43,2,86.7,0,351.14
+C02002,20,33,Basic,South,Referral,27.77,3,62.0,0,328.35
+C02003,37,60,Pro,North,Referral,75.39,4,51.7,0,898.67
+C02004,39,47,Basic,North,Referral,30.48,2,62.0,0,362.09
+C02005,56,2,Basic,East,Paid Search,23.44,2,47.2,0,268.58
+C02006,24,23,Basic,East,Social,30.85,0,66.9,0,364.72
+C02007,38,18,Basic,East,Paid Search,24.65,3,61.9,0,289.5
+C02008,25,36,Basic,North,Partner,25.72,3,90.7,0,306.74
+C02009,55,16,Pro,East,Partner,75.75,0,78.1,0,901.48
+C02010,48,58,Basic,North,Referral,34.03,2,100.0,0,407.28
+C02011,41,18,Pro,North,Partner,89.6,2,27.3,0,1038.56
+C02012,36,32,Pro,South,Organic,83.47,1,45.3,0,987.32
+C02013,25,8,Enterprise,East,Paid Search,204.68,2,58.0,0,2423.41
+C02014,62,55,Basic,East,Referral,24.68,2,89.4,0,295.02
+C02015,49,55,Basic,West,Paid Search,29.36,4,58.1,0,348.85
+C02016,33,48,Basic,West,Social,27.73,6,31.0,0,323.98
+C02017,37,22,Basic,South,Social,27.11,4,55.8,0,317.64
+C02018,52,4,Basic,West,Partner,29.36,2,43.6,0,335.62
+C02019,52,43,Pro,North,Paid Search,76.02,1,42.3,0,901.44
+C02020,40,26,Basic,West,Organic,31.02,3,96.0,0,369.71
+C02021,32,60,Basic,South,Partner,24.51,0,62.0,0,292.12
+C02022,49,42,Basic,West,Social,29.17,3,64.9,0,346.24
+C02023,49,33,Pro,West,Referral,73.44,2,62.4,0,873.35
+C02024,46,60,Pro,East,Social,76.41,2,59.7,0,912.37
+C02025,21,49,Pro,West,Social,80.93,2,49.7,0,962.8
+C02026,40,28,Pro,North,Referral,71.94,0,62.7,0,855.15
+C02027,47,2,Pro,North,Paid Search,80.04,1,71.7,0,946.6
+C02028,63,6,Pro,East,Organic,77.66,4,84.1,0,922.32
+C02029,43,27,Basic,East,Partner,27.47,2,80.1,0,326.35
+C02030,34,34,Pro,North,Referral,76.03,3,41.3,0,897.51
+C02031,44,2,Pro,East,Organic,78.02,2,80.8,0,925.35
+C02032,26,8,Basic,North,Organic,27.22,3,70.1,0,319.55
+C02033,22,43,Pro,West,Social,79.04,0,57.4,0,941.34
+C02034,50,46,Pro,North,Paid Search,77.24,2,67.1,0,921.58
+C02035,65,2,Pro,South,Paid Search,75.14,1,75.7,0,890.01
+C02036,58,31,Basic,West,Partner,32.69,5,58.8,0,385.2
+C02037,46,5,Pro,East,Paid Search,81.62,1,74.2,0,967.17
+C02038,19,44,Enterprise,East,Social,192.91,2,49.3,0,2298.81
+C02039,65,51,Basic,East,Partner,29.34,1,99.9,0,351.0
+C02040,39,53,Basic,West,Paid Search,26.62,2,31.2,0,312.97
+C02041,31,36,Basic,South,Paid Search,27.99,2,73.8,0,332.69
+C02042,60,38,Basic,West,Social,28.26,4,66.2,0,335.06
+C02043,53,56,Enterprise,East,Referral,179.15,1,76.9,0,2144.83
+C02044,53,37,Pro,West,Social,81.45,4,48.0,0,964.68
+C02045,31,27,Basic,East,Paid Search,27.83,3,81.9,0,330.68
+C02046,65,46,Basic,North,Organic,28.18,1,64.2,0,335.0
+C02047,39,36,Enterprise,East,Social,189.95,2,43.8,0,2256.86
+C02048,43,51,Basic,West,Paid Search,35.87,5,39.4,0,422.33
+C02049,54,32,Pro,North,Social,74.81,2,66.1,0,890.25
+C02050,49,53,Basic,West,Partner,24.2,5,30.9,0,283.83
+C02051,26,3,Basic,North,Paid Search,25.29,1,96.6,0,300.13
+C02052,32,3,Pro,West,Partner,83.8,1,83.8,0,995.46
+C02053,35,6,Basic,West,Organic,32.1,4,91.1,0,380.1
+C02054,63,34,Pro,North,Paid Search,74.69,4,89.3,0,892.29
+C02055,52,43,Basic,East,Paid Search,31.97,2,58.0,0,378.89
+C02056,35,13,Pro,North,Partner,83.69,2,49.2,0,982.99
+C02057,53,10,Pro,East,Referral,77.8,1,20.5,0,888.86
+C02058,53,52,Pro,West,Partner,77.35,1,59.1,0,922.68
+C02059,36,46,Basic,North,Referral,29.42,2,94.0,0,351.55
+C02060,37,39,Pro,North,Partner,84.55,1,51.9,0,1004.43
+C02061,60,30,Enterprise,South,Organic,205.32,5,54.4,0,2440.46
+C02062,44,26,Basic,South,Partner,27.43,2,54.6,0,322.36
+C02063,25,2,Basic,North,Organic,28.6,4,66.4,0,333.33
+C02064,52,12,Pro,South,Organic,91.52,1,87.9,0,1090.33
+C02065,46,54,Basic,South,Partner,29.58,3,35.8,0,348.56
+C02066,42,21,Pro,North,Organic,84.49,4,37.1,0,987.53
+C02067,52,43,Pro,South,Partner,82.41,3,87.3,0,985.33
+C02068,61,43,Basic,North,Organic,29.63,5,70.5,0,352.1
+C02069,33,19,Pro,West,Organic,79.69,1,61.6,0,944.27
+C02070,38,13,Pro,West,Social,84.67,2,93.0,0,1009.63
+C02071,27,42,Basic,South,Organic,30.67,4,36.8,0,359.08
+C02072,49,6,Enterprise,West,Social,203.2,2,79.8,0,2419.73
+C02073,37,30,Basic,South,Paid Search,27.39,3,60.8,0,323.31
+C02074,34,54,Basic,West,Partner,29.89,1,76.3,0,356.71
+C02075,51,43,Pro,North,Social,78.58,0,27.4,0,926.69
+C02076,37,46,Basic,South,Organic,28.28,1,61.6,0,335.95
+C02077,40,5,Pro,East,Paid Search,95.93,2,76.5,0,1137.16
+C02078,39,12,Basic,North,Referral,25.43,3,60.9,0,297.43
+C02079,30,17,Pro,West,Social,85.06,2,85.3,0,1013.49
+C02080,24,18,Basic,South,Organic,27.0,1,86.8,0,320.76
+C02081,57,12,Pro,South,Organic,79.83,2,47.7,0,936.28
+C02082,22,59,Pro,South,Paid Search,95.23,0,82.0,0,1139.85
+C02083,33,10,Pro,West,Paid Search,72.92,0,51.1,0,857.35
+C02084,50,43,Enterprise,North,Paid Search,187.48,0,68.9,0,2241.08
+C02085,24,36,Pro,West,Organic,78.89,1,77.2,0,941.62
+C02086,49,37,Pro,West,Social,73.65,3,47.8,0,872.63
+C02087,53,13,Pro,West,Partner,84.59,3,75.4,0,1004.27
+C02088,49,19,Enterprise,West,Organic,190.49,5,49.4,1,2253.2
+C02089,32,37,Pro,West,Referral,83.13,2,54.1,0,987.33
+C02090,18,18,Enterprise,East,Partner,177.84,1,78.0,0,2121.76
+C02091,60,42,Basic,South,Partner,24.81,4,45.8,0,292.05
+C02092,33,3,Pro,South,Social,77.55,1,50.9,0,907.37
+C02093,56,5,Pro,West,Partner,69.09,1,83.7,0,821.1
+C02094,27,44,Basic,South,Partner,32.52,2,65.8,0,386.44
+C02095,25,38,Basic,East,Organic,25.45,3,37.3,0,297.58
+C02096,55,3,Enterprise,North,Organic,182.48,2,78.5,0,2171.03
+C02097,63,54,Basic,South,Partner,29.96,3,55.1,0,355.71
+C02098,59,1,Basic,South,Social,27.64,2,40.1,0,313.16
+C02099,54,58,Basic,South,Paid Search,25.48,0,25.4,0,299.76
+C02100,29,44,Basic,East,Partner,33.73,1,81.4,0,402.29
+C02101,61,60,Pro,East,Paid Search,72.67,2,49.4,0,866.28
+C02102,50,57,Enterprise,South,Referral,195.88,2,42.9,0,2336.4
+C02103,26,19,Enterprise,North,Partner,195.67,6,66.9,0,2326.63
+C02104,24,46,Pro,East,Partner,83.49,1,79.7,0,997.99
+C02105,59,13,Pro,North,Organic,81.92,2,50.6,0,962.99
+C02106,31,29,Basic,West,Social,27.08,3,77.5,0,321.53
+C02107,54,15,Pro,West,Social,76.94,1,100.0,0,918.87
+C02108,24,30,Basic,North,Referral,28.47,1,88.9,0,339.25
+C02109,31,53,Basic,South,Paid Search,30.74,2,84.2,0,367.16
+C02110,31,27,Enterprise,North,Referral,180.4,2,69.3,0,2151.62
+C02111,31,6,Enterprise,South,Social,231.13,0,60.5,0,2739.72
+C02112,50,20,Basic,North,Referral,27.24,4,59.0,0,319.46
+C02113,61,48,Pro,West,Organic,78.94,4,67.5,0,941.82
+C02114,61,32,Basic,North,Organic,26.31,1,44.6,0,308.56
+C02115,53,34,Basic,East,Social,25.99,2,50.9,0,306.02
+C02116,27,26,Basic,East,Partner,26.97,0,43.7,0,315.23
+C02117,64,18,Basic,North,Partner,26.75,0,72.0,0,316.33
+C02118,44,36,Pro,West,Organic,76.38,0,69.4,0,910.68
+C02119,44,38,Basic,North,Organic,26.73,1,54.9,0,316.03
+C02120,51,54,Pro,West,Paid Search,83.4,1,79.9,0,997.63
+C02121,54,38,Basic,East,Paid Search,27.18,3,44.2,0,319.25
+C02122,63,60,Enterprise,East,Paid Search,184.77,2,52.3,0,2207.7
+C02123,45,50,Pro,West,Referral,76.52,3,75.3,0,914.33
+C02124,47,5,Enterprise,South,Paid Search,214.81,4,75.8,0,2553.48
+C02125,53,24,Basic,South,Organic,29.5,3,48.5,0,344.61
+C02126,30,24,Pro,North,Referral,78.37,2,67.9,0,931.37
+C02127,32,1,Pro,West,Partner,69.94,2,50.8,1,816.46
+C02128,48,11,Basic,South,Partner,26.35,3,58.6,0,307.46
+C02129,21,46,Basic,West,Paid Search,26.03,0,70.4,0,309.98
+C02130,33,22,Basic,South,Paid Search,32.03,4,69.5,0,378.13
+C02131,52,9,Basic,West,Referral,30.23,1,71.4,0,355.83
+C02132,64,18,Basic,West,Organic,27.0,4,64.6,0,317.37
+C02133,42,17,Basic,South,Social,27.69,2,45.7,0,321.39
+C02134,37,11,Basic,South,Social,27.09,3,68.6,0,318.25
+C02135,39,7,Pro,West,Organic,73.4,3,71.4,0,868.65
+C02136,50,46,Basic,North,Social,30.07,1,77.7,0,358.52
+C02137,44,50,Basic,North,Organic,28.33,2,51.8,0,335.76
+C02138,19,30,Pro,South,Referral,92.15,2,79.6,0,1099.16
+C02139,43,37,Basic,East,Partner,31.9,3,39.6,0,373.37
+C02140,37,56,Basic,North,Paid Search,32.04,0,60.7,0,381.49
+C02141,51,51,Basic,South,Paid Search,30.56,0,63.3,0,363.72
+C02142,60,2,Basic,West,Organic,28.02,2,42.5,0,319.03
+C02143,64,58,Basic,North,Partner,30.39,2,59.1,0,361.66
+C02144,47,5,Basic,North,Organic,28.19,1,69.8,0,330.84
+C02145,35,2,Basic,South,Referral,32.78,3,31.0,0,365.21
+C02146,39,25,Enterprise,North,Paid Search,205.44,1,59.3,0,2445.16
+C02147,26,45,Enterprise,North,Social,203.18,2,34.3,0,2413.05
+C02148,62,5,Basic,North,Social,29.29,2,98.7,0,347.87
+C02149,58,18,Basic,North,Social,33.04,2,67.6,0,389.51
+C02150,58,16,Basic,West,Partner,25.67,4,62.1,0,300.95
+C02151,33,24,Pro,North,Referral,90.62,3,65.9,0,1075.96
+C02152,33,60,Pro,East,Paid Search,77.82,8,62.3,0,928.53
+C02153,59,20,Basic,East,Organic,25.74,0,84.6,0,305.86
+C02154,44,13,Basic,East,Social,27.25,1,39.4,0,313.48
+C02155,51,8,Basic,East,Paid Search,25.17,3,84.3,0,297.6
+C02156,41,12,Enterprise,South,Referral,209.41,2,85.2,0,2498.65
+C02157,39,8,Enterprise,West,Organic,182.47,2,62.9,0,2164.14
+C02158,48,35,Basic,North,Paid Search,29.39,5,56.0,0,346.45
+C02159,57,26,Pro,North,Partner,86.17,0,15.3,0,996.48
+C02160,34,30,Basic,West,Referral,27.44,2,42.9,0,320.78
+C02161,56,50,Pro,North,Referral,77.31,2,72.8,0,923.62
+C02162,29,35,Enterprise,North,Paid Search,178.25,4,80.4,0,2130.6
+C02163,37,10,Basic,North,Organic,28.1,4,72.4,0,330.43
+C02164,61,23,Basic,North,Social,34.97,2,62.7,0,412.17
+C02165,63,19,Pro,North,Referral,83.92,1,98.7,0,1002.53
+C02166,62,50,Basic,East,Paid Search,28.39,2,81.1,0,338.81
+C02167,33,19,Pro,East,Paid Search,75.13,2,57.3,0,888.36
+C02168,58,9,Basic,North,Partner,28.9,3,99.1,0,343.5
+C02169,62,45,Enterprise,West,Referral,201.07,3,43.4,0,2392.85
+C02170,64,26,Basic,North,Paid Search,28.03,2,39.0,0,325.73
+C02171,19,6,Basic,East,Social,30.23,2,56.8,0,351.27
+C02172,53,42,Basic,West,Social,26.79,2,51.1,0,316.54
+C02173,65,13,Basic,East,Organic,26.78,5,51.8,0,310.47
+C02174,54,53,Basic,South,Partner,29.86,3,75.6,0,356.12
+C02175,29,50,Pro,North,Social,71.61,5,57.4,0,852.86
+C02176,54,23,Basic,North,Referral,30.69,0,67.9,0,362.98
+C02177,23,34,Basic,West,Organic,28.97,2,65.0,0,343.21
+C02178,41,35,Basic,South,Organic,24.76,3,22.7,0,284.98
+C02179,48,40,Basic,North,Partner,29.25,1,40.2,0,343.62
+C02180,39,5,Enterprise,East,Social,172.17,3,55.4,0,2033.05
+C02181,51,20,Enterprise,East,Organic,210.04,2,49.7,0,2489.04
+C02182,29,11,Basic,North,Referral,28.42,1,62.1,0,333.04
+C02183,47,42,Pro,North,Referral,90.7,2,87.9,0,1084.55
+C02184,48,5,Pro,North,Paid Search,85.77,1,64.7,0,1012.49
+C02185,48,32,Enterprise,North,Partner,182.11,1,43.5,0,2162.08
+C02186,31,44,Basic,East,Social,24.31,2,50.5,0,287.38
+C02187,32,57,Basic,North,Paid Search,27.25,3,91.1,0,325.82
+C02188,30,18,Basic,East,Organic,26.17,1,92.1,0,311.33
+C02189,40,1,Pro,North,Paid Search,90.54,3,72.1,0,1069.43
+C02190,46,44,Pro,West,Paid Search,78.93,0,41.4,0,936.33
+C02191,35,1,Basic,East,Partner,31.17,3,67.2,0,363.61
+C02192,37,4,Basic,South,Referral,28.34,0,74.5,0,333.57
+C02193,31,60,Pro,South,Organic,77.86,6,56.4,0,928.48
+C02194,28,52,Pro,North,Paid Search,78.79,1,56.3,0,939.41
+C02195,49,43,Basic,North,Partner,31.57,2,57.8,0,374.12
+C02196,57,51,Pro,East,Referral,80.97,0,57.1,0,965.6
+C02197,31,5,Basic,North,Referral,26.55,2,44.5,0,304.21
+C02198,59,6,Basic,East,Paid Search,32.76,3,85.2,0,387.2
+C02199,45,19,Pro,South,Paid Search,77.15,2,79.0,0,918.37
+C02200,26,2,Pro,North,Organic,76.12,1,61.2,0,895.82
+C02201,35,54,Enterprise,East,Organic,153.95,0,74.0,0,1842.7
+C02202,18,4,Basic,East,Organic,30.47,5,64.6,0,354.75
+C02203,19,33,Basic,East,Partner,29.23,0,100.0,0,349.14
+C02204,34,52,Basic,North,Organic,29.23,3,76.8,0,348.62
+C02205,39,45,Basic,East,Referral,28.07,4,74.2,0,334.12
+C02206,56,15,Basic,West,Social,27.67,3,62.6,0,324.58
+C02207,24,29,Basic,South,Partner,28.14,1,58.6,0,332.07
+C02208,58,33,Basic,West,Referral,30.07,1,89.5,0,358.53
+C02209,29,47,Basic,East,Organic,30.48,0,79.1,0,363.63
+C02210,24,26,Basic,South,Referral,28.46,1,51.9,0,334.18
+C02211,51,18,Pro,West,Social,85.0,5,65.7,0,1006.54
+C02212,55,48,Basic,West,Paid Search,28.82,1,80.2,0,343.87
+C02213,47,54,Pro,North,Social,75.81,1,30.4,0,898.31
+C02214,23,30,Enterprise,West,Partner,202.16,2,48.3,1,2401.35
+C02215,23,2,Pro,North,Paid Search,70.41,4,66.2,0,829.17
+C02216,36,31,Basic,North,Organic,29.54,2,31.3,0,342.25
+C02217,39,54,Basic,North,Organic,25.42,5,28.0,0,297.74
+C02218,65,60,Pro,South,Paid Search,72.5,4,55.4,0,864.79
+C02219,31,25,Pro,West,Paid Search,66.24,1,74.4,0,788.85
+C02220,27,10,Basic,East,Partner,28.59,1,75.1,0,337.31
+C02221,63,35,Basic,East,Referral,32.73,2,90.9,0,390.38
+C02222,25,50,Pro,North,Referral,78.26,3,63.4,0,933.54
+C02223,19,57,Basic,East,Partner,30.49,2,57.7,0,362.65
+C02224,38,4,Pro,South,Partner,93.87,0,45.8,0,1095.96
+C02225,37,18,Basic,South,Partner,29.94,4,53.5,0,349.33
+C02226,47,29,Basic,South,Social,27.22,2,76.0,0,323.17
+C02227,60,6,Pro,North,Paid Search,75.03,4,72.8,0,887.68
+C02228,62,54,Basic,West,Social,29.0,1,70.5,0,345.76
+C02229,31,7,Pro,East,Referral,75.0,2,73.3,0,888.62
+C02230,65,40,Basic,South,Organic,27.71,3,83.7,0,330.27
+C02231,48,56,Basic,North,Organic,31.29,3,63.3,0,372.47
+C02232,21,42,Enterprise,West,Organic,215.34,0,91.2,0,2578.6
+C02233,63,46,Basic,South,Social,25.18,3,49.6,0,297.62
+C02234,24,16,Basic,South,Organic,27.1,1,64.8,0,318.93
+C02235,46,50,Enterprise,East,Social,191.61,2,55.8,0,2287.81
+C02236,55,26,Pro,North,Partner,82.79,2,77.5,0,986.49
+C02237,29,4,Pro,East,Referral,86.22,2,46.8,0,1005.48
+C02238,30,22,Basic,West,Social,35.27,2,58.5,0,414.58
+C02239,40,21,Basic,South,Social,27.92,1,34.4,0,321.96
+C02240,60,32,Pro,North,Social,76.37,3,72.1,0,909.76
+C02241,28,16,Basic,North,Referral,30.37,1,87.2,0,360.65
+C02242,49,28,Basic,North,Paid Search,27.42,0,83.5,0,326.32
+C02243,39,26,Pro,East,Organic,78.11,1,79.8,0,931.35
+C02244,23,20,Basic,South,Social,28.04,0,82.3,0,332.98
+C02245,52,42,Basic,North,Social,22.92,3,73.9,0,272.71
+C02246,57,19,Basic,East,Referral,29.29,1,76.4,0,346.91
+C02247,45,46,Basic,North,Organic,28.58,2,75.5,0,340.53
+C02248,26,16,Pro,South,Social,87.03,2,52.9,0,1025.78
+C02249,25,52,Enterprise,West,Paid Search,199.09,1,62.6,0,2379.99
+C02250,38,22,Basic,North,Referral,26.09,2,65.2,0,307.75
+C02251,42,3,Basic,North,Partner,28.4,0,62.3,0,331.46
+C02252,44,9,Pro,South,Organic,65.78,2,37.4,0,763.92
+C02253,29,49,Basic,East,Organic,26.19,2,43.0,0,309.2
+C02254,42,53,Pro,North,Organic,83.02,2,67.9,0,991.56
+C02255,32,13,Enterprise,West,Social,195.06,2,79.4,0,2325.49
+C02256,50,37,Pro,North,Social,84.83,5,58.2,0,1007.62
+C02257,56,35,Basic,West,Referral,24.44,3,100.0,0,291.85
+C02258,49,9,Enterprise,East,Referral,195.14,1,50.4,0,2305.38
+C02259,18,28,Basic,North,Referral,27.9,0,75.6,0,331.36
+C02260,65,42,Enterprise,North,Paid Search,214.22,2,86.0,0,2563.88
+C02261,19,59,Pro,North,Referral,83.25,0,86.1,0,996.73
+C02262,65,51,Pro,South,Paid Search,83.06,1,77.1,0,993.04
+C02263,19,6,Enterprise,South,Partner,223.54,1,84.2,0,2664.93
+C02264,42,15,Pro,East,Paid Search,76.67,3,62.9,0,906.86
+C02265,23,27,Basic,South,Partner,32.1,4,88.3,0,381.92
+C02266,22,10,Basic,East,Social,26.58,2,85.8,0,314.82
+C02267,50,35,Pro,South,Paid Search,72.17,1,51.5,0,856.35
+C02268,52,1,Pro,South,Organic,83.76,2,69.5,0,988.75
+C02269,23,7,Basic,South,Referral,25.51,3,35.7,0,288.89
+C02270,64,3,Pro,South,Organic,82.62,6,81.9,0,978.91
+C02271,33,18,Pro,West,Paid Search,79.64,2,67.8,0,944.95
+C02272,33,46,Basic,North,Partner,31.49,3,84.9,0,375.75
+C02273,32,11,Basic,South,Referral,28.86,0,66.1,0,339.28
+C02274,40,60,Basic,West,Referral,29.13,3,30.4,0,343.25
+C02275,26,17,Basic,East,Partner,30.18,0,100.0,0,359.68
+C02276,38,3,Basic,North,Organic,27.46,3,64.2,0,320.02
+C02277,28,21,Basic,West,Referral,27.36,4,43.0,0,317.07
+C02278,20,45,Basic,North,Organic,30.1,2,83.5,0,359.1
+C02279,35,7,Basic,North,Referral,28.93,3,96.6,0,343.44
+C02280,50,5,Pro,South,Paid Search,76.43,3,58.6,0,898.25
+C02281,54,51,Basic,East,Social,28.81,1,64.3,0,342.87
+C02282,34,36,Enterprise,North,Paid Search,224.39,1,70.0,0,2680.27
+C02283,33,21,Enterprise,West,Paid Search,191.95,1,47.1,0,2274.3
+C02284,55,46,Pro,North,Organic,76.02,4,48.3,0,902.82
+C02285,50,51,Enterprise,West,Organic,171.82,0,98.3,0,2058.98
+C02286,57,22,Enterprise,North,Paid Search,198.33,1,63.8,0,2361.5
+C02287,61,34,Basic,South,Paid Search,30.52,3,47.8,0,358.48
+C02288,57,1,Pro,East,Partner,84.28,6,48.3,0,977.65
+C02289,62,19,Basic,South,Social,29.25,0,86.2,0,347.64
+C02290,37,36,Pro,East,Social,85.04,2,30.4,0,999.86
+C02291,36,12,Pro,East,Social,83.62,2,68.3,0,990.56
+C02292,33,60,Basic,East,Social,31.58,3,100.0,0,377.97
+C02293,29,59,Basic,South,Referral,31.28,2,98.5,0,374.35
+C02294,53,16,Enterprise,West,Paid Search,223.99,2,73.7,0,2668.85
+C02295,52,24,Basic,East,Partner,28.61,3,84.4,0,339.93
+C02296,56,12,Basic,South,Paid Search,25.92,2,86.2,0,307.24
+C02297,26,31,Basic,East,Partner,30.54,1,63.9,0,361.47
+C02298,41,8,Basic,West,Social,30.81,1,81.7,0,364.27
+C02299,28,24,Pro,West,Organic,88.92,2,94.4,0,1062.11
+C02300,60,34,Pro,East,Partner,87.1,2,42.5,0,1029.3
+C02301,30,37,Basic,West,Social,33.51,1,75.8,0,398.71
+C02302,24,36,Basic,West,Referral,30.44,2,70.1,0,361.43
+C02303,45,14,Basic,South,Paid Search,29.53,1,67.8,0,347.75
+C02304,60,48,Basic,East,Paid Search,25.79,3,62.2,0,306.36
+C02305,61,42,Pro,North,Organic,80.95,6,59.9,0,962.79
+C02306,22,46,Pro,South,Paid Search,75.51,3,67.4,0,900.8
+C02307,33,29,Basic,West,Partner,29.49,2,83.0,0,350.78
+C02308,25,54,Pro,South,Referral,79.34,1,74.1,0,948.54
+C02309,32,24,Basic,West,Paid Search,30.09,2,61.0,0,354.51
+C02310,43,49,Pro,South,Referral,78.38,3,47.7,0,931.7
+C02311,31,13,Pro,North,Social,84.91,4,52.0,0,997.5
+C02312,21,15,Pro,North,Organic,61.79,2,68.4,0,732.66
+C02313,42,32,Pro,East,Organic,80.2,0,56.0,0,952.51
+C02314,20,34,Enterprise,South,Social,218.14,2,80.1,0,2607.77
+C02315,28,45,Basic,East,Partner,33.34,3,69.3,0,396.51
+C02316,18,18,Basic,North,Referral,30.7,1,85.4,0,364.57
+C02317,22,53,Basic,South,Social,32.91,4,49.1,0,389.68
+C02318,38,20,Pro,North,Referral,80.07,3,47.9,0,942.44
+C02319,58,33,Pro,South,Referral,79.02,3,81.3,0,943.02
+C02320,55,56,Pro,West,Paid Search,82.35,0,70.2,0,984.43
+C02321,22,33,Pro,North,Social,78.98,3,58.6,0,937.95
+C02322,19,41,Basic,East,Partner,27.18,3,73.9,0,323.33
+C02323,34,55,Pro,North,Paid Search,75.74,3,73.2,0,905.25
+C02324,49,59,Pro,East,Partner,71.97,3,40.7,0,855.93
+C02325,53,30,Basic,West,Partner,30.23,0,91.5,0,360.48
+C02326,57,26,Basic,South,Organic,29.03,0,61.0,0,342.73
+C02327,34,12,Basic,North,Organic,28.16,2,92.9,0,334.49
+C02328,26,33,Basic,East,Referral,27.69,2,41.3,0,323.96
+C02329,19,56,Pro,South,Partner,82.19,3,67.4,0,981.77
+C02330,25,30,Enterprise,West,Partner,211.42,2,60.8,0,2518.88
+C02331,21,21,Pro,West,Paid Search,71.86,0,34.4,0,841.27
+C02332,59,7,Basic,East,Social,26.01,3,73.2,0,305.74
+C02333,30,24,Pro,East,Referral,85.03,0,35.3,0,997.78
+C02334,57,15,Pro,East,Paid Search,70.31,1,61.0,0,831.83
+C02335,44,59,Basic,East,Organic,30.27,4,78.8,0,361.42
+C02336,43,32,Pro,South,Social,89.22,4,51.0,0,1056.14
+C02337,39,9,Basic,West,Partner,32.76,2,48.6,0,378.67
+C02338,57,5,Basic,South,Referral,30.71,3,75.6,0,361.11
+C02339,20,52,Basic,North,Paid Search,30.64,1,61.8,0,364.51
+C02340,22,56,Basic,East,Organic,34.22,2,57.1,0,406.86
+C02341,38,46,Enterprise,East,Organic,161.84,3,83.7,0,1936.97
+C02342,36,8,Basic,West,Organic,27.92,0,48.2,0,323.12
+C02343,44,6,Basic,South,Referral,30.97,1,58.2,0,360.69
+C02344,53,12,Basic,South,Organic,28.22,1,80.7,0,333.99
+C02345,46,46,Basic,East,Organic,31.88,1,45.1,0,376.49
+C02346,30,46,Basic,South,Paid Search,28.91,4,90.2,0,345.17
+C02347,33,51,Basic,West,Partner,29.31,2,60.3,0,348.37
+C02348,54,6,Pro,South,Referral,77.26,1,80.9,0,917.71
+C02349,27,10,Basic,West,Organic,27.79,2,78.8,0,328.23
+C02350,42,55,Pro,South,Partner,75.54,1,63.4,0,902.05
+C02351,43,56,Basic,North,Referral,29.63,2,55.9,0,352.18
+C02352,54,44,Pro,West,Organic,74.1,1,65.3,0,883.78
+C02353,52,7,Pro,East,Partner,85.02,6,68.1,0,1003.14
+C02354,40,5,Basic,East,Social,30.52,1,49.2,0,352.14
+C02355,32,4,Basic,East,Referral,31.55,1,45.5,0,362.11
+C02356,35,42,Enterprise,South,Organic,181.03,1,91.2,0,2167.59
+C02357,37,51,Basic,West,Paid Search,25.06,2,51.5,0,297.06
+C02358,28,38,Pro,South,Referral,78.97,3,68.0,0,940.97
+C02359,48,16,Basic,West,Social,35.73,6,52.6,0,415.08
+C02360,28,46,Basic,South,Social,31.94,2,61.3,0,379.26
+C02361,49,4,Pro,North,Social,75.5,0,92.3,0,899.2
+C02362,54,50,Enterprise,North,Social,205.76,5,56.6,0,2455.71
+C02363,64,54,Basic,West,Referral,30.69,1,59.9,0,365.1
+C02364,23,44,Pro,East,Partner,70.35,2,59.4,0,837.92
+C02365,54,53,Pro,South,Partner,87.66,2,55.4,0,1044.92
+C02366,22,36,Basic,West,Partner,28.61,3,50.6,0,336.91
+C02367,34,29,Basic,East,Partner,28.79,2,55.5,0,339.01
+C02368,26,20,Basic,East,Organic,29.06,5,86.3,0,344.86
+C02369,25,56,Basic,East,Social,31.66,2,76.1,0,377.86
+C02370,26,42,Pro,North,Organic,74.23,0,62.1,0,884.73
+C02371,20,12,Basic,North,Referral,25.04,1,82.7,0,296.58
+C02372,57,58,Basic,East,Referral,29.75,3,35.0,0,351.04
+C02373,20,4,Pro,North,Social,66.08,0,91.4,1,786.86
+C02374,37,36,Pro,East,Organic,77.1,3,84.0,0,920.81
+C02375,51,12,Pro,North,Referral,86.5,2,100.0,0,1032.47
+C02376,65,40,Pro,South,Paid Search,82.66,1,83.2,0,987.86
+C02377,58,25,Basic,East,Organic,31.42,1,73.4,0,372.45
+C02378,24,27,Pro,East,Paid Search,82.92,3,83.9,0,989.12
+C02379,65,41,Basic,West,Referral,34.59,1,55.4,0,409.47
+C02380,49,46,Basic,East,Social,27.64,2,57.3,0,327.79
+C02381,26,23,Basic,North,Paid Search,29.92,2,62.9,0,352.68
+C02382,39,60,Pro,West,Social,76.23,2,87.3,0,912.66
+C02383,62,30,Pro,North,Partner,85.05,1,51.5,0,1007.68
+C02384,36,10,Basic,North,Social,28.86,1,49.6,0,334.62
+C02385,26,1,Pro,West,Social,89.86,3,66.0,0,1058.31
+C02386,60,13,Pro,North,Partner,75.65,1,78.2,0,899.45
+C02387,63,42,Basic,East,Partner,32.26,3,50.0,0,380.78
+C02388,64,33,Pro,South,Organic,82.75,2,75.4,0,986.78
+C02389,63,21,Basic,West,Partner,28.92,2,87.3,0,343.75
+C02390,59,29,Enterprise,North,Organic,207.64,3,82.4,0,2481.31
+C02391,39,51,Basic,North,Partner,29.61,4,66.0,0,352.22
+C02392,27,35,Basic,South,Partner,29.83,2,62.5,0,353.19
+C02393,47,4,Basic,South,Partner,28.52,1,95.5,0,338.44
+C02394,28,3,Basic,West,Partner,27.37,1,66.3,0,320.09
+C02395,40,29,Pro,East,Paid Search,76.88,2,80.0,0,916.94
+C02396,49,25,Pro,North,Paid Search,68.36,4,93.3,0,816.24
+C02397,63,52,Basic,West,Referral,30.95,3,76.2,0,369.1
+C02398,31,35,Pro,South,Referral,71.19,0,51.0,0,844.92
+C02399,30,46,Enterprise,West,Paid Search,195.54,1,44.9,0,2329.51
+C02400,53,36,Pro,West,Referral,83.1,1,60.9,0,988.82
+C02401,18,21,Pro,North,Referral,84.3,3,74.1,0,1002.44
+C02402,45,40,Basic,East,Paid Search,24.88,2,71.6,0,295.83
+C02403,53,38,Basic,South,Partner,28.79,2,100.0,0,343.97
+C02404,44,44,Enterprise,South,Paid Search,206.32,2,71.4,0,2466.53
+C02405,36,12,Pro,South,Paid Search,79.33,1,60.4,0,937.28
+C02406,57,39,Pro,East,Referral,87.49,3,42.7,0,1035.34
+C02407,35,18,Enterprise,South,Organic,185.92,3,82.1,0,2218.72
+C02408,52,48,Basic,North,Partner,24.25,4,59.9,0,287.76
+C02409,40,48,Pro,South,Partner,84.12,2,38.4,0,997.26
+C02410,19,38,Basic,North,Social,27.75,1,66.4,0,329.43
+C02411,43,57,Basic,West,Paid Search,24.92,2,47.1,0,295.5
+C02412,20,33,Basic,East,Referral,28.63,3,54.8,0,337.41
+C02413,62,2,Basic,South,Referral,31.85,2,64.1,0,371.26
+C02414,46,37,Enterprise,South,Partner,178.89,2,48.6,0,2128.55
+C02415,35,47,Basic,North,Partner,34.42,1,57.7,0,408.53
+C02416,41,7,Pro,South,Social,73.7,1,53.3,0,865.65
+C02417,47,7,Pro,West,Social,79.55,1,53.8,1,934.64
+C02418,30,17,Pro,North,Organic,71.3,0,50.9,0,840.95
+C02419,31,51,Enterprise,North,Paid Search,199.66,2,55.8,0,2384.22
+C02420,38,32,Basic,West,Partner,28.69,1,50.8,0,337.7
+C02421,30,59,Basic,East,Referral,25.54,4,70.0,0,304.52
+C02422,54,53,Basic,North,Referral,35.56,2,67.4,0,423.54
+C02423,22,34,Basic,South,Organic,27.85,2,84.3,0,331.71
+C02424,57,41,Enterprise,East,Referral,191.13,5,90.1,0,2287.43
+C02425,34,20,Basic,South,Partner,31.25,2,75.5,0,369.95
+C02426,44,6,Basic,South,Organic,33.21,3,69.6,0,389.31
+C02427,25,24,Basic,East,Referral,31.61,2,76.6,0,374.83
+C02428,36,36,Pro,East,Social,71.41,1,73.9,0,851.9
+C02429,54,11,Pro,West,Referral,80.35,2,64.9,0,950.26
+C02430,30,14,Basic,North,Social,24.64,3,61.5,0,288.66
+C02431,24,1,Pro,South,Paid Search,84.7,2,46.6,0,985.42
+C02432,43,45,Pro,North,Organic,68.67,2,78.3,0,820.51
+C02433,25,54,Pro,East,Partner,73.92,0,67.5,0,883.21
+C02434,33,50,Basic,East,Paid Search,28.99,0,92.6,0,346.59
+C02435,39,23,Pro,South,Organic,81.81,2,79.6,0,974.7
+C02436,45,36,Basic,East,Organic,28.39,2,53.4,0,334.99
+C02437,48,58,Basic,South,Social,32.52,2,85.2,0,388.68
+C02438,50,36,Pro,North,Partner,83.57,3,18.5,0,973.81
+C02439,58,18,Pro,East,Paid Search,83.07,2,96.8,0,991.84
+C02440,21,21,Basic,South,Referral,26.15,2,41.2,0,303.25
+C02441,35,44,Pro,South,Paid Search,89.74,6,64.4,0,1068.87
+C02442,18,27,Basic,South,Organic,27.14,4,67.3,0,320.72
+C02443,18,51,Pro,West,Social,89.98,1,85.1,0,1076.57
+C02444,28,52,Enterprise,North,Social,231.19,6,50.4,0,2756.63
+C02445,46,3,Pro,South,Paid Search,82.24,1,29.5,0,942.93
+C02446,60,44,Pro,East,Paid Search,85.52,2,58.4,0,1018.39
+C02447,55,23,Pro,North,Social,59.52,0,64.3,0,706.96
+C02448,49,32,Pro,North,Referral,77.77,1,31.2,0,913.58
+C02449,55,16,Pro,East,Paid Search,85.97,3,62.8,0,1017.18
+C02450,26,23,Pro,East,Paid Search,84.84,1,47.7,0,1001.08
+C02451,58,20,Basic,East,Referral,26.17,0,79.0,0,310.46
+C02452,60,4,Pro,North,Referral,77.14,1,61.8,0,908.96
+C02453,22,47,Basic,West,Organic,23.12,1,99.3,0,276.49
+C02454,40,9,Enterprise,South,Referral,205.57,1,61.6,0,2438.78
+C02455,57,23,Basic,North,Referral,24.63,2,71.3,0,291.41
+C02456,40,12,Basic,South,Paid Search,31.62,3,58.4,0,369.15
+C02457,58,10,Pro,North,Paid Search,86.47,2,36.4,0,1004.1
+C02458,62,23,Basic,South,Referral,27.9,5,54.5,0,326.53
+C02459,40,56,Basic,South,Paid Search,30.21,3,74.8,0,360.41
+C02460,20,57,Pro,South,Social,77.63,1,76.2,0,928.53
+C02461,34,23,Basic,South,Referral,29.56,2,59.0,0,347.73
+C02462,28,31,Basic,West,Referral,26.34,0,43.2,0,308.71
+C02463,40,60,Pro,West,Paid Search,82.93,4,71.0,0,991.3
+C02464,46,15,Basic,South,Social,25.19,5,65.1,0,295.49
+C02465,40,57,Basic,West,Organic,24.75,0,82.3,0,295.77
+C02466,27,7,Basic,West,Referral,28.72,3,57.3,0,333.77
+C02467,32,14,Basic,West,Organic,28.51,6,27.4,0,319.7
+C02468,50,21,Basic,North,Partner,29.63,3,71.1,0,350.1
+C02469,19,3,Basic,South,Paid Search,27.49,2,63.8,0,320.59
+C02470,28,49,Pro,South,Paid Search,90.92,2,87.7,0,1087.78
+C02471,60,52,Pro,North,Organic,80.02,4,60.5,0,954.15
+C02472,22,24,Basic,North,Partner,29.54,1,65.2,0,348.93
+C02473,37,51,Basic,East,Paid Search,29.46,2,71.1,0,351.02
+C02474,27,47,Enterprise,South,Paid Search,214.97,1,55.9,0,2566.24
+C02475,23,49,Pro,West,Social,82.64,3,51.0,0,983.16
+C02476,38,49,Basic,East,Organic,30.03,1,64.3,0,357.24
+C02477,43,35,Basic,North,Referral,30.71,5,42.4,0,359.07
+C02478,26,7,Basic,West,Organic,24.77,2,60.1,0,288.84
+C02479,21,56,Pro,South,Organic,67.71,2,97.0,0,810.95
+C02480,24,37,Enterprise,East,Organic,197.79,3,79.7,0,2364.75
+C02481,49,55,Enterprise,West,Organic,195.85,0,73.2,0,2344.24
+C02482,59,58,Basic,East,Social,30.35,4,86.4,0,362.69
+C02483,26,12,Basic,North,Referral,29.05,2,50.0,0,337.12
+C02484,33,25,Basic,North,Social,30.35,3,100.0,0,361.93
+C02485,34,12,Basic,South,Paid Search,26.11,2,56.2,0,304.6
+C02486,35,4,Basic,North,Partner,28.98,2,98.1,0,344.04
+C02487,29,58,Pro,North,Organic,70.52,0,100.0,0,844.9
+C02488,20,56,Basic,West,Organic,29.9,1,36.2,0,353.11
+C02489,43,56,Enterprise,North,Organic,169.1,3,86.9,0,2025.4
+C02490,35,54,Basic,North,Social,29.81,1,61.2,0,354.74
+C02491,34,39,Basic,East,Partner,25.59,2,54.3,0,302.43
+C02492,30,32,Pro,North,Partner,76.58,1,74.9,0,913.18
+C02493,62,60,Pro,South,Social,84.66,1,48.9,0,1009.35
+C02494,47,34,Basic,West,Paid Search,29.53,3,70.5,0,350.35
+C02495,38,39,Pro,East,Partner,68.6,0,52.0,0,815.26
+C02496,27,13,Basic,West,Referral,27.44,4,63.0,0,321.33
+C02497,56,45,Basic,South,Referral,25.52,2,86.7,0,304.61
+C02498,60,50,Basic,East,Partner,25.07,3,68.6,0,298.42
+C02499,19,41,Basic,North,Referral,29.27,4,53.9,0,345.76
+C02500,62,30,Pro,South,Organic,82.54,2,73.2,0,983.37
